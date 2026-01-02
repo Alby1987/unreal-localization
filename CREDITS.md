@@ -5,7 +5,7 @@
 * **Smirftsch:** Initial project coordination.
 * **Victor Delacroix:** Early project coordination.
 * **Hellkeeper:** Early project coordination.
-* **Neon_Knight:** Current project coordination.
+* **Neon_Knight:** Former project coordination.
 * **Buggie:** Localization templates for all 15 languages.
 
 ### Language-specific
