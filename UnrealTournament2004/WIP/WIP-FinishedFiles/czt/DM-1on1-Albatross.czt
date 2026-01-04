@@ -6,52 +6,53 @@ Title="Albatros"
 ; EN: Title="Albatross"
 Title="Albatros"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="Uit de oudheid van het toernooi komt een klassieke 1-op-1 arena, gerenoveerd en opnieuw ontworpen om opnieuw te bemiddelen in het lot van bloedvergieten. Laat u niet misleiden door zijn ogenschijnlijke eenvoud. Degenen die subtiel design begrijpen, zullen altijd domineren in deze arena."
+Description="Z dávných dob turnaje pochází klasická aréna 1 na 1, zrekonstruovaná a předělaná, aby znovu zprostředkovala osud krveprolití. Nenechte se zmást jeho zdánlivou jednoduchostí. Ti, kteří rozumí jemnému designu, budou v této aréně vždy dominovat."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
-LocationName="Lagere stroom"
+LocationName="Dolní proud"
 
 [Volume2]
 ; EN: LocationName="Small Canyon"
-LocationName="Kleine kloof"
+LocationName="Malý kaňon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio-ruïnes"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruiny minigunu"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
-LocationName="Bruggebied"
+LocationName="Oblast mostu"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Lager standbeeld"
+; EN: LocationName="Lower Courtyard"
+LocationName="Dolní nádvoří"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Minigun-lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Výtah šokové pušky"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
-LocationName="Albatros Standbeeld"
+LocationName="Socha Albatrosa"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName="Mimo"
 
 [ZoneInfo1]
-LocationName="Rocket Launcher Hall"
+; EN: LocationName="Rocket Launcher Hall"
+LocationName="Síň raketometů"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
-LocationName="binnenkant"
+LocationName="uvnitř"
 
 [ZoneInfo3]
 ; EN: LocationName="inside"
-LocationName="binnenkant"
+LocationName="uvnitř"
 
 [ZoneInfo4]
 ; EN: LocationName="inside"
-LocationName="binnenkant"
+LocationName="uvnitř"
 

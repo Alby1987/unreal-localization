@@ -1,58 +1,58 @@
 [LevelInfo0]
 ; EN: Title="Albatross"
-Title="Albatros"
+Title="Albatro"
 
 [LevelSummary]
 ; EN: Title="Albatross"
-Title="Albatros"
+Title="Albatro"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="Des dels dies antics del Torneig arriba un clàssic escenari 1 contra 1, renovat i redissenyat per mediar una vegada més en el destí del vessament de sang. No us deixeu enganyar per la seva ostensible simplicitat. Els que entenen el disseny subtil sempre dominaran en aquest àmbit."
+Description="Ecco una classica arena 1-1 che risale ai tempi antichi del Torneo, rinnovata e riprogettata per nuovi spargimenti di sangue. Non farti ingannare dalla sua apparente semplicità: chi capisce le sottigliezze dell'architettura può dominare in questa arena."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
-LocationName="Corrent inferior"
+LocationName="Corso d'acqua inferiore"
 
 [Volume2]
 ; EN: LocationName="Small Canyon"
-LocationName="Canó petit"
+LocationName="Piccolo canyon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Ruïnes Bio"
+; EN: LocationName="Minigun Ruins"
+LocationName="Rovine mitragliatrice"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
-LocationName="Zona del pont"
+LocationName="Zona del ponte"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Estàtua inferior"
+; EN: LocationName="Lower Courtyard"
+LocationName="Cortile inferiore"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Ascensor Minigun"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Sollevamento fucile a scossa"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
-LocationName="Estàtua Albatros"
+LocationName="Statua dell'albatro"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Fora"
+LocationName="Esterno"
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Hall"
-LocationName="Sala de llançadores de coets"
+LocationName="Sala del lanciarazzi"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
-LocationName="dins"
+LocationName="interno"
 
 [ZoneInfo3]
 ; EN: LocationName="inside"
-LocationName="dins"
+LocationName="interno"
 
 [ZoneInfo4]
 ; EN: LocationName="inside"
-LocationName="dins"
+LocationName="interno"
 
