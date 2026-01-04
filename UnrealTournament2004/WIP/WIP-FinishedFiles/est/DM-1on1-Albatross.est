@@ -1,57 +1,58 @@
 [LevelInfo0]
 ; EN: Title="Albatross"
-Title="Albatrosz"
+Title="Albatros"
 
 [LevelSummary]
 ; EN: Title="Albatross"
-Title="Albatrosz"
+Title="Albatros"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="A Verseny ősi napjaiból származik egy klasszikus 1-1 aréna, amelyet felújítottak és újraterveztek, hogy ismét közvetítsen a vérontás sorsában. Ne tévesszen meg látszólagos egyszerűsége. Azok, akik értik a finom tervezést, mindig dominálnak ezen a téren."
+Description="Desde los antiguos días del Torneo llega un estadio clásico 1 contra 1, renovado y rediseñado para volver a acoger derramamientos de sangre. No te dejes engañar por su sencillez manifiesta, ya que quienes entiendan la sutileza de su diseño siempre dominarán en este estadio."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
-LocationName="Alsó patak"
+LocationName="Corriente inferior"
 
 [Volume2]
 ; EN: LocationName="Small Canyon"
-LocationName="Kis kanyon"
+LocationName="Cañón pequeño"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio romok"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruinas de Minipistola"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
-LocationName="Híd környéke"
+LocationName="Zona de puente"
 
 [Volume5]
 ; EN: LocationName="Lower Statue"
-LocationName="Alsó szobor"
+LocationName="Estatua inferior"
 
 [Volume6]
-LocationName="Minigun Lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Suspensor de Rifle de Choque"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
-LocationName="Albatrosz szobor"
+LocationName="Estatua de albatros"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName="Exteriores"
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Hall"
-LocationName="Rakétavető Csarnok"
+LocationName="Cámara de Lanzacohetes"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
-LocationName="belül"
+LocationName="dentro"
 
 [ZoneInfo3]
 ; EN: LocationName="inside"
-LocationName="belül"
+LocationName="dentro"
 
 [ZoneInfo4]
 ; EN: LocationName="inside"
-LocationName="belül"
+LocationName="dentro"
 
