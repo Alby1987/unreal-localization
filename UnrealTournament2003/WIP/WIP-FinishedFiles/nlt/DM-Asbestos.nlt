@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Asbestos"
+Title="Asbest"
+
+[LevelSummary]
+; EN: Title="Asbestos"
+Title="Asbest"
+
+[Trigger0]
+; EN: Message="0wnage"
+Message="0wnage"
+
+[Trigger1]
+; EN: Message="0wnage"
+Message="0wnage"
+
+[ZoneInfo0]
+; EN: LocationName="Lightning Gun"
+LocationName="Lynpistol"
+
+[ZoneInfo10]
+; EN: LocationName="Small Pool"
+LocationName="Liten dam"
+
+[ZoneInfo13]
+; EN: LocationName="Link Gun"
+LocationName="Lenkepistol"
+
+[ZoneInfo14]
+; EN: LocationName="Flak"
+LocationName="Flakkkanon"
+
+[ZoneInfo15]
+; EN: LocationName="Shock Rifle"
+LocationName="Sjokkgevær"
+
+[ZoneInfo16]
+; EN: LocationName="Flak Lift"
+LocationName="Løft fra flakkanon"
+
+[ZoneInfo17]
+; EN: LocationName="Lightning Gun"
+LocationName="Lynpistol"
+
+[ZoneInfo18]
+; EN: LocationName="Biorifle"
+LocationName="Biologisk rifle"
+
+[ZoneInfo19]
+; EN: LocationName="Double Damage"
+LocationName="Dobbel skade"
+
+[ZoneInfo2]
+; EN: LocationName="Double Damage"
+LocationName="Dobbel skade"
+
+[ZoneInfo3]
+; EN: LocationName="Lightning Gun"
+LocationName="Lynpistol"
+
+[ZoneInfo4]
+; EN: LocationName="Shock Rifle"
+LocationName="Sjokkgevær"
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage"
+LocationName="Dobbel skade"
+
+[ZoneInfo6]
+; EN: LocationName="Flak"
+LocationName="Flakkkanon"
+
+[ZoneInfo7]
+; EN: LocationName="Double Damage Lift"
+LocationName="Dobbel skadeløft"
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle"
+LocationName="Sjokkgevær"
+
+[ZoneInfo9]
+; EN: LocationName="Double Damage"
+LocationName="Dobbel skade"
+

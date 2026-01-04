@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Asbestos"
+Title="Amiant"
+
+[LevelSummary]
+; EN: Title="Asbestos"
+Title="Amiant"
+
+[Trigger0]
+; EN: Message="0wnage"
+Message="0wnage"
+
+[Trigger1]
+; EN: Message="0wnage"
+Message="0wnage"
+
+[ZoneInfo0]
+; EN: LocationName="Lightning Gun"
+LocationName="Arma de llamps"
+
+[ZoneInfo10]
+; EN: LocationName="Small Pool"
+LocationName="Petita Piscina"
+
+[ZoneInfo13]
+; EN: LocationName="Link Gun"
+LocationName="Pistola d'enllaç"
+
+[ZoneInfo14]
+; EN: LocationName="Flak"
+LocationName="Canó antiaeri"
+
+[ZoneInfo15]
+; EN: LocationName="Shock Rifle"
+LocationName="Rifle de xoc"
+
+[ZoneInfo16]
+; EN: LocationName="Flak Lift"
+LocationName="Elevador de canons antiaeri"
+
+[ZoneInfo17]
+; EN: LocationName="Lightning Gun"
+LocationName="Arma de llamps"
+
+[ZoneInfo18]
+; EN: LocationName="Biorifle"
+LocationName="Rifle biològic"
+
+[ZoneInfo19]
+; EN: LocationName="Double Damage"
+LocationName="Doble dany"
+
+[ZoneInfo2]
+; EN: LocationName="Double Damage"
+LocationName="Doble dany"
+
+[ZoneInfo3]
+; EN: LocationName="Lightning Gun"
+LocationName="Arma de llamps"
+
+[ZoneInfo4]
+; EN: LocationName="Shock Rifle"
+LocationName="Rifle de xoc"
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage"
+LocationName="Doble dany"
+
+[ZoneInfo6]
+; EN: LocationName="Flak"
+LocationName="Canó antiaeri"
+
+[ZoneInfo7]
+; EN: LocationName="Double Damage Lift"
+LocationName="Elevador de doble dany"
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle"
+LocationName="Rifle de xoc"
+
+[ZoneInfo9]
+; EN: LocationName="Double Damage"
+LocationName="Doble dany"
+
