@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Compressed"
+Title="compresso"
+
+[LevelSummary]
+; EN: Title="Compressed"
+Title="compresso"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Stanza nord superiore"
+
+[ZoneInfo11]
+; EN: LocationName="Stanza Flak"
+LocationName="Flak Hall"
+
+[ZoneInfo12]
+; EN: LocationName="Stanza Flak"
+LocationName="Flak Hall"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Stanza Link"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Stanza Link"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Stanza scudo inferiore"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Stanza scudo inferiore"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Stanza nord superiore"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Edificio secondario sinistro"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Corridoio a Doppio Danno"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Corridoio a Doppio Danno"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Ascensore Flak"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Stanza sud superiore"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Stanza sud superiore"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Stanza sud superiore"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Stanza scudo inferiore"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Stanza nord superiore"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Ascensore Link"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Edificio secondario destro"
+

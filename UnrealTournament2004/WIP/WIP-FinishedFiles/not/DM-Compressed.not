@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Compressed"
+Title="Komprimert"
+
+[LevelSummary]
+; EN: Title="Compressed"
+Title="Komprimert"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Øverste nordhall"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Flakkhall"
+
+[ZoneInfo12]
+; EN: LocationName="Flak Hall"
+LocationName="Flakkhall"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Linkhall"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Linkhall"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Nedre Skjoldhall"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Nedre Skjoldhall"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Øverste nordhall"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Venstre vedlegg"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Flakkheis"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Dobbel skadekorridor"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Dobbel skadekorridor"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Øverste sørhall"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Øverste sørhall"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Øverste sørhall"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Nedre Skjoldhall"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Øverste nordhall"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Linkheis"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Høyre vedlegg"
+

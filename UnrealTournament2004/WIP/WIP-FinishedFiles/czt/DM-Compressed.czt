@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Compressed"
+Title="Stlačený"
+
+[LevelSummary]
+; EN: Title="Compressed"
+Title="Stlačený"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Horní severní hala"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Flak sál"
+
+[ZoneInfo12]
+; EN: LocationName="Flak Hall"
+LocationName="Flak sál"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Linková hala"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Linková hala"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Síň Dolního štítu"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Síň Dolního štítu"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Horní severní hala"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Levá příloha"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Flak výtah"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Chodba Double Damage"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Chodba Double Damage"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Horní jižní hala"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Horní jižní hala"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Horní jižní hala"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Síň Dolního štítu"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Horní severní hala"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Linkový výtah"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Pravá příloha"
+

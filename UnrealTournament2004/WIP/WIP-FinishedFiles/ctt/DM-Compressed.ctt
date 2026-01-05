@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Compressed"
+Title="Comprimit"
+
+[LevelSummary]
+; EN: Title="Compressed"
+Title="Comprimit"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Saló Superior Nord"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Sala Antiaeris"
+
+[ZoneInfo12]
+; EN: LocationName="Flak Hall"
+LocationName="Sala Antiaeris"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Sala d'Enllaç"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Sala d'Enllaç"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Sala de l'Escut inferior"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Sala de l'Escut inferior"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Saló Superior Nord"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Annex esquerre"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Ascensor Antiaeres"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Passadís de doble dany"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Passadís de doble dany"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Saló Superior Sud"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Saló Superior Sud"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Saló Superior Sud"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Sala de l'Escut inferior"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Saló Superior Nord"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Ascensor d'enllaç"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Annex dret"
+
