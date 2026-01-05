@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="ブルーベース - 西ジェネレータ"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="ブルーベース"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="レッドベース - 東スポーン"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="ブルーベース - 西入口"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="中央 - ブルーサイド"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="中央 - レッドサイド"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="中央 - レッドサイド"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="レッドベース - 西ジェネレーター"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="レッドベース - 東入口"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="レッドベース - 東入口"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="レッドベース - 西入口"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="レッドベース"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="ブルーベース - 東スポーン"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="ブルーベース - 西スポーン"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="中央 - 東通路"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="レッド東ジェネレーター"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="中央 - ブルーサイド"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="ブルーベース - 西入口"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="ブルーベース - 東入口"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="中央 - 青側"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="中央 - 東回廊"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="青基地 - 東ジェネレーター"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="赤基地 - 西入口"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="青基地 - 東入口"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="中央 - 赤側"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="中央 - 青サイド"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="赤基地 - 西スポーン"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="中央 - 西回廊"
+

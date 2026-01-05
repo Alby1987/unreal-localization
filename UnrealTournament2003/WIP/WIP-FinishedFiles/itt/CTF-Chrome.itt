@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Generatore Blu Ovest"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Base Blu"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Punto di Rigenerazione Est Rosso"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Ingresso Blu Ovest"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Centro - Lato Blu"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Centro - Lato Rosso"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Centro - Lato Rosso"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Generatore Rosso Ovest"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Ingresso Rosso Est"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Ingresso Rosso Est"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Ingresso Rosso Ovest"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Base Rossa"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Punto di Rigenerazione Est Blu"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Punto di Rigenerazione Ovest Blu"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Centro - Corridoio Est"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Generatore Rosso Est"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Centro - Lato Blu"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Ingresso Blu Ovest"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Ingresso Blu Est"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Centro - Lato Blu"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Centro - Corridoio Est"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Generatore Blu Est"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Ingresso Rosso Ovest"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Ingresso Blu Est"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Centro - Lato Rosso"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Centro - Lato Blu"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Punto di Rigenerazione Ovest Rosso"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Centro - Corridoio Ovest"
+

@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Blå bas - Västgenerator"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Blå bas"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Röd bas - Östlig spawn"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Blå bas - Västra ingången"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mitten - Blå sida"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mitten - Röd sida"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mitten - Röd sida"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Röd bas - Västgenerator"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Röd bas - Östra ingången"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Röd bas - Östra ingången"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Röd bas - Västra ingången"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Röd bas"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Blå bas - Östlig spawn"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Blå bas - Västlig spawn"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Mitten - Östra korridoren"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Röd bas - Östra generator"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mitten - Blå sida"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Blå bas - Västra ingången"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Blå bas - Östra ingången"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mitten - Blå sida"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Mitt - Östra korridoren"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Blå bas - Östra generator"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Röd bas - Västra ingången"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Blå bas - Östra ingången"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mitten - Röd sida"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mitten - Blå sida"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Röd bas - Västlig spawn"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Mitt - Västra korridoren"
+

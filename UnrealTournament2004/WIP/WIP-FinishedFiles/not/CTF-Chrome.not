@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Blå vestgenerator"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Blå base"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Rød østgyte"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Blå vestinngang"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midt - blå side"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midt - rød side"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midt - rød side"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Rød vestgenerator"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Rød østinngang"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Rød østinngang"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Rød vestinngang"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Rød base"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Blå østgyte"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Blå vest-gyteanlegg"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Midtøsten-korridoren"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Rød øst-generator"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midtområde - blå side"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Blå vest-inngang"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Blå øst-inngang"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midt - Blå side"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Midt - Øst korridor"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Blå øst generator"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Rød vest inngang"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Blå øst inngang"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midt - Rød side"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midt - Blå side"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Rød vest-gyte"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Midt - vestkorridor"
+

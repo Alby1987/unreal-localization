@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Kék Bázis - Nyugat Generátor"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Kék Bázis"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Vörös Bázis - Keleti Ivarzás"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Kék Bázis - Nyugati Bejárat"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Középső - Kék Oldal"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Középső - Piros Oldal"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Középső - Piros "Oldal"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Vörös Bázis - Nyugati Generátor"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Vörös Bázis - Keleti Bejárat"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Vörös Bázis - Keleti Bejárat"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Vörös Bázis - Nyugati Bejárat"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Vörös Bázis"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Kék Bázis - Keleti Ivarzás"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Kék Bázis - Nyugati Ivarzás"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Középső - Keleti Folyosó"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Piros Bázis - Keleti Generátor"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Középső - Kék Oldal"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Kék Bázis - Nyugati Bejárat"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Kék Bázis - Keleti Bejárat"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Középső - Kék Oldal"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Középső - Kelet folyosó"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Kék bázis - Keleti generátor"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Piros bázis - Nyugati bejárat"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Kék bázis - Keleti bejárat"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Középső - Piros oldal"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Középső - Kék oldal"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Vörös Bázis - Nyugati Ivarzás"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Középső - Nyugati Folyosó"
+

@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Blauwe Westgenerator"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe Basis"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Rode Oostspawn"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Blauwe Westingang"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midden - Blauwe Kant"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midden - Rode Kant"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midden - Rode kant"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Rode Westgenerator"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Rode Oostingang"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Rode Oostingang"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Rode Westingang"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Rode Basis"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Blauwe Oostspawn"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Blauwe Westelijke Spawn"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Midden - Oostelijke Corridor"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Rode Oostelijke Generator"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midden - Blauwe Kant"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Blauwe Westelijke Ingang"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Blauwe Oostelijke Ingang"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midden - Blauwe Zijde"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Midden - Oostelijke Corridor"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Blauwe Oostelijke Generator"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Rode Westelijke Ingang"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Blauwe Oostelijke Ingang"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Midden - Rode kant"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Midden - Blauwe kant"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Rode westelijke spawn"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Midden - westelijke gang"
+

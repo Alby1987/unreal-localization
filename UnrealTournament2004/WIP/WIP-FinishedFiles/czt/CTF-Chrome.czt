@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title=""
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title=""
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Modrá základna - Generátor západu"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Modrá základna"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Červená základna - Východní trdliště"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Modrá základna - Západní vstup"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Střední oblast - Modrá strana"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Střední oblast - Červená strana"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Střední oblast - Červená strana"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Červená základna - Západní generátor"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Červená základna - Východní vstup"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Červená základna - Východní vstup"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Červená základna - Západní vstup"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Červená základna"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Modrá základna - Východní trdliště"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Modrá základna - Západní trdliště"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Střední oblast - Východní koridor"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Červená základna - Východní generátor"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Střední oblast - Modrá strana"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Modrá základna - Západní vstup"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Modrá základna - Východní vstup"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Střední oblast - Modrá strana"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Střední oblast - Východní koridor"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Modrá základna - Východní generátor"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Červená základna - Západní vstup"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Modrá základna - Východní vchod"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Střední oblast - Červená strana"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Střední oblast - Modrá Strana"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Červená základna - Západní trdliště"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Střední oblast - Západní koridor"
+

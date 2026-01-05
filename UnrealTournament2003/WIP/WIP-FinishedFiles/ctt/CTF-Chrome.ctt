@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Chrome"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Base Blava - Generador Oest"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Base Blava"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Base Vermella - Desenvolupament Est"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Base Blava - Entrada Oest"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mig - Costat Blau"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mig - Costat Vermell"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mig - Costat Vermell"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Base Vermella - Generador Oest"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Base Vermella - Entrada Est"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Base Vermella - Entrada Est"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Base Vermella - Entrada Oest"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Base Vermella"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Base Blava - Desenvolupament Est"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Base Blava - Desenvolupament Oest"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Mig - Corredor Est"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Base Vermella - Generador Est"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mig - Costat Blau"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Base Blava - Entrada Oest"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Base Blava - Entrada Est"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mig - Costat Blau"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Mig - Corredor Est"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Base Blava - Generador Est"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Base Vermella - Entrada Oest"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Base Blava - Entrada Est"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Mig - Costat Vermell"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Mig - Costat Blau"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Base Vermella - Desenvolupament Oest"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Mig - Corredor Oest"
+
