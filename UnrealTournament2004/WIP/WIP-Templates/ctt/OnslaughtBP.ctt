@@ -36,6 +36,12 @@ FriendlyName="Recollides de vehicles"
 ; EN: Description="Vehicles will pickup items and give them to the driver"
 Description="Els vehicles recolliran objectes i els lliuraran al conductor"
 
+[MutBonusVehicles]
+; EN: FriendlyName="Bonus Vehicles"
+FriendlyName="Vehicles de bonificació"
+; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+Description="En certs mapes oficials, substitueix certs vehicles pel Cicada, SPMA o Paladin."
+
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
 VehiclePositionString="en un SPMA"

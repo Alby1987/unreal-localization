@@ -36,6 +36,12 @@ FriendlyName="Ramassage de véhicules"
 ; EN: Description="Vehicles will pickup items and give them to the driver"
 Description="Les véhicules ramasseront les articles et les remettront au conducteur"
 
+[MutBonusVehicles]
+; EN: FriendlyName="Bonus Vehicles"
+FriendlyName="Véhicules bonus"
+; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+Description="Sur certaines cartes officielles, ce mod remplace certains véhicules par le Cicada, le SPMA ou le Paladin."
+
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
 VehiclePositionString="dans un SPMA"

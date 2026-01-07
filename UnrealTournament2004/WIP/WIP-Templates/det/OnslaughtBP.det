@@ -36,6 +36,12 @@ FriendlyName="Fahrzeugabholungen"
 ; EN: Description="Vehicles will pickup items and give them to the driver"
 Description="Fahrzeuge werden Gegenstände aufnehmen und dem Fahrer übergeben"
 
+[MutBonusVehicles]
+; EN: FriendlyName="Bonus Vehicles"
+FriendlyName="Bonusfahrzeuge"
+; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+Description="Auf bestimmten offiziellen Karten ersetzt es bestimmte Fahrzeuge durch den Cicada, SPMA oder Paladin."
+
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
 VehiclePositionString="in einem SPMA"

@@ -36,6 +36,12 @@ FriendlyName="Járműszállítók"
 ; EN: Description="Vehicles will pickup items and give them to the driver"
 Description="A járművek felveszik a tárgyakat és átadják a sofőrnek"
 
+[MutBonusVehicles]
+; EN: FriendlyName="Bonus Vehicles"
+FriendlyName="Bónusz járművek"
+; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+Description="Bizonyos hivatalos pályákon bizonyos járműveket Cicada, SPMA vagy Paladin helyettesít."
+
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
 VehiclePositionString="egy SPMA-ban"

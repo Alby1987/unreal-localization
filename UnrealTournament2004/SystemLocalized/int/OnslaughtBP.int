@@ -23,6 +23,10 @@ DeathString="%o couldn't avoid the blast from %k's Paladin."
 FriendlyName="Vehicle Pickups"
 Description="Vehicles will pickup items and give them to the driver"
 
+[MutBonusVehicles]
+FriendlyName="Bonus Vehicles"
+Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+
 [ONSArtillery]
 VehiclePositionString="in a SPMA"
 VehicleNameString="SPMA"

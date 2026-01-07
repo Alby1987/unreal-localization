@@ -36,6 +36,12 @@ FriendlyName="Fordon pickuper"
 ; EN: Description="Vehicles will pickup items and give them to the driver"
 Description="Fordon kommer att hämta föremål och ge dem till föraren"
 
+[MutBonusVehicles]
+; EN: FriendlyName="Bonus Vehicles"
+FriendlyName="Bonusfordon"
+; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
+Description="På vissa officiella kartor ersätts vissa fordon med Cicada, SPMA eller Paladin."
+
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
 VehiclePositionString="i en SPMA"
