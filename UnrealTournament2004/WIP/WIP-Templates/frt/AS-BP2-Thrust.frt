@@ -26,8 +26,8 @@ Message="1..."
 Message="Réservoirs sous pression détruits !"
 
 [DestroyableObjective_SM0]
-; EN: ObjectiveName="SAM Launcher 2"
-ObjectiveName="Lanceur SAM 2"
+; EN: ObjectiveName="SAM Launcher 1"
+ObjectiveName="Lanceur SAM 1"
 ; EN: DestructionMessage="SAM Launcher 1 Destroyed!"
 DestructionMessage="SAM Launcher 1 détruit !"
 ; EN: ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."

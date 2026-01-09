@@ -26,7 +26,8 @@ Message="1..."
 Message="Trycktankar förstörda!"
 
 [DestroyableObjective_SM0]
-ObjectiveName="SAM Launcher 2"
+; EN: ObjectiveName="SAM Launcher 1"
+ObjectiveName="SAM Launcher 1"
 ; EN: DestructionMessage="SAM Launcher 1 Destroyed!"
 DestructionMessage="SAM Launcher 1 förstört!"
 ; EN: ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."

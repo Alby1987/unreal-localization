@@ -26,8 +26,8 @@ Message="1..."
 Message="Zniszczone zbiorniki ciśnieniowe!"
 
 [DestroyableObjective_SM0]
-; EN: ObjectiveName="SAM Launcher 2"
-ObjectiveName="Wyrzutnia SAM 2"
+; EN: ObjectiveName="SAM Launcher 1"
+ObjectiveName="Wyrzutnia SAM 1"
 ; EN: DestructionMessage="SAM Launcher 1 Destroyed!"
 DestructionMessage="Wyrzutnia SAM 1 zniszczona!"
 ; EN: ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."

@@ -23,7 +23,7 @@ Message="1..."
 Message="Pressure tanks destroyed!"
 
 [DestroyableObjective_SM0]
-ObjectiveName="SAM Launcher 2"
+ObjectiveName="SAM Launcher 1"
 DestructionMessage="SAM Launcher 1 Destroyed!"
 ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."
 Objective_Info_Attacker="Destroy SAM Launcher 1"

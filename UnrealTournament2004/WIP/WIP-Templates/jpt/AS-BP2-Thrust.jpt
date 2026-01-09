@@ -26,8 +26,8 @@ Message="1..."
 Message="圧力タンクが破壊されました！"
 
 [DestroyableObjective_SM0]
-; EN: ObjectiveName="SAM Launcher 2"
-ObjectiveName="SAMランチャー2"
+; EN: ObjectiveName="SAM Launcher 1"
+ObjectiveName="SAMランチャー1"
 ; EN: DestructionMessage="SAM Launcher 1 Destroyed!"
 DestructionMessage="SAMランチャー1が破壊されました！"
 ; EN: ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."
