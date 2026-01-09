@@ -51,8 +51,8 @@ LocationName="Pasillo de Francotirador Rojo"
 LocationName="Pasillo de Francotirador Rojo"
 
 [ZoneInfo4]
-; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+; EN: LocationName="Blue respawn hall"
+LocationName="Pasillo de Reaparición Azul"
 
 [ZoneInfo40]
 ; EN: LocationName="Red snipers nest"
@@ -95,8 +95,8 @@ LocationName="Pasillo a Portería Rojo"
 LocationName="Sala de Portería Roja"
 
 [ZoneInfo5]
-; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+; EN: LocationName="Blue respawn hall"
+LocationName="Pasillo de Reaparición Azul"
 
 [ZoneInfo50]
 ; EN: LocationName="Red bomb goal hallway"
@@ -209,12 +209,4 @@ LocationName="Pasillo de Lanzacohetes Rojo"
 [ZoneInfo76]
 ; EN: LocationName="Red respawn hall"
 LocationName="Pasillo de Reaparición Rojo"
-
-[xBombDelivery0]
-; EN: ObjectiveName="BlueBombDelivery"
-ObjectiveName="Portería Azul"
-
-[xBombDelivery2]
-; EN: ObjectiveName="BlueBombDelivery"
-ObjectiveName="Portería Roja"
 

@@ -38,7 +38,7 @@ LocationName="Red sniper hall"
 LocationName="Red sniper hall"
 
 [ZoneInfo4]
-LocationName="Red respawn hall"
+LocationName="Blue respawn hall"
 
 [ZoneInfo40]
 LocationName="Red snipers nest"
@@ -71,7 +71,7 @@ LocationName="Red Bomb goal hallway"
 LocationName="Red bomb goal room"
 
 [ZoneInfo5]
-LocationName="Red respawn hall"
+LocationName="Blue respawn hall"
 
 [ZoneInfo50]
 LocationName="Red bomb goal hallway"
@@ -156,10 +156,4 @@ LocationName="Red rocket launcher hallway"
 
 [ZoneInfo76]
 LocationName="Red respawn hall"
-
-[xBombDelivery0]
-ObjectiveName="BlueBombDelivery"
-
-[xBombDelivery2]
-ObjectiveName="BlueBombDelivery"
 

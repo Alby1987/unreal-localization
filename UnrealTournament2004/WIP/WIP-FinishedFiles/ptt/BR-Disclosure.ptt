@@ -51,8 +51,8 @@ LocationName="Salão do atirador vermelho"
 LocationName="Salão do atirador vermelho"
 
 [ZoneInfo4]
-; EN: LocationName="Red respawn hall"
-LocationName="Sala de respawn vermelha"
+; EN: LocationName="Blue respawn hall"
+LocationName="Sala de respawn azul"
 
 [ZoneInfo40]
 ; EN: LocationName="Red snipers nest"
@@ -95,8 +95,8 @@ LocationName="Corredor do gol da bomba vermelha"
 LocationName="Sala do gol da bomba vermelha"
 
 [ZoneInfo5]
-; EN: LocationName="Red respawn hall"
-LocationName="Sala de respawn vermelha"
+; EN: LocationName="Blue respawn hall"
+LocationName="Sala de respawn azul"
 
 [ZoneInfo50]
 ; EN: LocationName="Red bomb goal hallway"
@@ -209,10 +209,4 @@ LocationName="Corredor do lançador de foguete vermelho"
 [ZoneInfo76]
 ; EN: LocationName="Red respawn hall"
 LocationName="Sala de respawn vermelha"
-
-[xBombDelivery0]
-ObjectiveName="BlueBombDelivery"
-
-[xBombDelivery2]
-ObjectiveName="BlueBombDelivery"
 

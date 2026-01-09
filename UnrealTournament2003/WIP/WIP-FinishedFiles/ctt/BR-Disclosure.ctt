@@ -1,212 +1,212 @@
 [LevelInfo0]
 ; EN: Title="Disclosure"
-Title="Divulgación"
+Title="Divulgació"
 
 [LevelSummary]
 ; EN: Title="Disclosure"
-Title="Divulgación"
+Title="Divulgació"
 
 [ZoneInfo0]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo1]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo2]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo3]
 ; EN: LocationName="Behind Fan"
-LocationName="Detrás del Ventilador"
+LocationName="Darrere Fan"
 
 [ZoneInfo33]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo34]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo35]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo36]
 ; EN: LocationName="Behind Fan"
-LocationName="Detrás del Ventilador"
+LocationName="Darrere Fan"
 
 [ZoneInfo37]
 ; EN: LocationName="Red sniper hall"
-LocationName="Pasillo de Francotirador Rojo"
+LocationName="Sala de franctiradors vermells"
 
 [ZoneInfo38]
 ; EN: LocationName="Red sniper hall"
-LocationName="Pasillo de Francotirador Rojo"
+LocationName="Sala de franctiradors vermells"
 
 [ZoneInfo39]
 ; EN: LocationName="Red sniper hall"
-LocationName="Pasillo de Francotirador Rojo"
+LocationName="Sala de franctiradors vermells"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue respawn hall"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Sala de reaparició blava"
 
 [ZoneInfo40]
 ; EN: LocationName="Red snipers nest"
-LocationName="Nido de Francotiradores Rojo"
+LocationName="Niu de franctiradors vermells"
 
 [ZoneInfo41]
 ; EN: LocationName="Bomb room"
-LocationName="Sala de Bomba"
+LocationName="Sala de bombes"
 
 [ZoneInfo42]
 ; EN: LocationName="Middle over bomb room"
-LocationName="Sobre la Sala de Bomba"
+LocationName="Mitjana sobre la sala de bombes"
 
 [ZoneInfo43]
 ; EN: LocationName="Back hallway"
-LocationName="Pasillo Trasero"
+LocationName="Passadís del darrere"
 
 [ZoneInfo44]
 ; EN: LocationName="Back hallway blue side"
-LocationName="Pasillo Trasero Azul"
+LocationName="Passadís posterior costat blau"
 
 [ZoneInfo45]
 ; EN: LocationName="Back hallway red side"
-LocationName="Pasillo Trasero Rojo"
+LocationName="Passadís posterior costat vermell"
 
 [ZoneInfo46]
 ; EN: LocationName="Red minigun room"
-LocationName="Sala de Ametralladora Roja"
+LocationName="Sala d'armes vermelles"
 
 [ZoneInfo47]
 ; EN: LocationName="Red Bomb goal hallway"
-LocationName="Pasillo a Portería Rojo"
+LocationName="Passadís de la porteria de la bomba vermella"
 
 [ZoneInfo48]
 ; EN: LocationName="Red Bomb goal hallway"
-LocationName="Pasillo a Portería Rojo"
+LocationName="Passadís de la porteria de la bomba vermella"
 
 [ZoneInfo49]
 ; EN: LocationName="Red bomb goal room"
-LocationName="Sala de Portería Roja"
+LocationName="Sala de gol de la bomba vermella"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue respawn hall"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Sala de reaparició blava"
 
 [ZoneInfo50]
 ; EN: LocationName="Red bomb goal hallway"
-LocationName="Pasillo a Portería Rojo"
+LocationName="Vestíbul de gol de la bomba vermella"
 
 [ZoneInfo51]
 ; EN: LocationName="Red bomb goal hallway"
-LocationName="Pasillo a Portería Rojo"
+LocationName="Vestíbul de gol de la bomba vermella"
 
 [ZoneInfo52]
 ; EN: LocationName="Red bomb goal hallway"
-LocationName="Pasillo a Portería Rojo"
+LocationName="Vestíbul de gol de la bomba vermella"
 
 [ZoneInfo53]
 ; EN: LocationName="Blue bomb goal hallway"
-LocationName="Pasillo a Portería Azul"
+LocationName="Vestíbul de gol de la bomba blava"
 
 [ZoneInfo54]
 ; EN: LocationName="Blue bomb goal hallway"
-LocationName="Pasillo a Portería Azul"
+LocationName="Vestíbul de gol de la bomba blava"
 
 [ZoneInfo55]
 ; EN: LocationName="Blue bomb goal hallway"
-LocationName="Pasillo a Portería Azul"
+LocationName="Vestíbul de gol de la bomba blava"
 
 [ZoneInfo56]
 ; EN: LocationName="Blue bomb goal hallway"
-LocationName="Pasillo a Portería Azul"
+LocationName="Vestíbul de gol de la bomba blava"
 
 [ZoneInfo57]
 ; EN: LocationName="Blue bomb goal hallway"
-LocationName="Pasillo a Portería Azul"
+LocationName="Vestíbul de gol de la bomba blava"
 
 [ZoneInfo58]
 ; EN: LocationName="Blue bomb goal room"
-LocationName="Sala de Portería Azul"
+LocationName="Sala de gol de la bomba blava"
 
 [ZoneInfo59]
 ; EN: LocationName="Blue minigun room"
-LocationName="Sala de Ametralladora Azul"
+LocationName="Sala de minigun blava"
 
 [ZoneInfo6]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
 [ZoneInfo60]
 ; EN: LocationName="Blue respawn room"
-LocationName="Sala de Reaparición Azul"
+LocationName="Sala de reaparició blava"
 
 [ZoneInfo61]
 ; EN: LocationName="Blue respawn hallway"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Passadís de respawn blau"
 
 [ZoneInfo62]
 ; EN: LocationName="Blue respawn hallway"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Passadís de respawn blau"
 
 [ZoneInfo63]
 ; EN: LocationName="Blue respawn hallway"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Passadís de respawn blau"
 
 [ZoneInfo64]
 ; EN: LocationName="Blue respawn hallway"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Passadís de respawn blau"
 
 [ZoneInfo65]
 ; EN: LocationName="Blue sniper hallway"
-LocationName="Pasillo de Francotirador Azul"
+LocationName="passadís de franctirador blau"
 
 [ZoneInfo66]
 ; EN: LocationName="Blue sniper hallway"
-LocationName="Pasillo de Francotirador Azul"
+LocationName="passadís de franctirador blau"
 
 [ZoneInfo67]
 ; EN: LocationName="Blue sniper hallway"
-LocationName="Pasillo de Francotirador Azul"
+LocationName="passadís de franctirador blau"
 
 [ZoneInfo68]
 ; EN: LocationName="Blue snipers nest"
-LocationName="Nido de Francotiradores Azul"
+LocationName="Niu de franctiradors blaus"
 
 [ZoneInfo69]
 ; EN: LocationName="Blue respawn hallway"
-LocationName="Pasillo de Reaparición Azul"
+LocationName="Passadís de respawn blau"
 
 [ZoneInfo70]
 ; EN: LocationName="Blue rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Azul"
+LocationName="Passadís del llançador de coets blau"
 
 [ZoneInfo71]
 ; EN: LocationName="Blue rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Azul"
+LocationName="Passadís del llançador de coets blau"
 
 [ZoneInfo72]
 ; EN: LocationName="Blue rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Azul"
+LocationName="Passadís del llançador de coets blau"
 
 [ZoneInfo73]
 ; EN: LocationName="Red rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Rojo"
+LocationName="Passadís del llançador de coets vermells"
 
 [ZoneInfo74]
 ; EN: LocationName="Red rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Rojo"
+LocationName="Passadís del llançador de coets vermells"
 
 [ZoneInfo75]
 ; EN: LocationName="Red rocket launcher hallway"
-LocationName="Pasillo de Lanzacohetes Rojo"
+LocationName="Passadís del llançador de coets vermells"
 
 [ZoneInfo76]
 ; EN: LocationName="Red respawn hall"
-LocationName="Pasillo de Reaparición Rojo"
+LocationName="Sala de reaparició vermella"
 
