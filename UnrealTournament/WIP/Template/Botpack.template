@@ -814,6 +814,8 @@ Titles[6]=""
 StartUpMessage=""
 ; EN: GameName="Last Man Standing"
 GameName=""
+; EN: AltStartupMessage="Last Man Standing - already in progress!"
+AltStartupMessage=""
 
 [VacuumZone]
 ; EN: DamageString="%o was depressurized"
