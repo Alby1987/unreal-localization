@@ -1,21 +1,20 @@
 ﻿[Public]
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Anti alias method used to reduce jagged edges",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Metodo anti alias per ridurre i bordi seghettati",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
-
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Modalità Illuminazione",Description="Imposta come sono illuminate le superfici della mappa e gli attori",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Metodo anti alias per ridurre i bordi seghettati",Value("Off=Disabilitato"),Value("MSAA_2x"),Value("MSAA_4x"))
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit",Value("Normal"),Value("One-X Blending"),Value("Brighter Actors"))
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Modalità Illuminazione",Description="Imposta come sono illuminate le superfici della mappa e gli attori",Value("Normal=Normale"),Value("OneXBlending=Blending a 1X"),Value("BrighterActors=Attori Più Luminosi"))
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached onto video memory.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="Se selezionato, tutte le textures verranno precaricate nella memoria video.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Detail Texturing",Description="If checked, enables Detail Texturing.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Texturing Dettagli",Description="Se selezionato, abilita il texturing dei dettagli.")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="HighDetailActors")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="High Detail Actors")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="Alto Dettaglio Attori",Description="Alto Dettaglio Attori")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Coronas,Title="Coronas",Description="Coronas")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Coronas,Title="Corone Luminose",Description="Abilita gli effetti corone luminose")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="ShinySurfaces")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="Shiny Surfaces")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Superfici Riflettenti",Description="Abilita i riflessi sulle superfici")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="VolumetricLighting")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Volumetric Lighting")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Illuminazione Volumetrica",Description="Attiva l'illuminazione volumetrica")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings",RequireRestart)

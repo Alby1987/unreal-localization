@@ -1,9 +1,11 @@
-[Public]
+﻿[Public]
 Object=(Name=VulkanDrv.VulkanRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=vulkan-1.dll)
-Preferences=(Caption="Rendering",Parent="Opzioni Avanzate")
+; EN: Preferences=(Caption="Vulkan",Parent="Rendering",Class=VulkanDrv.VulkanRenderDevice,Immediate=True)
 Preferences=(Caption="Vulkan",Parent="Rendering",Class=VulkanDrv.VulkanRenderDevice,Immediate=True)
 
 [VulkanRenderDevice]
+; EN: ClassCaption="Vulkan"
 ClassCaption="Vulkan"
-AskInstalled=Vuoi usare Vulkan?
+; EN: AskInstalled="Do you want to use Vulkan?"
+AskInstalled="Vuoi usare Vulkan?"
 AskUse=
