@@ -715,6 +715,12 @@ LabelList[60]="Gioca nella Squadra Blu"
 LabelList[61]="Gioca nella Squadra Verde"
 ; EN: LabelList[62]="Play on Gold Team"
 LabelList[62]="Gioca nella Squadra Oro"
+; EN: LabelList[63]="Toggle Scoreboard"
+LabelList[63]="Commuta Tabella Punti"
+; EN: LabelList[64]="Toggle Server Info"
+LabelList[64]="Commuta Informazioni Server"
+; EN: LabelList[65]="Toggle Objectives"
+LabelList[65]="Commuta Obiettivi"
 
 [UTInputOptionsCW]
 ; EN: InstantRocketText="Instant Rocket Fire"

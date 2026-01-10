@@ -1,6 +1,6 @@
 ﻿[Public]
 ; EN: Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=RefreshRate,Title="RefreshRate",Description="RefreshRate")
-Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=RefreshRate,Title="Velocita' di Refresh",Description="Velocita' di Refresh")
+Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=RefreshRate,Title="Velocità di Refresh",Description="Velocità di Refresh")
 ; EN: Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=DetailBias,Title="DetailBias",Description="DetailBias")
 Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=DetailBias,Title="Livello di Dettaglio",Description="Livello di Dettaglio")
 ; EN: Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=ScreenSmoothing,Title="ScreenSmoothing",Description="ScreenSmoothing")

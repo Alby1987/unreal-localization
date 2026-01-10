@@ -1,9 +1,9 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Anti alias method used to reduce jagged edges",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Metodo anti alias per ridurre i bordi seghettati",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Modalita' Illuminazione",Description="Imposta come sono illuminate le superfici della mappa e gli attori",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Modalità Illuminazione",Description="Imposta come sono illuminate le superfici della mappa e gli attori",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached onto video memory.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="Se selezionato, tutte le textures verranno precaricate nella memoria video.")
@@ -19,24 +19,24 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Supe
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Illuminazione Volumetrica",Description="Attiva l'illuminazione volumetrica")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings",RequireRestart)
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="Modalita' HDR",Description="Abilita l'uso dell'high dynamic range. Funziona solo se il monitor e' impostato all'utilizzo della modalita' HDR nelle impostazioni di Windows",RequireRestart)
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="Modalità HDR",Description="Abilita l'uso dell'high dynamic range. Funziona solo se il monitor è impostato all'utilizzo della modalità HDR nelle impostazioni di Windows",RequireRestart)
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="HDR Scale",Description="Adjust HDR brightness multiplier")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="Scala HDR",Description="Aggiusta il moltiplicatore di luminosita' dell'HDR")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="Scala HDR",Description="Aggiusta il moltiplicatore di luminosità dell'HDR")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Bloom,Title="Bloom",Description="Bloom overbright pixels")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Bloom,Title="Bloom",Description="Abilita l'effetto bloom sui pixel sovraesposti")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Bloom Amount",Description="Bloom amount")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Quantita' di Bloom Amount",Description="Indica la quantita' dell'effetto bloom")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Quantità di Bloom Amount",Description="Indica la quantità dell'effetto bloom")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Linear Brightness",Description="Adjust brightness for all pixels")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Luminosita' Lineare",Description="Imposta la luminosita' per tutti i pixel")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Luminosità Lineare",Description="Imposta la luminosità per tutti i pixel")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Contrast,Title="Contrast",Description="Adjust pixel contrast")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Contrast,Title="Contrasto",Description="Imposta il contrasto dei pixel")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Saturation,Title="Saturation",Description="Adjust how saturated the colors are")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Saturation,Title="Saturazione",Description="Imposta la saturazione dei colori")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaMode,Title="Gamma Mode",Description="Gamma calculation mode",Value("D3D9"),Value("XOpenGL"))
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaMode,Title="Modalita' Gamma",Description="Modalita' calcolo gamma",Value("D3D9"),Value("XOpenGL"))
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaMode,Title="Modalità Gamma",Description="Modalità calcolo gamma",Value("D3D9"),Value("XOpenGL"))
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffset,Title="Gamma Offset",Description="Add additional gamma")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffset,Title="Compensazione Gamma",Description="Aggiunge gamma addizionale")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetRed,Title="Gamma Offset Red",Description="Add additional red channel gamma")
@@ -47,4 +47,4 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetGreen,Title="C
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetBlue,Title="Compesazione Gamma Blu",Description="Aggiunge gamma addizionale blu")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Changes the level of detail for textures applied to distant surfaces and objects. Higher values increase the level of detail. Lower values decrease it. We recommend keeping the default setting.")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Cambia il livello di dettaglio delle texture di superfici e oggetti distanti. Valori piu' alti aumentano il livello dettaglio, valori piu' bassi lo decrementano. Raccomandiamo il valore predefinito.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Cambia il livello di dettaglio delle texture di superfici e oggetti distanti. Valori più alti aumentano il livello dettaglio, valori più bassi lo decrementano. Raccomandiamo il valore predefinito.")

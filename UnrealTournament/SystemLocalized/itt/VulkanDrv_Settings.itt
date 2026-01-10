@@ -1,8 +1,8 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Anti alias method used to reduce jagged edges",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=AntialiasMode,Title="Anti Aliasing",Description="Metodo di anti aliasing utilizzato per ridurre i bordi frastagliati.",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LightMode,Title="Modalita' Illuminazione",Description="Regola il modo in cui le superfici della mappa e gli attori vengono illuminati.",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LightMode,Title="Modalità Illuminazione",Description="Regola il modo in cui le superfici della mappa e gli attori vengono illuminati.",Value("Normal"),Value("OneXBlending"),Value("BrighterActors"))
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached onto video memory.")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=UsePrecache,Title="Precaching",Description="Se attivato, tutte le texture verranno precaricate nella memoria video.")
@@ -18,24 +18,24 @@ Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=ShinySurfaces,Title="Su
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=VolumetricLighting,Title="Illuminazione Volumetrica",Description="Illuminazione Volumetrica.")
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings")
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Hdr,Title="Modalita' HDR",Description="Abilita l’uso di HDR. Funziona solo se il monitor e' impostato in modalita' HDR nelle impostazioni dello schermo di Windows.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Hdr,Title="Modalità HDR",Description="Abilita l’uso di HDR. Funziona solo se il monitor è impostato in modalità HDR nelle impostazioni dello schermo di Windows.")
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=HdrScale,Title="HDR Scale",Description="Adjust HDR brightness multiplier")
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=HdrScale,Title="Scala HDR",Description="Regola il moltiplicatore della luminosita' HDR.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=HdrScale,Title="Scala HDR",Description="Regola il moltiplicatore della luminosità HDR.")
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Bloom,Title="Bloom",Description="Bloom overbright pixels")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Bloom,Title="Bloom",Description="Applica l’effetto bloom ai pixel sovrailluminati.")
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=BloomAmount,Title="Bloom Amount",Description="Bloom amount")
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=BloomAmount,Title="Intensita' Bloom",Description="Regola l’intensita' del bloom.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=BloomAmount,Title="Intensità Bloom",Description="Regola l’intensità del bloom.")
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LinearBrightness,Title="Linear Brightness",Description="Adjust brightness for all pixels")
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LinearBrightness,Title="Luminosita' Lineare",Description="Regola la luminosita' di tutti i pixel.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LinearBrightness,Title="Luminosità Lineare",Description="Regola la luminosità di tutti i pixel.")
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Contrast,Title="Contrast",Description="Adjust pixel contrast")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Contrast,Title="Contrasto",Description="Regola il contrasto dei pixel.")
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Saturation,Title="Saturation",Description="Adjust how saturated the colors are")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Saturation,Title="Saturazione",Description="Regola il livello di saturazione dei colori.")
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaMode,Title="Gamma Mode",Description="Gamma calculation mode",Value("D3D9"),Value("XOpenGL"))
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaMode,Title="Modalita' Gamma",Description="Modalita' di calcolo della gamma.",Value("D3D9"),Value("XOpenGL"))
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaMode,Title="Modalità Gamma",Description="Modalità di calcolo della gamma.",Value("D3D9"),Value("XOpenGL"))
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaOffset,Title="Gamma Offset",Description="Add additional gamma")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaOffset,Title="Scostamento Gamma",Description="Aggiunge un valore di gamma supplementare.")
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaOffsetRed,Title="Gamma Offset Red",Description="Add additional red channel gamma")
@@ -46,4 +46,4 @@ Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaOffsetGreen,Title=
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=GammaOffsetBlue,Title="Scostamento Gamma Blu",Description="Aggiunge gamma supplementare al canale blu.")
 
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Changes the level of detail for textures applied to distant surfaces and objects. Higher values increase the level of detail. Lower values decrease it. We recommend keeping the default setting.")
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LODBias,Title="Bias LOD Texture",Description="Modifica il livello di dettaglio delle texture applicate a superfici e oggetti distanti. Valori piu' alti aumentano il dettaglio, valori piu' bassi lo riducono. Si consiglia di mantenere l’impostazione predefinita.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LODBias,Title="Bias LOD Texture",Description="Modifica il livello di dettaglio delle texture applicate a superfici e oggetti distanti. Valori più alti aumentano il dettaglio, valori più bassi lo riducono. Si consiglia di mantenere l’impostazione predefinita.")
