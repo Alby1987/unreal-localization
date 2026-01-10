@@ -13,6 +13,8 @@ AskNgStatsText=""
 ActiveText=""
 ; EN: InactiveText="Inactive"
 InactiveText=""
+; EN: SpecsName="Spectators"
+SpecsName=""
 
 [UTBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Tournament Server Browser"
