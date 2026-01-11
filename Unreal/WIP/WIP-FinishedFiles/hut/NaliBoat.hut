@@ -13,3 +13,8 @@ LevelEnterText="Belépés a Kígyókanyonba"
 [TranslatorEvent0]
 ; EN: Message="Here lies Haith M'olner, may his soul soar high with the gods."
 Message="Itt fekszik Haith M'olner, szárnyaljon a lelke magasan az istenekkel."
+
+[RocketCan0]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Felvettél 6 Nyolcgömböt"
+
