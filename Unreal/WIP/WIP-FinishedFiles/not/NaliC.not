@@ -43,3 +43,16 @@ Hint="Gå til det høyeste tårnet og drep demonen for å få tilgang til fangeh
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message="Hva i helvete gjør du her oppe?"
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plukket opp 6 Åtte Baller"
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plukket opp 6 Åtte Baller"
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plukket opp 6 Åtte Baller"
+

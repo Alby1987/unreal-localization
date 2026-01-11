@@ -43,3 +43,16 @@ Hint="Gå till det högsta tornet och slakta demonen för att få tillgång till
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message="Vad fan gör du här uppe?"
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plockade upp 6 Åtta Bollar"
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plockade upp 6 Åtta Bollar"
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Du plockade upp 6 Åtta Bollar"
+

@@ -45,3 +45,16 @@ Hint="Menjen a legmagasabb toronyba, és ölje meg a démont, hogy hozzáférjen
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message="Mi a FENÉT csinálsz itt fent?"
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Felvettél 6 Nyolcgömböt"
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Felvettél 6 Nyolcgömböt"
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Felvettél 6 Nyolcgömböt"
+

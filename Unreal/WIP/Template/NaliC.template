@@ -45,3 +45,16 @@ Hint=""
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message=""
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage=""
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage=""
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage=""
+
