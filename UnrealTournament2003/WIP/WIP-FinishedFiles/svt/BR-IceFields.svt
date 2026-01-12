@@ -18,6 +18,14 @@ LocationName="Röd bas"
 ; EN: LocationName="Red Base Entrance"
 LocationName="Röd Basentré"
 
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="Under den röda basen"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="Under den röda basen"
+
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entré"
@@ -26,13 +34,15 @@ LocationName="Blue Base Entré"
 ; EN: LocationName="Middle Area"
 LocationName="Mellanområde"
 
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="Under den blå basen"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="Under den blå basen"
+
 [Volume9]
-; EN: LocationName="SuperShield Area"
-LocationName="SuperShield-området"
-
-[xBombDelivery0]
-ObjectiveName="RedDelivery"
-
-[xBombDelivery1]
-ObjectiveName="BlueDelivery"
+; EN: LocationName="Super Shield Area"
+LocationName="Supersköldområde"
 

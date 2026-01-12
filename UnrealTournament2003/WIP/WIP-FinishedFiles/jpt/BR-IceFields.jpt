@@ -18,6 +18,14 @@ LocationName="レッドベース"
 ; EN: LocationName="Red Base Entrance"
 LocationName="レッドベースエントランス"
 
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="レッドベースの下"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="レッドベースの下"
+
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
 LocationName="ブルーベースエントランス"
@@ -26,13 +34,15 @@ LocationName="ブルーベースエントランス"
 ; EN: LocationName="Middle Area"
 LocationName="ミドルエリア"
 
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="ブルーベースの下"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="ブルーベースの下"
+
 [Volume9]
-; EN: LocationName="SuperShield Area"
+; EN: LocationName="Super Shield Area"
 LocationName="スーパーシールドエリア"
-
-[xBombDelivery0]
-ObjectiveName="RedDelivery"
-
-[xBombDelivery1]
-ObjectiveName="BlueDelivery"
 

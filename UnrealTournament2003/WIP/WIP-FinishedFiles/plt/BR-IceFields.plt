@@ -18,6 +18,14 @@ LocationName="Czerwona podstawa"
 ; EN: LocationName="Red Base Entrance"
 LocationName="Wejście do czerwonej bazy"
 
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="Poniżej czerwonej podstawy"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="Poniżej czerwonej podstawy"
+
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
 LocationName="Wejście do niebieskiej bazy"
@@ -26,15 +34,15 @@ LocationName="Wejście do niebieskiej bazy"
 ; EN: LocationName="Middle Area"
 LocationName="Obszar środkowy"
 
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="Poniżej niebieskiej podstawy"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="Poniżej niebieskiej podstawy"
+
 [Volume9]
-; EN: LocationName="SuperShield Area"
-LocationName="Obszar SuperShield"
-
-[xBombDelivery0]
-; EN: ObjectiveName="RedDelivery"
-ObjectiveName="CzerwonyDostawa"
-
-[xBombDelivery1]
-; EN: ObjectiveName="BlueDelivery"
-ObjectiveName="Niebieski Dostawa"
+; EN: LocationName="Super Shield Area"
+LocationName="Obszar Super Shield"
 

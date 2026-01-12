@@ -18,6 +18,14 @@ LocationName="Piros alap"
 ; EN: LocationName="Red Base Entrance"
 LocationName="Red Base bejárat"
 
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="Piros alap alatt"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="Piros alap alatt"
+
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
 LocationName="Kék alapbejárat"
@@ -26,13 +34,15 @@ LocationName="Kék alapbejárat"
 ; EN: LocationName="Middle Area"
 LocationName="Középső terület"
 
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="Kék alap alatt"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="Kék alap alatt"
+
 [Volume9]
-; EN: LocationName="SuperShield Area"
-LocationName="SuperShield terület"
-
-[xBombDelivery0]
-ObjectiveName="RedDelivery"
-
-[xBombDelivery1]
-ObjectiveName="BlueDelivery"
+; EN: LocationName="Super Shield Area"
+LocationName="Szuperpajzs területe"
 
