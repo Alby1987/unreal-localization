@@ -29,8 +29,8 @@ LocationName="スモールアーマールーム"
 LocationName="ミニガンルーム"
 
 [ZoneInfo5]
-; EN: LocationName="Big Armor Room"
-LocationName="ビッグアーマールーム"
+; EN: LocationName="Double Damage Room"
+LocationName="ダブルダメージルーム"
 
 [ZoneInfo6]
 ; EN: LocationName="Lower Corridor"

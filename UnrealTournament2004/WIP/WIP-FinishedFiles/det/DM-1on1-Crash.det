@@ -1,42 +1,42 @@
 [LevelInfo0]
 ; EN: Title="Crash"
-Title="Crack"
+Title="Absturz"
 
 [LevelSummary]
 ; EN: Title="Crash"
-Title="Crack"
+Title="Absturz"
 ; EN: Description="A long time ago, in a galaxy far away a man with a pain filled heart built this complex to fight his own tournament and to meditate about his battles in the past. The Legend doesn't say if he ever found his freedom, but it seems that screams of endless sorrow from the old walls try to give an answer..."
-Description="Fa molt de temps, en una galàxia llunyana, un home amb un cor ple de dolor va construir aquest complex per lluitar contra el seu propi torneig i meditar sobre les seves batalles en el passat. La Llegenda no diu si mai va trobar la seva llibertat, però sembla que els crits de pena interminable des de les velles muralles intenten donar una resposta..."
+Description="Vor einer langen Zeit, in einer weit entfernten Galaxis, baute ein schmerzerfüllter Mann diesen Komplex, um sein eigenes Turnier auszutragen und über die Kämpfe in seiner Vergangenheit zu meditieren. Die Legende erzählt uns nicht, ob er jemals Frieden gefunden hat, aber die Wände scheinen von endlosen Todesschreien wiederzuhallen."
 
 [ZoneInfo0]
 ; EN: LocationName="Mover Corridor"
-LocationName="Corredor de mudances"
+LocationName="Mover-Korridor"
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Rifle Room"
-LocationName="Sala de Rifles Bio"
+LocationName="Bio Rifle-Raum"
 
 [ZoneInfo2]
 ; EN: LocationName="Shock Rifle Corridor"
-LocationName="Corredor de rifles de xoc"
+LocationName="Shock Rifle-Korridor"
 
 [ZoneInfo3]
 ; EN: LocationName="Small Armor Room"
-LocationName="Sala d'armadura petita"
+LocationName="Kleiner Rüstungs-Raum"
 
 [ZoneInfo4]
 ; EN: LocationName="MiniGun Room"
-LocationName="Sala de Miniguns"
+LocationName="MiniGun-Raum"
 
 [ZoneInfo5]
-; EN: LocationName="Big Armor Room"
-LocationName="Gran sala d'armadura"
+; EN: LocationName="Double Damage Room"
+LocationName="Doppelschaden-Raum"
 
 [ZoneInfo6]
 ; EN: LocationName="Lower Corridor"
-LocationName="Corredor inferior"
+LocationName="Unterer Korridor"
 
 [ZoneInfo7]
 ; EN: LocationName="Flak Room"
-LocationName="Sala Flak"
+LocationName="Flak-Raum"
 

@@ -1,42 +1,42 @@
 [LevelInfo0]
 ; EN: Title="Crash"
-Title="Absturz"
+Title="Botsing"
 
 [LevelSummary]
 ; EN: Title="Crash"
-Title="Absturz"
+Title="Botsing"
 ; EN: Description="A long time ago, in a galaxy far away a man with a pain filled heart built this complex to fight his own tournament and to meditate about his battles in the past. The Legend doesn't say if he ever found his freedom, but it seems that screams of endless sorrow from the old walls try to give an answer..."
-Description="Vor langer Zeit baute ein Mann mit einem schmerzerfüllten Herzen in einer weit entfernten Galaxis diesen Komplex, um sein eigenes Turnier zu bestreiten und über seine Kämpfe in der Vergangenheit zu meditieren. Die Legende sagt nicht, ob er jemals seine Freiheit gefunden hat, aber es scheint, dass Schreie endloser Trauer aus den alten Mauern versuchen, eine Antwort zu geben ..."
+Description="Lang geleden, in een melkwegstelsel ver weg, bouwde een man met een met pijn gevuld hart dit complex om zijn eigen toernooi te vechten en te mediteren over zijn veldslagen in het verleden. The Legend zegt niet of hij ooit zijn vrijheid heeft gevonden, maar het lijkt erop dat geschreeuw van eindeloos verdriet van de oude muren een antwoord probeert te geven..."
 
 [ZoneInfo0]
 ; EN: LocationName="Mover Corridor"
-LocationName="Umzugskorridor"
+LocationName="Verhuizer Corridor"
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Rifle Room"
-LocationName="Bio-Gewehrraum"
+LocationName="Bio-geweerkamer"
 
 [ZoneInfo2]
 ; EN: LocationName="Shock Rifle Corridor"
-LocationName="Schockgewehrkorridor"
+LocationName="Schokgeweer Gang"
 
 [ZoneInfo3]
 ; EN: LocationName="Small Armor Room"
-LocationName="Kleines Rüstungszimmer"
+LocationName="Kleine pantserkamer"
 
 [ZoneInfo4]
 ; EN: LocationName="MiniGun Room"
-LocationName="MiniGun-Raum"
+LocationName="Mini Gun-kamer"
 
 [ZoneInfo5]
-; EN: LocationName="Big Armor Room"
-LocationName="Großer Rüstungsraum"
+; EN: LocationName="Double Damage Room"
+LocationName="Kamer met Dubbele Schade"
 
 [ZoneInfo6]
 ; EN: LocationName="Lower Corridor"
-LocationName="Unterer Korridor"
+LocationName="Lagere Gang"
 
 [ZoneInfo7]
 ; EN: LocationName="Flak Room"
-LocationName="Flakraum"
+LocationName="Flak-kamer"
 

@@ -25,11 +25,12 @@ LocationName="Chockgevärskorridor"
 LocationName="Litet rustningsrum"
 
 [ZoneInfo4]
+; EN: LocationName="MiniGun Room"
 LocationName="MiniGun Room"
 
 [ZoneInfo5]
-; EN: LocationName="Big Armor Room"
-LocationName="Stort rustningsrum"
+; EN: LocationName="Double Damage Room"
+LocationName="Dubbelskada-rum"
 
 [ZoneInfo6]
 ; EN: LocationName="Lower Corridor"
