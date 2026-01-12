@@ -1,48 +1,48 @@
 [LevelInfo0]
 ; EN: Title="Ice Fields"
-Title="Campos Helados"
+Title="Isfält"
 
 [LevelSummary]
 ; EN: Title="Ice Fields"
-Title="Campos Helados"
+Title="Isfält"
 
 [Volume0]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName="Blå bas"
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Base Roja"
+LocationName="Röd bas"
 
 [Volume2]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Entrada a Base Roja"
+LocationName="Röd Basentré"
 
 [Volume3]
 ; EN: LocationName="Below Red Base"
-LocationName="Debajo de la Base Roja"
+LocationName="Under den röda basen"
 
 [Volume4]
 ; EN: LocationName="Below Red Base"
-LocationName="Debajo de la Base Roja"
+LocationName="Under den röda basen"
 
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
-LocationName="Entrada a Base Azul"
+LocationName="Blue Base Entré"
 
 [Volume6]
 ; EN: LocationName="Middle Area"
-LocationName="Área Central"
+LocationName="Mellanområde"
 
 [Volume7]
 ; EN: LocationName="Below Blue Base"
-LocationName="Debajo de la Base Azul"
+LocationName="Under den blå basen"
 
 [Volume8]
 ; EN: LocationName="Below Blue Base"
-LocationName="Debajo de la Base Azul"
+LocationName="Under den blå basen"
 
 [Volume9]
 ; EN: LocationName="Super Shield Area"
-LocationName="Área de Super Escudo"
+LocationName="Supersköldområde"
 

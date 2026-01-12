@@ -1,48 +1,48 @@
 [LevelInfo0]
 ; EN: Title="Ice Fields"
-Title="Campos Helados"
+Title="Champs de glace"
 
 [LevelSummary]
 ; EN: Title="Ice Fields"
-Title="Campos Helados"
+Title="Champs de glace"
 
 [Volume0]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName="Base Bleue"
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Base Roja"
+LocationName="Base Rouge"
 
 [Volume2]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Entrada a Base Roja"
+LocationName="Entrée Base Rouge"
 
 [Volume3]
 ; EN: LocationName="Below Red Base"
-LocationName="Debajo de la Base Roja"
+LocationName="Sous la Base Rouge"
 
 [Volume4]
 ; EN: LocationName="Below Red Base"
-LocationName="Debajo de la Base Roja"
+LocationName="Sous la Base Rouge"
 
 [Volume5]
 ; EN: LocationName="Blue Base Entrance"
-LocationName="Entrada a Base Azul"
+LocationName="Entrée Base Bleue"
 
 [Volume6]
 ; EN: LocationName="Middle Area"
-LocationName="Área Central"
+LocationName="Milieu"
 
 [Volume7]
 ; EN: LocationName="Below Blue Base"
-LocationName="Debajo de la Base Azul"
+LocationName="Sous la Base Bleue"
 
 [Volume8]
 ; EN: LocationName="Below Blue Base"
-LocationName="Debajo de la Base Azul"
+LocationName="Sous la Base Bleue"
 
 [Volume9]
 ; EN: LocationName="Super Shield Area"
-LocationName="Área de Super Escudo"
+LocationName="Espace Recharge Bouclier +100"
 

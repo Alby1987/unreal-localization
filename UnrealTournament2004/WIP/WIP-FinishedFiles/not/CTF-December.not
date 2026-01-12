@@ -1,176 +1,168 @@
 [LevelInfo0]
 ; EN: Title="December"
-Title="December"
+Title="desember"
 
 [LevelSummary]
 ; EN: Title="December"
-Title="December"
+Title="desember"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Lower Access"
-LocationName="Acceso Inferior Azul"
+LocationName="Blå nedre tilgang"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Platform"
-LocationName="Plataforma Azul"
+LocationName="Blå plattform"
 
 [ZoneInfo10]
-; EN: LocationName="Red Pipe Exit"
-LocationName="Salida de Tubería Roja"
+LocationName="Red Pipe Exit"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flag Access"
-LocationName="Acceso de Bandera Rojo"
+LocationName="Tilgang med rødt flagg"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Doors (Right)"
-LocationName="Puertas Rojas (Derecha)"
+LocationName="Røde dører (høyre)"
 
 [ZoneInfo13]
-; EN: LocationName="Red Lift 2"
-LocationName="Ascensor 2 Rojo"
+LocationName="Red Lift 2"
 
 [ZoneInfo14]
-; EN: LocationName="Blue Bunker Support Chamber"
-LocationName="Cámara Soporte de Búnker Azul"
+LocationName="Blue Bunker Support Chamber"
 
 [ZoneInfo16]
-; EN: LocationName="Red Flag Base"
-LocationName="Base de Bandera Roja"
+LocationName="Red Flag Base"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Base Superior de Bandera Roja"
+LocationName="Rød øvre flaggbase"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Corredor de Entrada Azul"
+LocationName="Blå entré"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Escaleras de Entrada Base Azul"
+LocationName="Blå inngangstrapp"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Foyer"
-LocationName="Vestíbulo Azul"
+LocationName="Blå foaje"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Lower Access"
-LocationName="Acceso Inferior Rojo"
+LocationName="Rød nedre tilgang"
 
 [ZoneInfo22]
-; EN: LocationName="Blue Junction"
-LocationName="Cruce Azul"
+LocationName="Blue Junction"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Corredor de Acceso Azul"
+LocationName="Blå Adkomsthall"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Puertas Azules (Izquierda)"
+LocationName="Blå dører (venstre)"
 
 [ZoneInfo25]
-; EN: LocationName="Blue Pipe Exit"
-LocationName="Salida de Tubería Azul"
+LocationName="Blue Pipe Exit"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Acceso de Bandera Azul"
+LocationName="Blått flagg tilgang"
 
 [ZoneInfo27]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Corredor de Entrada Rojo"
+LocationName="Rød entré"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Doors (Right)"
-LocationName="Puertas Azules (Derecha)"
+LocationName="Blå dører (høyre)"
 
 [ZoneInfo29]
 ; EN: LocationName="Blue Lift 2"
-LocationName="Ascensor 2 Azul"
+LocationName="Blå heis 2"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Escaleras de Entrada Base Roja"
+LocationName="Rød inngangstrapp"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base de Bandera Azul"
+LocationName="Base med blått flagg"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Base Superior de Bandera Azul"
+LocationName="Blå øvre flaggbase"
 
 [ZoneInfo34]
 ; EN: LocationName="Blue Bunker"
-LocationName="Búnker Azul"
+LocationName="Blå Bunker"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"
-LocationName="Búnker Azul"
+LocationName="Blå Bunker"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Lower Hallway"
-LocationName="Corredor Inferior Rojo"
+LocationName="Rød nedre gang"
 
 [ZoneInfo38]
 ; EN: LocationName="Docks"
-LocationName="Muelles"
+LocationName="Dokker"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Lift Room"
-LocationName="Sala de Ascensor Base Roja"
+LocationName="Rødt heisrom"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Foyer"
-LocationName="Vestíbulo Rojo"
+LocationName="Rød foaje"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Lower Hallway"
-LocationName="Corredor Inferior Azul"
+LocationName="Blå nedre gang"
 
 [ZoneInfo41]
 ; EN: LocationName="Red Aux. Hall"
-LocationName="Sala Auxiliar Base Roja"
+LocationName="Rød Aux. Hall"
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Lift Room"
-LocationName="Sala de Ascensor Base Azul"
+LocationName="Blå heisrom"
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Aux. Hall"
-LocationName="Sala Auxiliar Base Azul"
+LocationName="Blå Aux. Hall"
 
 [ZoneInfo44]
 ; EN: LocationName="Red Lift 1"
-LocationName="Ascensor 1 Rojo"
+LocationName="Rød løft 1"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Lift 1"
-LocationName="Ascensor 1 Azul"
+LocationName="Blå heis 1"
 
 [ZoneInfo46]
 ; EN: LocationName="Red Bunker"
-LocationName="Búnker Rojo"
+LocationName="Rød Bunker"
 
 [ZoneInfo47]
-; EN: LocationName="Red Bunker Support Chamber"
-LocationName="Cámara Soporte de Búnker Roja"
+LocationName="Red Bunker Support Chamber"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Platform"
-LocationName="Plataforma Roja"
+LocationName="Rød plattform"
 
 [ZoneInfo6]
-; EN: LocationName="Red Junction"
-LocationName="Cruce Rojo"
+LocationName="Red Junction"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Puertas Rojas (Izquierda)"
+LocationName="Røde dører (venstre)"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Access Hall"
-LocationName="Corredor de Acceso Rojo"
+LocationName="Rød adkomsthall"
 

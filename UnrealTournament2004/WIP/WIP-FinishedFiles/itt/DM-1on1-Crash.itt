@@ -1,0 +1,42 @@
+[LevelInfo0]
+; EN: Title="Crash"
+Title="Schianto"
+
+[LevelSummary]
+; EN: Title="Crash"
+Title="Schianto"
+; EN: Description="A long time ago, in a galaxy far away a man with a pain filled heart built this complex to fight his own tournament and to meditate about his battles in the past. The Legend doesn't say if he ever found his freedom, but it seems that screams of endless sorrow from the old walls try to give an answer..."
+Description="Molto tempo fa, in una galassia lontana, un uomo dal cuore dilaniato dal dolore costruì questo complesso per combattere il proprio Torneo e per meditare sulle battaglie passate. La leggenda non rivela se riuscì mai a trovare l'illuminazione, ma i vecchi muri intrisi di sofferenza cercano di dare una risposta..."
+
+[ZoneInfo0]
+; EN: LocationName="Mover Corridor"
+LocationName="Corridoio del Motore"
+
+[ZoneInfo1]
+; EN: LocationName="Bio Rifle Room"
+LocationName="Stanza del Biofucile"
+
+[ZoneInfo2]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Corridoio del Fucile Shock"
+
+[ZoneInfo3]
+; EN: LocationName="Small Armor Room"
+LocationName="Stanza della Corazza Piccola"
+
+[ZoneInfo4]
+; EN: LocationName="MiniGun Room"
+LocationName="Stanza del Minigun"
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage Room"
+LocationName="Stanza dei Doppi Danni"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Corridor"
+LocationName="Corridoio Inferiore"
+
+[ZoneInfo7]
+; EN: LocationName="Flak Room"
+LocationName="Stanza Flak"
+
