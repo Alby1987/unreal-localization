@@ -8,110 +8,111 @@ Title="Декабрь"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Lower Access"
-LocationName="Синий нижний доступ"
+LocationName="Нижний вход синих"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Platform"
-LocationName="Синяя платформа"
+LocationName="Платформа синих"
 
 [ZoneInfo10]
 ; EN: LocationName="Red Pipe Exit"
-LocationName="Выход из красной трубы"
+LocationName="Выход из трубы красных"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flag Access"
-LocationName="Доступ с красным флагом"
+LocationName="Вход к флагу красных"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Doors (Right)"
-LocationName="Красные двери (справа)"
+LocationName="Двери красных (Справа)"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Lift 2"
-LocationName="Красный Лифт 2"
+LocationName="Лифт красных 2"
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Bunker Support Chamber"
-LocationName="Камера поддержки синего бункера"
+LocationName="Комната обеспечения бункера синих"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Flag Base"
-LocationName="База Красного Флага"
+LocationName="Флаг Красной базы"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Основание красного верхнего флага"
+LocationName="Верхняя база над флагом красных"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Синий вестибюль"
+LocationName="Вестибюль синих"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Синяя входная лестница"
+LocationName="Входная лестница синих"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Foyer"
-LocationName="Голубое фойе"
+LocationName="Холл синих"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Lower Access"
-LocationName="Красный нижний доступ"
+LocationName="Нижний вход красных"
 
 [ZoneInfo22]
-LocationName="Blue Junction"
+; EN: LocationName="Blue Junction"
+LocationName="Переход синих"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Зал Blue Access"
+LocationName="Входной холл синих"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Синие двери (слева)"
+LocationName="Двери синих (Слева)"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Pipe Exit"
-LocationName="Выход из синей трубы"
+LocationName="Выход из трубы синих"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Доступ с Голубым флагом"
+LocationName="Проход к флагу синих"
 
 [ZoneInfo27]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Красный вестибюль"
+LocationName="Вестибюль красных"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Doors (Right)"
-LocationName="Синие двери (справа)"
+LocationName="Двери синих (справа)"
 
 [ZoneInfo29]
 ; EN: LocationName="Blue Lift 2"
-LocationName="Синий Лифт 2"
+LocationName="Лифт синих 2"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Красная входная лестница"
+LocationName="Входная лестница красных"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue Flag Base"
-LocationName="База Голубого флага"
+LocationName="Флаг синей базы"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="База с синим верхним флагом"
+LocationName="Верхняя база над флагом синих"
 
 [ZoneInfo34]
-; EN: LocationName="Red Bunker Entrance"
-LocationName="Красный вход в бункер"
+; EN: LocationName="Blue Bunker"
+LocationName="Бункер синих"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"
-LocationName="Синий бункер"
+LocationName="Бункер синих"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Lower Hallway"
-LocationName="Красный нижний коридор"
+LocationName="Нижний холл красных"
 
 [ZoneInfo38]
 ; EN: LocationName="Docks"
@@ -119,57 +120,57 @@ LocationName="Доки"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Lift Room"
-LocationName="Красный лифт"
+LocationName="Лифтовая красных"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Foyer"
-LocationName="Красное фойе"
+LocationName="Холл красных"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Lower Hallway"
-LocationName="Синий нижний коридор"
+LocationName="Нижний холл синих"
 
 [ZoneInfo41]
 ; EN: LocationName="Red Aux. Hall"
-LocationName="Red Aux. зал"
+LocationName="Вспомогательный зал красных"
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Lift Room"
-LocationName="Голубой лифт"
+LocationName="Лифтовая синих"
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Aux. Hall"
-LocationName="Синий Aux. зал"
+LocationName="Вспомогательный зал синих"
 
 [ZoneInfo44]
 ; EN: LocationName="Red Lift 1"
-LocationName="Красный Лифт 1"
+LocationName="Лифт красных 1"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Lift 1"
-LocationName="Синий Лифт 1"
+LocationName="Лифт синих 1"
 
 [ZoneInfo46]
 ; EN: LocationName="Red Bunker"
-LocationName="Красный бункер"
+LocationName="Бункер красных"
 
 [ZoneInfo47]
 ; EN: LocationName="Red Bunker Support Chamber"
-LocationName="Опорная камера красного бункера"
+LocationName="Комната обеспечения бункера красных"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Platform"
-LocationName="Красная платформа"
+LocationName="Платформа красных"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Junction"
-LocationName="Красный перекресток"
+LocationName="Переход красных"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Красные двери (слева)"
+LocationName="Двери красных (слева)"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Access Hall"
-LocationName="Красный Зал Доступа"
+LocationName="Вестибюль красных"
 

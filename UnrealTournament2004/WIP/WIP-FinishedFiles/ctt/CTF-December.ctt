@@ -1,175 +1,176 @@
 [LevelInfo0]
 ; EN: Title="December"
-Title="prosinec"
+Title="desembre"
 
 [LevelSummary]
 ; EN: Title="December"
-Title="prosinec"
+Title="desembre"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Lower Access"
-LocationName="Modrý spodní přístup"
+LocationName="Accés inferior blau"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Platform"
-LocationName="Modrá platforma"
+LocationName="Plataforma Blava"
 
 [ZoneInfo10]
-LocationName="Red Pipe Exit"
+; EN: LocationName="Red Pipe Exit"
+LocationName="Sortida de canonada vermella"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flag Access"
-LocationName="Přístup k červené vlajce"
+LocationName="Accés Bandera Roja"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Doors (Right)"
-LocationName="Červené dveře (pravé)"
+LocationName="Portes vermelles (dreta)"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Lift 2"
-LocationName="Červený výtah 2"
+LocationName="Ascensor vermell 2"
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Bunker Support Chamber"
-LocationName="Podpůrná komora modrého bunkru"
+LocationName="Cambra de suport del búnquer blau"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Flag Base"
-LocationName="Základna červené vlajky"
+LocationName="Base Bandera Roja"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Červená horní základna vlajky"
+LocationName="Base Bandera Superior Vermella"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Modrá vstupní hala"
+LocationName="Hall d'entrada blau"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Modré vstupní schody"
+LocationName="Escales d'entrada blaves"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Foyer"
-LocationName="Modré foyer"
+LocationName="Vestíbul blau"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Lower Access"
-LocationName="Červená Dolní přístup"
+LocationName="Accés inferior vermell"
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Junction"
-LocationName="Modrá křižovatka"
+LocationName="Cruïlla blava"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Modrá přístupová hala"
+LocationName="Sala d'accés blau"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Modré dveře (vlevo)"
+LocationName="Portes blaves (esquerra)"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Pipe Exit"
-LocationName="Modrý výstup potrubí"
+LocationName="Sortida de la canonada blava"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Přístup k modré vlajce"
+LocationName="Accés Bandera Blava"
 
 [ZoneInfo27]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Červená vstupní hala"
+LocationName="Rebedor vermell"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Doors (Right)"
-LocationName="Modré dveře (pravé)"
+LocationName="Portes blaves (dreta)"
 
 [ZoneInfo29]
 ; EN: LocationName="Blue Lift 2"
-LocationName="Modrý výtah 2"
+LocationName="Ascensor blau 2"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Červené vstupní schody"
+LocationName="Escales vermelles d'entrada"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Základna modré vlajky"
+LocationName="Base Bandera Blava"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Modrá horní základna vlajky"
+LocationName="Base Bandera Superior Blava"
 
 [ZoneInfo34]
-; EN: LocationName="Red Bunker Entrance"
-LocationName="Vstup do červeného bunkru"
+; EN: LocationName="Blue Bunker"
+LocationName="Búnquer Blau"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"
-LocationName="Modrý bunkr"
+LocationName="Búnquer Blau"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Lower Hallway"
-LocationName="Červená dolní chodba"
+LocationName="Passadís inferior vermell"
 
 [ZoneInfo38]
 ; EN: LocationName="Docks"
-LocationName="Doky"
+LocationName="Molls"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Lift Room"
-LocationName="Místnost s červeným výtahem"
+LocationName="Sala de l'ascensor vermell"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Foyer"
-LocationName="Červené foyer"
+LocationName="Vestíbul Vermell"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Lower Hallway"
-LocationName="Modrá dolní chodba"
+LocationName="Passadís inferior blau"
 
 [ZoneInfo41]
 ; EN: LocationName="Red Aux. Hall"
-LocationName="Červená Aux. sál"
+LocationName="Vermell Aux. Saló"
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Lift Room"
-LocationName="Modrá výtahová místnost"
+LocationName="Sala de l'ascensor blau"
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Aux. Hall"
-LocationName="Modré Aux. sál"
+LocationName="Blau Aux. Saló"
 
 [ZoneInfo44]
 ; EN: LocationName="Red Lift 1"
-LocationName="Červený výtah 1"
+LocationName="Ascensor vermell 1"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Lift 1"
-LocationName="Modrý výtah 1"
+LocationName="Ascensor blau 1"
 
 [ZoneInfo46]
 ; EN: LocationName="Red Bunker"
-LocationName="Červený bunkr"
+LocationName="Búnquer Vermell"
 
 [ZoneInfo47]
 ; EN: LocationName="Red Bunker Support Chamber"
-LocationName="Podpůrná komora červeného bunkru"
+LocationName="Cambra de suport del búnquer vermell"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Platform"
-LocationName="Červená platforma"
+LocationName="Plataforma Vermella"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Junction"
-LocationName="Červená křižovatka"
+LocationName="Cruïlla vermella"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Červené dveře (vlevo)"
+LocationName="Portes vermelles (esquerra)"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Access Hall"
-LocationName="Červená přístupová hala"
+LocationName="Sala d'accés vermell"
 

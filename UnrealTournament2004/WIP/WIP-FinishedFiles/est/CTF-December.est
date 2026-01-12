@@ -103,8 +103,8 @@ LocationName="Base de Bandera Azul"
 LocationName="Base Superior de Bandera Azul"
 
 [ZoneInfo34]
-; EN: LocationName="Red Bunker Entrance"
-LocationName="Entrada al Búnker Rojo"
+; EN: LocationName="Blue Bunker"
+LocationName="Búnker Azul"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"

@@ -97,8 +97,8 @@ LocationName="Base med blått flagg"
 LocationName="Blå øvre flaggbase"
 
 [ZoneInfo34]
-; EN: LocationName="Red Bunker Entrance"
-LocationName="Red Bunker-inngang"
+; EN: LocationName="Blue Bunker"
+LocationName="Blå Bunker"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"

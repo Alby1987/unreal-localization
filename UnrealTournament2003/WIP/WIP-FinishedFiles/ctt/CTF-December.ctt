@@ -1,175 +1,176 @@
 [LevelInfo0]
 ; EN: Title="December"
-Title="Dezember"
+Title="desembre"
 
 [LevelSummary]
 ; EN: Title="December"
-Title="Dezember"
+Title="desembre"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Lower Access"
-LocationName="Blauer unterer Zugang"
+LocationName="Accés inferior blau"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Platform"
-LocationName="Blaue Plattform"
+LocationName="Plataforma Blava"
 
 [ZoneInfo10]
 ; EN: LocationName="Red Pipe Exit"
-LocationName="Ausgang der roten Pfeife"
+LocationName="Sortida de canonada vermella"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flag Access"
-LocationName="Zugang mit roter Flagge"
+LocationName="Accés Bandera Roja"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Doors (Right)"
-LocationName="Rote Türen (rechts)"
+LocationName="Portes vermelles (dreta)"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Lift 2"
-LocationName="Roter Aufzug 2"
+LocationName="Ascensor vermell 2"
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Bunker Support Chamber"
-LocationName="Blaue Bunker-Unterstützungskammer"
+LocationName="Cambra de suport del búnquer blau"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Base Bandera Roja"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Rote obere Flaggenbasis"
+LocationName="Base Bandera Superior Vermella"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Blaue Eingangshalle"
+LocationName="Hall d'entrada blau"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Blaue Eingangstreppe"
+LocationName="Escales d'entrada blaves"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blaues Foyer"
+LocationName="Vestíbul blau"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Lower Access"
-LocationName="Roter unterer Zugang"
+LocationName="Accés inferior vermell"
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Junction"
-LocationName="Blaue Kreuzung"
+LocationName="Cruïlla blava"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Blaue Zugangshalle"
+LocationName="Sala d'accés blau"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Blaue Türen (links)"
+LocationName="Portes blaves (esquerra)"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Pipe Exit"
-LocationName="Blauer Rohrausgang"
+LocationName="Sortida de la canonada blava"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Zugang zur Blauen Flagge"
+LocationName="Accés Bandera Blava"
 
 [ZoneInfo27]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Rote Eingangshalle"
+LocationName="Rebedor vermell"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Doors (Right)"
-LocationName="Blaue Türen (rechts)"
+LocationName="Portes blaves (dreta)"
 
 [ZoneInfo29]
 ; EN: LocationName="Blue Lift 2"
-LocationName="Blauer Aufzug 2"
+LocationName="Ascensor blau 2"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Rote Eingangstreppe"
+LocationName="Escales vermelles d'entrada"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Base Bandera Blava"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Blaue obere Flaggenbasis"
+LocationName="Base Bandera Superior Blava"
 
 [ZoneInfo34]
-; EN: LocationName="Red Bunker Entrance"
-LocationName="Eingang zum Roten Bunker"
+; EN: LocationName="Blue Bunker"
+LocationName="Búnquer Blau"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"
-LocationName="Blauer Bunker"
+LocationName="Búnquer Blau"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Lower Hallway"
-LocationName="Roter unterer Flur"
+LocationName="Passadís inferior vermell"
 
 [ZoneInfo38]
-LocationName="Docks"
+; EN: LocationName="Docks"
+LocationName="Molls"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Lift Room"
-LocationName="Rotes Aufzugszimmer"
+LocationName="Sala de l'ascensor vermell"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Foyer"
-LocationName="Rotes Foyer"
+LocationName="Vestíbul Vermell"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Lower Hallway"
-LocationName="Blauer unterer Flur"
+LocationName="Passadís inferior blau"
 
 [ZoneInfo41]
 ; EN: LocationName="Red Aux. Hall"
-LocationName="Roter Aux. Saal"
+LocationName="Vermell Aux. Saló"
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Lift Room"
-LocationName="Blaues Aufzugszimmer"
+LocationName="Sala de l'ascensor blau"
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Aux. Hall"
-LocationName="Blauer Aux. Saal"
+LocationName="Blau Aux. Saló"
 
 [ZoneInfo44]
 ; EN: LocationName="Red Lift 1"
-LocationName="Roter Aufzug 1"
+LocationName="Ascensor vermell 1"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Lift 1"
-LocationName="Blauer Aufzug 1"
+LocationName="Ascensor blau 1"
 
 [ZoneInfo46]
 ; EN: LocationName="Red Bunker"
-LocationName="Roter Bunker"
+LocationName="Búnquer Vermell"
 
 [ZoneInfo47]
 ; EN: LocationName="Red Bunker Support Chamber"
-LocationName="Rote Bunker-Unterstützungskammer"
+LocationName="Cambra de suport del búnquer vermell"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Platform"
-LocationName="Rote Plattform"
+LocationName="Plataforma Vermella"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Junction"
-LocationName="Rote Kreuzung"
+LocationName="Cruïlla vermella"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Rote Türen (links)"
+LocationName="Portes vermelles (esquerra)"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Access Hall"
-LocationName="Rote Zugangshalle"
+LocationName="Sala d'accés vermell"
 
