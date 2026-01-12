@@ -45,3 +45,16 @@ Hint="最も高い塔に行き、デーモンを殺してダンジョンにア�
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message="ここで何をしているの？"
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="あなたは6個のエイトボールを拾いました"
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="あなたは6個のエイトボールを拾いました"
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="あなたは6個のエイトボールを拾いました"
+

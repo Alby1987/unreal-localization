@@ -13,3 +13,8 @@ LevelEnterText="サーペントキャニオンに入る"
 [TranslatorEvent0]
 ; EN: Message="Here lies Haith M'olner, may his soul soar high with the gods."
 Message="ここにハイス・モルナーがいます。彼の魂が神々と共に高く舞い上がるように。"
+
+[RocketCan0]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="あなたは6個のエイトボールを拾いました"
+

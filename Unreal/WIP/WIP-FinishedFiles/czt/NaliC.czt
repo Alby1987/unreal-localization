@@ -45,3 +45,16 @@ Hint="Jděte na nejvyšší věž a zabijte démona, abyste získali přístup d
 [TranslatorEvent6]
 ; EN: Message="What the HELL are you doing up here?"
 Message="Co tady sakra děláš?"
+
+[RocketCan4]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Sebral jsi 6 Raket"
+
+[RocketCan5]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Sebral jsi 6 Raket"
+
+[RocketCan7]
+; EN: PickupMessage="You picked up 6 Eightballs"
+PickupMessage="Sebral jsi 6 Raket"
+
