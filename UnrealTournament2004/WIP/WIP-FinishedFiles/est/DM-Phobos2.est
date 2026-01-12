@@ -1,0 +1,124 @@
+[LevelInfo0]
+; EN: Title="Phobos Moon 2"
+Title="Luna Fobos 2"
+
+[LevelSummary]
+; EN: Title="Phobos Moon 2"
+Title="Luna Fobos 2"
+
+[Volume1]
+; EN: LocationName="Link Gun Room"
+LocationName="Sala Enlazadora"
+
+[Volume2]
+; EN: LocationName="Tower"
+LocationName="Torre"
+
+[ZoneInfo0]
+; EN: LocationName="Space"
+LocationName="Espacio"
+
+[ZoneInfo1]
+; EN: LocationName="Minigun Corridor"
+LocationName="Pasillo Ametralladora"
+
+[ZoneInfo10]
+; EN: LocationName="Minigun Room"
+LocationName="Sala de Ametralladora"
+
+[ZoneInfo11]
+; EN: LocationName="Minigun Corridor"
+LocationName="Pasillo Ametralladora"
+
+[ZoneInfo12]
+; EN: LocationName="Rocket Corridor"
+LocationName="Sala de Lanzacohetes"
+
+[ZoneInfo13]
+; EN: LocationName="Minigun Corridor"
+LocationName="Pasillo Ametralladora"
+
+[ZoneInfo14]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Pasillo del Rifle de Choque"
+
+[ZoneInfo15]
+; EN: LocationName="Central"
+LocationName="Central"
+
+[ZoneInfo16]
+; EN: LocationName="Sniper Room"
+LocationName="Sala de Arma Eléctrica"
+
+[ZoneInfo17]
+; EN: LocationName="Super Health Room"
+LocationName="Sala de la Mochila de Salud"
+
+[ZoneInfo18]
+; EN: LocationName="Sniper Corridor"
+LocationName="Pasillo de Arma Eléctrica"
+
+[ZoneInfo19]
+; EN: LocationName="Central"
+LocationName="Central"
+
+[ZoneInfo2]
+; EN: LocationName="Super Health Room"
+LocationName="Sala de la Mochila de Salud"
+
+[ZoneInfo20]
+; EN: LocationName="Flak Corridor"
+LocationName="Pasillo de Metralla"
+
+[ZoneInfo21]
+; EN: LocationName="Flak Corridor"
+LocationName="Pasillo de Metralla"
+
+[ZoneInfo22]
+; EN: LocationName="Flak Corridor"
+LocationName="Pasillo de Metralla"
+
+[ZoneInfo23]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Pasillo del Rifle de Choque"
+
+[ZoneInfo24]
+; EN: LocationName="Central"
+LocationName="Central"
+
+[ZoneInfo25]
+; EN: LocationName="Super Shield Corridor"
+LocationName="Pasillo de Súperescudo"
+
+[ZoneInfo26]
+; EN: LocationName="Rocket Corridor"
+LocationName="Sala de Lanzacohetes"
+
+[ZoneInfo3]
+; EN: LocationName="Super Health Room"
+LocationName="Sala de la Mochila de Salud"
+
+[ZoneInfo4
+; EN: LocationName="Super Health Room"
+LocationName="Sala de la Mochila de Salud"
+
+[ZoneInfo5]
+; EN: LocationName="Rocket Corridor"
+LocationName="Sala de Lanzacohetes"
+
+[ZoneInfo6]
+; EN: LocationName="Link Gun Room"
+LocationName="Sala Enlazadora"
+
+[ZoneInfo7]
+; EN: LocationName="Central"
+LocationName="Central"
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Pasillo del Rifle de Choque"
+
+[ZoneInfo9]
+; EN: LocationName="Flak Corridor"
+LocationName="Pasillo de Metralla"
+
