@@ -17,7 +17,7 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="",De
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="",Description="")
 
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings.",RequireRestart)
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode.",RequireRestart)
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="",Description="",RequireRestart)
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="HDR Scale",Description="Adjust HDR brightness multiplier.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="",Description="")
@@ -47,3 +47,4 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetBlue,Title="",
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Controls minimum distance to surfaces and objects for lowering their texture and model detail to improve performance. Negative values increase the overall detail, while positive values decrease it.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="",Description="")
+

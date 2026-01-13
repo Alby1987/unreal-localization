@@ -7,7 +7,7 @@ Property=(Name=SelectedContextType,Class=OpenGLDrv.OpenGLRenderDevice,Title="",D
 Property=(Name=UseAA,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="", Range=1,Step=1,Config,RequireRestart)
 ; EN: Property=(Name=NumAASamples,Class=OpenGLDrv.OpenGLRenderDevice,Title="MSAA Samples",Description="Sets the number of samples used by MSAA. Higher values lead to stronger smoothing and better image quality, but can degrade performance.",Value(2),Value(4),Value(8),Value(16),Config,RequireRestart)
 Property=(Name=NumAASamples,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="",Value(2),Value(4),Value(8),Value(16),Config,RequireRestart)
-; EN: Property=(Name=MaxAnisotropy,Class=OpenGLDrv.OpenGLRenderDevice,Title="Anisotropic Filtering",Description="If enabled, anisotropic filtering with specified sample number will be used to make distant surface textures appear sharper with minimum performance loss.",Value("0=Disabled"),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"),Config)
+; EN: Property=(Name=MaxAnisotropy,Class=OpenGLDrv.OpenGLRenderDevice,Title="Anisotropic Filtering",Description="If enabled, anisotropic filtering with specified sample number will be used to make distant surface textures appear sharper at certain angles with minimum performance loss.",Value("0=Disabled"),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"),Config)
 Property=(Name=MaxAnisotropy,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="",Value("0="),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"),Config)
 ; EN: Property=(Name=UsePrecache,Class=OpenGLDrv.OpenGLRenderDevice,Title="Precaching",Description="If checked, all textures will be precached in GPU memory. This increases load times, but reduces fluctuations in the frame rate.",Config)
 Property=(Name=UsePrecache,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="",Config)
@@ -35,3 +35,4 @@ Property=(Name=GammaOffsetRed,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Descri
 Property=(Name=GammaOffsetGreen,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="",Range(-1,1,0.05),Config)
 ; EN: Property=(Name=GammaOffsetBlue,Class=OpenGLDrv.OpenGLRenderDevice,Title="Gamma Offset Green",Description="Offsets the normal brightness option on the green channel. Positive values will make green tints brighter, negatives will make them darker.",Range(-1,1,0.05),Config)
 Property=(Name=GammaOffsetBlue,Class=OpenGLDrv.OpenGLRenderDevice,Title="",Description="",Range(-1,1,0.05),Config)
+

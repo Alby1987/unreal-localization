@@ -26,7 +26,7 @@ Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=GenerateMipMaps,Title
 
 ; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Controls minimum distance to surfaces and objects for lowering their texture and model detail to improve performance. Negative values increase the overall detail, while positive values decrease it.")
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=LODBias,Title="",Description="")
-; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=DetailMax,Title="Max. Detail Textures",Description="Sets the number of detail textures. If set to a non-zero value, this setting can increase the level of detail on certain meshes and surfaces. Detail texturing does, however, reduce the game frame rate.")
+; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=DetailMax,Title="Max. Detail Textures",Description="Sets the number of detail textures. If set to a non-zero value, specifies maximum number of detail textures applied to meshes and surfaces. Larger values can degrade performance.")
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=DetailMax,Title="",Description="")
 ; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=MacroTextures,Title="Macro Textures",Description="If checked, the game will apply macro textures to applicable surfaces and meshes. Macro textures can improve the level of rendering detail for large surfaces (such as terrain). Disabling macro textures can (slightly) improve rendering performance.")
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=MacroTextures,Title="",Description="")
@@ -45,7 +45,7 @@ Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=NoAATiles,Title="",De
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=NoFiltering,Title="",Description="")
 ; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UseTrilinear,Title="Trilinear Filtering",Description="If checked, the game will use trilinear texture filtering. If set to false, the game will use bilinear filtering. Trilinear filtering improves image quality, but (slightly) reduces the game frame rate.")
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UseTrilinear,Title="",Description="")
-; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=MaxAnisotropy,Title="Anisotropic Filtering",Description="If enabled, anisotropic filtering with specified sample number will be used to make distant surface textures appear sharper with minimum performance loss",Value("0=Disabled"),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"))
+; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=MaxAnisotropy,Title="Anisotropic Filtering",Description="If enabled, anisotropic filtering with specified sample number will be used to make distant surface textures appear sharper at certain angles with minimum performance loss",Value("0=Disabled"),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"))
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=MaxAnisotropy,Title="",Description="",Value("0="),Value("2=2x"),Value("4=4x"),Value("8=8x"),Value("16=16x"))
 
 ; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UseOpenGLDebug,Title="OpenGL Debug",Description="If checked, the game enables the OpenGL driver's debug extension. This makes the driver run sanity checks on all OpenGL commands and report errors in the game if necessary.")
@@ -99,3 +99,4 @@ Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=VolumetricLighting,Ti
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UseHWLighting,Title="",Description="")
 ; EN: Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UsePersistentBuffers,Title="Persistent Buffers",Description="If checked, uses persistent buffers.")
 Property=(Config,Class=XOpenGLDrv.XOpenGLRenderDevice,Name=UsePersistentBuffers,Title="",Description="")
+

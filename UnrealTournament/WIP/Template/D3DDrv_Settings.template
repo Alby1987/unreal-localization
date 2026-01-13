@@ -31,3 +31,4 @@ Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=Coronas,Title="",Description=
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=ShinySurfaces,Title="",Description="")
 ; EN: Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=VolumetricLighting,Title="",Description="")
+

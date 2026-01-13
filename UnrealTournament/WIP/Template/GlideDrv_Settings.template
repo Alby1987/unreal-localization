@@ -17,3 +17,4 @@ Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=Coronas,Title="",Descript
 Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=ShinySurfaces,Title="",Description="")
 ; EN: Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=GlideDrv.GlideRenderDevice,Name=VolumetricLighting,Title="",Description="")
+

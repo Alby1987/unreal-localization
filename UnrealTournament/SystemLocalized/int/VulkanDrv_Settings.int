@@ -9,7 +9,7 @@ Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Coronas,Title="Coronas"
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="Enables rendering of shiny surfaces such as mirrors.")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 
-Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings.")
+Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode.")
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=HdrScale,Title="HDR Scale",Description="Adjust HDR brightness multiplier.")
 
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=Bloom,Title="Bloom",Description="If checked, blooms overbright pixels.")
