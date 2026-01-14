@@ -47,7 +47,7 @@ Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=Coronas,Title="",
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=VolumetricLighting,Title="",Description="")
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ShinySurfaces,Title="Mirrors",Description="If checked, enables base mirror surface support.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ShinySurfaces,Title="",Description="")
-; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
+; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="",Description="")
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=DetailTextures,Title="",Description="")

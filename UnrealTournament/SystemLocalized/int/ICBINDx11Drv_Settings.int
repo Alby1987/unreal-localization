@@ -23,7 +23,7 @@ Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=UseDX9FlatColor,T
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Title="Coronas",Description="If checked, enables rendering of light coronas.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ShinySurfaces,Title="Mirrors",Description="If checked, enables base mirror surface support.")
-Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
+Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=OrthoLineThickness,Title="Ortho Line Thickness",Description="How thick (in pixels) to make editor and debug lines, in 2D (Ortho) views.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=3DLineThickness,Title="3D Line Thickness",Description="How thick (in pixels) to make editor and debug lines, in 3D views.")
