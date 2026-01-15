@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=AntialiasMode,Title="Anti Aliasing Mode",Description="Anti alias method used to reduce jagged edges.",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=AntialiasMode,Title="",Description="",Value(""),Value("MSAA_2x"),Value("MSAA_4x"))
 ; EN: Property=(Config,Class=VulkanDrv.VulkanRenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit.",Value("Normal"),Value("One-X Blending"),Value("Brighter Actors"))

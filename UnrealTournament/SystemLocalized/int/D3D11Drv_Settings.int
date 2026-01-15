@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Anti Aliasing Mode",Description="Anti alias method used to reduce jagged edges.",Value("Off"),Value("MSAA_2x"),Value("MSAA_4x"))
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit.",Value("Normal"),Value("One-X Blending"),Value("Brighter Actors"))
 

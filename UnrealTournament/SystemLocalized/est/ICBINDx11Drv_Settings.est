@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAASamples,Title="Anti Aliasing Mode",Description="Anti alias method used to reduce jagged edges. 1 or lower = off. Maximum is 8.",Value("0"),Value("1"),Value("2"),Value("4"),Value("6"),Value("8"))
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAASamples,Title="Modo de Suavizado",Description="Especifica el método de suavizado utilizado para reducir los bordes irregulares. 1 o menor = desactivado. El valor máximo es 8.",Value("0"),Value("1"),Value("2"),Value("4"),Value("6"),Value("8"))
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAFSamples,Title="Anisotropic Filtering",Description="Anisotropic filtering with the specified sample number will be used to make distant surface textures appear sharper at certain angles with minimum performance loss. 1 or lower = off. Maximum is 16.",Value("0"),Value("1"),Value("2"),Value("3"),Value("4"),Value("5"),Value("6"),Value("7"),Value("8"),Value("9"),Value("10"),Value("11"),Value("12"),Value("13"),Value("14"),Value("15"),Value("16"))
