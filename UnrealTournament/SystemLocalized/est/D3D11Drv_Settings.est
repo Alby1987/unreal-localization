@@ -14,7 +14,7 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="D
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Coronas,Title="Coronas",Description="Permite que las luces emitan un efecto de haz llamado Corona.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="Enables rendering of shiny surfaces such as mirrors.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Superficies Brillantes",Description="Permite que se muestren las superficies brillosas como espejos.")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Enables rendering of volumetric light effects such as fog.")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Iluminación Volumétrica",Description="Permite que se muestren efectos de iluminación volumétrica tales como niebla.")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode.",RequireRestart)
