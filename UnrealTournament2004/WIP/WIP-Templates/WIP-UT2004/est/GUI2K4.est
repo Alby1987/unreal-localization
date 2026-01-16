@@ -1,11 +1,4 @@
 [AdminPanelLogin]
-WaitingForLoginText="Espera mientras se verifica tu identificación..."
-PanelCaption="Identificación"
-LoginButton.Caption="IDENTIFICACIÓN"
-LoginNameEditbox.Caption="Nombre:"
-LoginNameEditbox.Hint="Introduce tu nombre de usuario administrativo"
-LoginPasswordEditBox.Caption="Contraseña:"
-LoginPasswordEditBox.Hint="Introduce tu contraseña administrativa"
 LogoutButton.Caption="DESCONECTAR"
 
 [AdminPanelMaps]
@@ -13,7 +6,6 @@ PanelCaption="Mapas"
 
 [AdminPanelPlayers]
 PanelCaption="Jugador"
-BanButton.Caption="Rechazar"
 BanButton.Hint="Rechazar a este jugador"
 KickButton.Caption="Expulsar"
 KickButton.Hint="Expulsar a este jugador"
@@ -103,25 +95,6 @@ Headings[0]="Acción"
 PageCaption="Configurar teclas"
 
 [CustomHUDMenuAssault]
-WindowName="Configuración de HUD para Asalto"
-CancelButton.Caption="Canc."
-CancelButton.Hint="Haz clic para cerrar este menú, ignorando los cambios."
-DrawAllObjectives.Caption="Mostrar indicadores completos"
-DrawAllObjectives.Hint="Dibuja indicadores cuando el objetivo está tras el jugador."
-InfoPods.Caption="Mostrar terminales de información"
-InfoPods.Hint="Ver terminales de información"
-MiscBackground.Caption="Misc."
-ObjectiveBackground.Caption="Objetivos"
-ObjectiveReminder.Caption="Recordar objetivos"
-ObjectiveReminder.Hint="Te recuerda los objetivos al reaparecer."
-OkButton.Caption="OK"
-OkButton.Hint="Haz clic para cerrar este menú, guardando los cambios."
-PulseTime.Caption="Tiempo actualización objetivo"
-PulseTime.Hint="Número de segundos que el objetivo actual aparece resaltado."
-ResetButton.Caption="Predeterminado"
-ResetButton.Hint="Restaura todos los ajustes a los valores iniciales."
-ReticleSize.Caption="Tamaño indicadores objetivos"
-ReticleSize.Hint="Tamaño de los indicadores de objetivo en el HUD."
 Reticles.Caption="Retículas de objetivo"
 Reticles.Hint="Dibuja indicadores de seguimiento de objetivo"
 Show3DArrow.Caption="Mostrar flecha 3D"
@@ -130,111 +103,40 @@ ShowWillowWhisp.Caption="Enable Willow Whisp"
 ShowWillowWhisp.Hint="Enable particle trail, showing path to objective."
 
 [CustomHUDMenuOnslaught]
-ShowRadarText="Mostrar solo radar"
-ShowScreenText="Mostrar pantalla entera"
-CancelButton.Caption="Canc."
-CancelButton.Hint="Haz clic para cerrar este menú, ignorando los cambios."
-EnableMap.Caption="Activar mapa radar"
-EnableMap.Hint="El mapa radar es una vista de pájaro del mapa actual que muestra el estado y los indicadores de posición de nodo."
-IconScaleSlider.Caption="Tamaño iconos del mapa radar"
-IconScaleSlider.Hint="Cambia el tamaño de los iconos que se muestran en el mapa radar."
-NodeBeamCheck.Caption="Mostrar haces de nodo"
-NodeBeamCheck.Hint="Muestra haces de luz sobre los nodos vulnerables al ataque."
 OkButton.Caption="OK"
-OkButton.Hint="Haz clic para cerrar este menú, guardando los cambios."
-OptionBackground.Caption="Opciones del ataque HUD"
-PreviewBackground.Caption="Anterior"
 RadarPosXFloat.Caption="X:"
-RadarPosXFloat.Hint="Ajusta la posición (izquierda a derecha) del mapa radar."
 RadarPosYFloat.Caption="Y:"
-RadarPosYFloat.Hint="Ajusta la posición (arriba a abajo) del mapa radar."
-RadarPositionBackground.Caption="Posición del Radar"
-RadarScaleSlider.Caption="Tamaño mapa radar"
-RadarScaleSlider.Hint="Cambia el tamaño del mapa radar en el HUD."
-RadarTransparencySlider.Caption="Transparencia mapa radar"
-RadarTransparencySlider.Hint="Cambia la transparencia del fondo del mapa radar."
-ResetButton.Caption="Predeterminado"
-ResetButton.Hint="Restaurar todos los ajustes a sus valores iniciales"
 
 [EditFavoritePage]
-UnknownText="Servidor desconocido"
-OKButtonHint="Cierra la página y guarda la nueva IP en la lista de favoritos."
-CancelButtonHint="Cierra la página e ignora los cambios."
-EditBoxHint="Introduce la URL actualizada de este favorito: separa la IP del puerto con el símbolo   :"
 IpEntryBox.Caption="Dirección IP."
 
 [FilterPageBase]
-SaveString="¡Preferencias guardadas con éxito!"
 
 [GUIDynArrayPage]
 NewText="Nuevo"
 RemoveText="Eliminar"
 
 [IAMultiColumnRulesPanel]
-AdvancedButton.Caption="Opciones avanz."
-AdvancedButton.Hint="Activa y desactiva la visualización de las propiedades avanzadas"
-SymbolButton.ButtonCaption="Configurar"
-SymbolButton.Caption="Símbolos"
-SymbolButton.Hint="Escoge los estandartes de cada equipo."
 
 [ID3TagEditor]
-EditBoxHint="Clic para editar"
-WindowName="Editor etiqueta"
 
 [KeyBindMenu]
-Headings[1]="Tecla 1"
-Headings[2]="Tecla 2"
 CloseCaption="CERRAR"
 ResetCaption="REAJUSTAR"
-ClearCaption="Pulsa '%backspace%' para desligar %keybind% de %keyname%."
-ActionText="{%keybinds%} - actualmente asociado a esta tecla."
 
 [LockedFloatingWindow]
 LockedCancelButton.Caption="Canc."
 LockedOKButton.Caption="OK"
 
 [MapListBox]
-RCMenu.ContextItems=("Jugar en este mapa","Asistir a este mapa","-","Añadir a lista de mapas","Eliminar de lista de mapas","Filtrar de lista de mapas")
 
 [MaplistEditor]
-InvalidMaplistClassText="¡No se ha podido crear una nueva lista de mapas %name% porque %game% tiene una clase de lista inválida: '%mapclass%'!"
-NewMaplistPageCaption="Crear lista de mapas personalizada"
-MaplistEditCaption="Nombre de lista de mapas:"
-RenameMaplistPageCaption="Renombrar lista de mapas"
-LinkText="Configuración de enlaces"
-AutoSelectText="Selec. automática"
-BonusVehicles="(Vehículos de bonificación)" 
-WindowName="Configuración de lista de mapas"
-ActiveBackground.Caption="Activar Mapas"
-AddAllButton.Caption="Añad. todos"
-AddAllButton.Hint="Añadir todos los mapas a la lista de mapas."
-AddButton.Caption="Añadir"
-AddButton.Hint="Añadir los mapas seleccionados a la lista de mapas."
-DeleteMaplistButton.Caption="SUPR."
-DeleteMaplistButton.Hint="Borrar la lista de mapas actual. Si es la última lista para este tipo de juego, se generará una nueva predeterminada."
-InactiveBackground.Caption="Mapa Inactivo"
-MoveDownButton.Caption="Abajo"
-MoveDownButton.Hint="Mover mapa abajo en la lista de mapas"
-MoveUpButton.Caption="Arriba"
-MoveUpButton.Hint="Subir mapa en la lista de mapas"
-NewMaplistButton.Caption="NUEVA"
-NewMaplistButton.Hint="Crear una nueva lista de mapas personalizada."
-RemoveAllButton.Caption="Elim. todos"
-RemoveAllButton.Hint="Quitar todos los mapas de lista de mapas"
 RemoveButton.Caption="Eliminar"
-RemoveButton.Hint="Eliminar los mapas seleccionados de la lista de mapas."
-RenameMaplistButton.Caption="RENOMBRAR"
-RenameMaplistButton.Hint="Renombrar la lista de mapas actual"
-SelectMaplistCombo.Hint="Cargar una lista de mapas personalizada."
 
 [MutatorConfigMenu]
-ConfigButtonText="Abrir"
-EditButtonText="Editar"
-NoPropsMessage="No hay propiedades configurables"
 SubCaption="Configuración de mutágeno"
 WindowName="Página de configuración personalizada"
 AdvancedButton.Caption="Ver opciones avanzadas"
-AdvancedButton.Hint="Activa si se ven o no las propiedades avanzadas"
 
 [MySubTestPanelA]
 cTestMenu.ContextItems=("Test 0","Test 1","que te DEN","ABCDEFGHIJKLM","NOPQR")
@@ -283,90 +185,20 @@ CheaterName="*** TRAMPOSO ***"
 PerformanceWarningText="El cambio que estás realizando puede afectar negativamente al rendimiento."
 
 [SimpleFilterPanel]
-ViewStatsStrings[0]="Cualquier servidor"
-ViewStatsStrings[1]="Solo servidores de estadísticas"
-ViewStatsStrings[2]="No servidores de estadísticas"
-MutatorModeStrings[0]="Cualquier mutágeno"
-MutatorModeStrings[1]="Este mutágeno"
-MutatorModeStrings[2]="No este mutágeno"
-MutatorModeStrings[3]="No mutágenos"
-WeaponStayStrings[0]="Cualquier servidor"
-WeaponStayStrings[1]="Solo servidores con permanencia de armas"
-WeaponStayStrings[2]="No servidores con permanencia de armas"
-TranslocatorStrings[0]="Cualquier servidor"
-TranslocatorStrings[1]="Solo servidores con transportador"
-TranslocatorStrings[2]="No servidores con transportador"
-SaveString="¡Preferencias guardadas con éxito!"
-MainOptions.Caption="Juego"
-MutatorCombo.Hint="Selecciona el mutágeno a filtrar."
-MutatorModeCombo.Hint="Selecciona el tipo de filtro de mutágeno."
-MutatorOptions.Caption="Mutágenos"
-NoBotServersCheckBox.Caption="No servidores con bots"
-NoBotServersCheckBox.Hint="No mostrar servidores con bots."
-NoEmptyCheckBox.Caption="No servidores vacíos"
-NoEmptyCheckBox.Hint="No mostrar servidores vacíos."
-NoFullCheckBox.Caption="No servidores llenos"
-NoFullCheckBox.Hint="No mostrar servidores llenos."
-NoPasswdCheckBox.Caption="No con contraseña"
-NoPasswdCheckBox.Hint="No mostrar servidores con contraseña."
-StatsViewCombo.Caption="Servidores de estadísticas"
-StatsViewCombo.Hint="Mostrar solo servidores con estadísticas activadas."
 TranslocatorCombo.Caption="Transportador"
-TranslocatorCombo.Hint="Mostrar solo servidores con transportador activado."
-WeaponStayCombo.Caption="Permanencia de armas"
-WeaponStayCombo.Hint="Solo mostrar servidores con permanencia de armas activada."
 
 [SpeechBinder]
 Headings[0]="Frase"
 PageCaption="Asignaciones de diálogo"
 
 [StreamPlayer]
-CollapsePlaylistHint="Ocultar lista de música actual"
-ExpandPlaylistHint="Mostrar lista de música actual"
-PlayHint="Jugar"
-PauseHint="Pausa"
-CollapseManagementHint="Ocultar opciones lista de música"
-ExpandManagementHint="Mostrar opciones lista de música"
-RenameCaption="Rename Playlist"
-NewCaption="Create New Playlist"
-PlaylistNameCaption="Name: "
-PLAdd="Añadir"
-PLRemove="Quitar"
-PLClear="Borrar"
-MGNew="Nuevo"
-MGRemove="Quitar"
-MGRename="Renombrar"
-WindowName="Reproductor de música"
-ManagePlaylistsButton.Hint="Gestionar listas de música"
-NextTrackButton.Hint="Siguiente"
-PlayerRCMenu.ContextItems=("Cambiar ajustes")
-PlaylistListBox.Hint="Lista de música actual"
-PlaylistRCMenu.ContextItems=("Activar lista de música","Renombrar lista de música","Crear nueva lista de música","-","Borrar lista de música","Despejar lista de música")
-PrevTrackButton.Hint="Anterior"
-RepeatAllCheck.Hint="Repetir todo"
-RepeatCheck.Hint="Repetir"
-SelectPlaylistListBox.Hint="Seleccionar lista de música"
-ShuffleAllCheck.Hint="Mezclar todo"
-ShuffleCheck.Hint="Mezclar"
-SongRCMenu.ContextItems=("Reproducir selección","Abrir editor lista de música","Actualizar etiquetas","-","Eliminar de lista de música","Borrar lista de música")
 SongTime.Caption="0:00"
-StopButton.Hint="Detener"
 StreamVolume.Hint="Volumen"
-bBotA.Caption="Añadir"
 bBotB.Caption="Quitar"
 bBotC.Caption="Borrar"
-sbManagement.Caption="Organizador de la lista a reproducir"
 sbPlayList.Caption="Lista Actual"
 
 [StreamPlaylistEditor]
-GeneralFileItems=("Reproducir selección")
-GeneralFolderItems=("Añadir a lista de música")
-PlaylistItems=("Eliminar de lista de música")
-NonPlaylistItems=("Añadir a lista de música", "Añadir a lista de música y reproducir")
-ImportItems=("Importar a nueva lista de música", "Importar a lista de música actual")
-WindowName="Edición de lista e música"
-AddButton.Caption="Añadir"
-AddButton.Hint="Añade elemento seleccionado a lista de música. Si se trata de un directorio, se añadirán todas las canciones que contenga."
 CloseButton.Caption="Hecho"
 lbDriveLetters.Caption="Directorio:"
 
@@ -383,35 +215,20 @@ OkButton.Caption="OK"
 WeaponSelect.Caption="Escoge arma que poner en estadio"
 
 [UT2K4BadCDKeyMsg]
-BadCDLabel.Caption="La clave del CD no es válida o la está usando otro jugador."
 OkButton.Caption="OK"
 
 [UT2K4BotConfigPage]
-NoInformation="¡No hay información disponible!"
 NoPref="Sin preferencias"
 DefaultString="No se pudo cargar"
 ResetString="Reajustar"
-AttributesString="Atributos"
 BotAccuracySlider.Caption="Precisión"
-BotAccuracySlider.Hint="Configura el grado de precisión de este bot."
 BotAggrSlider.Caption="Agresividad"
-BotAggrSlider.Hint="Configura el nivel de agresividad de este bot."
 BotCStyleSlider.Caption="Estilo de combate"
-BotCStyleSlider.Hint="Ajusta el estilo de combate de este bot."
 BotJumpy.Caption="Nerviosismo"
-BotJumpy.Hint="Controla si este bot salta mucho durante el juego."
-BotOrders.Caption="Órdenes"
-BotOrders.Hint="Escoge el papel que juega el bot en el juego."
 BotReactionSlider.Caption="Tiempo de reacción"
-BotReactionSlider.Hint="Ajusta la velocidad de reacción de este robot."
-BotStrafeSlider.Caption="Movimiento lateral"
-BotStrafeSlider.Hint="Ajusta la capacidad de movimiento lateral de este robot."
 BotTacticsSlider.Caption="Táctica"
-BotTacticsSlider.Hint="Ajusta la habilidad en el juego de equipo de este robot."
 BotVoice.Caption="Voz"
-BotVoice.Hint="Escoge la voz que usa este bot."
 BotWeapon.Caption="Arma preferida"
-BotWeapon.Hint="Selecciona el arma preferida del bot."
 
 [UT2K4BotInfoPage]
 NoInformation="¡No hay información disponible!"
@@ -421,7 +238,7 @@ AgilityCaption="Agilidad"
 TacticsCaption="Táctica"
 
 [UT2K4Browser_Page]
-MustUpgradeString="Mejora disponible. Actualiza página de noticias."
+MustUpgradeString="Mejora disponible. ."
 QueryCompleteString="¡Consulta completa!"
 StartQueryString="Consultando servidor principal"
 AuthFailString="Fallo al identificar"
@@ -434,25 +251,16 @@ RefreshCaption="ACTUALIZAR"
 JoinCaption="UNIRSE"
 SpectateCaption="ASISTIR"
 FilterCaption="FILTROS"
-UnspecifiedNetworkError="Se ha producido un error desconocido al intentar conectar a la red."
 
 [UT2K4Browser_ServerListPageMS]
-PanelCaption="EXPLORADOR DE Servidores: Internet"
 
 [UT2K4ChatPassword]
-IncorrectPassword="Contraseña especificada incorrecta para el canal '%ChatRoom%' ."
 GetPassFail.Caption="CANC."
-GetPassLabel.Caption="Se necesita contraseña para unirse a esta sala de chat"
-GetPassPW.Caption="Contraseña de sala de chat"
-GetPassRetry.Caption="REINTENTAR"
+GetPassRetry.Caption=""
 
 [UT2K4CustomFilterPage]
-PanelCaption=("Sumario de filtro","Reglas personalizadas")
-PanelHint=("Ver reglas configuradas para este filtro","Filtros personalizados adicionales","Filtros")
 
 [UT2K4DefaultGame]
-ModName="Unreal Tournament 2004 de Epic"
-ModInfo="Activa esta opción para volver al juego predeterminado"
 ModLogo="Menús de 2K4. Contenido. LogoMenúMod"
 
 [UT2K4Demo2AVI]
@@ -461,9 +269,7 @@ coResolution.Caption="Resolución"
 coResolution.Hint="La resolución de la película final."
 ebFilename.Caption="Nombre de archivo: "
 ebFilename.Hint="Nombre del archivo AVI file a crear"
-lbSavePos.Caption="AVI guradado en ..\UserMovies"
 soQuality.Caption="Calidad"
-soQuality.Hint="Nivel de calidad de la comprewsión usada"
 
 [UT2K4DemoPlayback]
 lbMod.Caption="2X"
