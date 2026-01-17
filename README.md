@@ -22,11 +22,12 @@ That's the cleanest way to create your series of changes (it's NOT a good idea t
 
 ## And what's your approach to work?
 
-* Every game has a folder called `SystemLocalized` and another called `WIP`.
+* Every game has a folder called `SystemLocalized` and another called `WIP`. Sometimes a third folder appears called `ThirdParty`.
     * `SystemLocalized` has the completed localizations ready for use in-game or to be tested for quirks. Completed localizations must be moved here.
+    * `ThirdParty` is the folder pertaining to mods. Each supported mod has its own `SystemLocalized`, `WIP/WIP-FinishedFiles` and `WIP/WIP-Templates` folders.
     * `WIP` contains two folders: `WIP-FinishedFiles` and `WIP-Templates`
         * `WIP-FinishedFiles` contains incomplete localizations with files that are considered "ready"/"checked". Completed/Verified files must be moved here.
-        * `WIP-Templates` contains files in need to be checked. Some folders also have the original files, which we all know are the reason why prefer to play in English. :facepalm: Whenever a file is considered "ready"/"checked", it must be moved to `WIP-FinishedFiles` and all instances of it in this folder must be cleansed.
+        * `WIP-Templates` contains files in need to be checked. Some folders also have the original files, which we all know are the reason why people prefer to play in English. 🤦‍♂️ Whenever a file is considered "ready"/"checked", it must be moved to `WIP-FinishedFiles` and all instances of it in this folder must be cleansed.
         * Additionally, some games have a folder inside of this one called just `Template`. These are the **empty** templates which can be used to give the games support for other languages. The Greek localization for _UT_ was based on this empty template, to give you an example.
 
 ## But what if I don't want to work in GitHub?
