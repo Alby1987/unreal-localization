@@ -220,7 +220,7 @@ MenuName="Manta Gigante"
 ; EN: NameArticle=" an "
 NameArticle=" un "
 ; EN: MenuName="Ice Skaarj"
-MenuName="Skaarj de Hielo"
+MenuName="Skaarj Gélido"
 
 [Krall]
 ; EN: NameArticle=" a "
@@ -256,7 +256,7 @@ MenuName="Mercenario de Élite"
 ; EN: NameArticle=" a "
 NameArticle=" una "
 ; EN: MenuName="Pupae"
-MenuName="Pupa"
+MenuName="Crisálida"
 
 [SkaarjAssassin]
 ; EN: NameArticle=" a "

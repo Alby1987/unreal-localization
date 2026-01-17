@@ -1,7 +1,7 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAASamples,Title="Anti Aliasing Mode",Description="Anti alias method used to reduce jagged edges. 1 or lower = off. Maximum is 8.",Value("0"),Value("1"),Value("2"),Value("4"),Value("6"),Value("8"))
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAASamples,Title="",Description="",Value("0"),Value("1"),Value("2"),Value("4"),Value("6"),Value("8"))
-; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAFSamples,Title="Anisotropic Filtering",Description="Anisotropic filtering with the specified sample number will be used to make distant surface textures appear sharper with minimum performance loss. 1 or lower = off. Maximum is 16.",Value("0"),Value("1"),Value("2"),Value("3"),Value("4"),Value("5"),Value("6"),Value("7"),Value("8"),Value("9"),Value("10"),Value("11"),Value("12"),Value("13"),Value("14"),Value("15"),Value("16"))
+; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAFSamples,Title="Anisotropic Filtering",Description="Anisotropic filtering with the specified sample number will be used to make distant surface textures appear sharper at certain angles with minimum performance loss. 1 or lower = off. Maximum is 16.",Value("0"),Value("1"),Value("2"),Value("3"),Value("4"),Value("5"),Value("6"),Value("7"),Value("8"),Value("9"),Value("10"),Value("11"),Value("12"),Value("13"),Value("14"),Value("15"),Value("16"))
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=NumAFSamples,Title="",Description="",Value("0"),Value("1"),Value("2"),Value("3"),Value("4"),Value("5"),Value("6"),Value("7"),Value("8"),Value("9"),Value("10"),Value("11"),Value("12"),Value("13"),Value("14"),Value("15"),Value("16"))
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=GammaMode,Title="Gamma Mode",Description="Chooses what gamma calculation algorithm to use.",Value("XOpenGL"),Value("DX9"))
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=GammaMode,Title="",Description="",Value("XOpenGL"),Value("DX9"))
@@ -47,7 +47,7 @@ Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=Coronas,Title="",
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=VolumetricLighting,Title="",Description="")
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ShinySurfaces,Title="Mirrors",Description="If checked, enables base mirror surface support.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ShinySurfaces,Title="",Description="")
-; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
+; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=HighDetailActors,Title="",Description="")
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=DetailTextures,Title="",Description="")
@@ -59,3 +59,4 @@ Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=3DLineThickness,T
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=ActorSelectionColor,Title="",Description="")
 ; EN: Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=SurfaceSelectionColor,Title="Surface Selection Color (UEd)",Description="The color used when selecting surfaces in the editor.")
 Property=(Config,Class=ICBINDx11Drv.ICBINDx11RenderDevice,Name=SurfaceSelectionColor,Title="",Description="")
+

@@ -1,0 +1,64 @@
+[LevelInfo0]
+; EN: Title="Insidious"
+Title="Insidioso"
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText="DM-Insidioso"
+
+[LevelSummary]
+; EN: Title="Insidious"
+Title="Insidioso"
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText="DM-Insidioso"
+
+[ZoneInfo0]
+; EN: LocationName="Wall Tanks"
+LocationName="Muro de Tanques"
+
+[ZoneInfo1]
+; EN: LocationName="Bio Hall"
+LocationName="Sala de Rifle Biológico"
+
+[ZoneInfo10]
+; EN: LocationName="Lower Hall"
+LocationName="Sala Inferior"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Sala de Metralla"
+
+[ZoneInfo12]
+; EN: LocationName="Upper Halls"
+LocationName="Salas Superiores"
+
+[ZoneInfo13]
+; EN: LocationName="Cloning Tanks"
+LocationName="Tanques de Clonación"
+
+[ZoneInfo15]
+; EN: LocationName="Upper Halls"
+LocationName="Salas Superiores"
+
+[ZoneInfo2]
+; EN: LocationName="Cloning Tanks"
+LocationName="Tanques de Clonación"
+
+[ZoneInfo3]
+; EN: LocationName="Cloning Tanks"
+LocationName="Tanques de Clonación"
+
+[ZoneInfo4]
+; EN: LocationName="Lower Hall"
+LocationName="Sala Inferior"
+
+[ZoneInfo7]
+; EN: LocationName="Wall Tanks"
+LocationName="Muro de Tanques"
+
+[ZoneInfo8]
+; EN: LocationName="Wall Tanks"
+LocationName="Muro de Tanques"
+
+[ZoneInfo9]
+; EN: LocationName="Fan Room"
+LocationName="Sala del Ventilador"
+
