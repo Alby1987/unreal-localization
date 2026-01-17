@@ -20,38 +20,6 @@ LocationName="Base Roja"
 ; EN: LocationName="Red Base"
 LocationName="Base Roja"
 
-[Volume2]
-; EN: LocationName="Red Base"
-LocationName="Base Roja"
-
-[Volume3]
-; EN: LocationName="Red Base"
-LocationName="Base Roja"
-
-[Volume4]
-; EN: LocationName="Red Base"
-LocationName="Base Roja"
-
-[Volume5]
-; EN: LocationName="Red Base"
-LocationName="Base Roja"
-
-[Volume6]
-; EN: LocationName="Red Base"
-LocationName="Base Roja"
-
-[Volume7]
-; EN: LocationName="Blue Base"
-LocationName="Base Azul"
-
-[Volume8]
-; EN: LocationName="Blue Base"
-LocationName="Base Azul"
-
-[Volume9]
-; EN: LocationName="Blue Base"
-LocationName="Base Azul"
-
 [Volume10]
 ; EN: LocationName="Blue Base"
 LocationName="Base Azul"
@@ -92,7 +60,39 @@ LocationName="Nodo Sur (1)"
 ; EN: LocationName="West Node (3)"
 LocationName="Nodo Oeste (3)"
 
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
 [Volume20]
 ; EN: LocationName="Bridge"
 LocationName="Puente"
+
+[Volume3]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume4]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume5]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume6]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume7]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume8]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume9]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
 
