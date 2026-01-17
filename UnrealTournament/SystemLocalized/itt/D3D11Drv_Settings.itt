@@ -8,17 +8,17 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Modalit�
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="Se selezionato, tutte le textures verranno precaricate nella memoria della GPU. Aumenta il tempo di caricamento, ma mantiene la velocità di gioco costante.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Dettagli Texture",Description="Se abilitato, abilita il supporto ai dettagli delle texture.")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="Alto Dettaglio Attori",Description="Se attivata, verrà utilizzata la versione ad alto dettaglio di alcuni oggetti. Disattivarla può migliorare le prestazioni, ma ridurre significativamente la qualità dell’immagine.")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="Attori ad Alto Dettaglio",Description="Se attivata, verrà utilizzata la versione ad alto dettaglio di alcuni oggetti. Disattivarla può migliorare le prestazioni, ma ridurre significativamente la qualità dell’immagine.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Coronas,Title="Coronas",Description="If checked, enables rendering of light coronas.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Coronas,Title="Corone Luminose",Description="Abilita il rendering delle corone luminose.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="Enables rendering of shiny surfaces such as mirrors.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=ShinySurfaces,Title="Superfici Riflettenti",Description="Abilita il rendering di superfici riflettenti come gli specchi.")
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Enables rendering of volumetric light effects such as fog.")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Volumetric Lighting",Description="Enables rendering of volumetric light effects such as fog.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=VolumetricLighting,Title="Illuminazione Volumetrica",Description="Abilita il rendering degli effetti luci volumetriche come la nebbia.")
 
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode in the Windows display settings.",RequireRestart)
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="Modalità HDR",Description="Abilita l'uso dell'high dynamic range. Funziona solo se il monitor è impostato all'utilizzo della modalità HDR nelle impostazioni di Windows.",RequireRestart)
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="HDR Mode",Description="Enables using high dynamic range. Only works if your monitor is set to run in HDR mode.",RequireRestart)
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Hdr,Title="Modalità HDR",Description="Abilita l'uso dell'high dynamic range. Funziona solo se il monitor è impostato all'utilizzo della modalità HDR.",RequireRestart)
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="HDR Scale",Description="Adjust HDR brightness multiplier.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="Scala HDR",Description="Aggiusta il moltiplicatore di luminosità dell'HDR.")
 
@@ -47,3 +47,4 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetBlue,Title="Co
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Controls minimum distance to surfaces and objects for lowering their texture and model detail to improve performance. Negative values increase the overall detail, while positive values decrease it.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LODBias,Title="Texture LOD Bias",Description="Controlla la distanza minima da superfici e oggetti oltre la quale viene ridotto il dettaglio di texture e modelli per migliorare le prestazioni. Valori negativi aumentano il livello di dettaglio complessivo, mentre valori positivi lo riducono.")
+

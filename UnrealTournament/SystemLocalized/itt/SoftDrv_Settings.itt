@@ -10,7 +10,7 @@ Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=HighResTextureSmooth,Ti
 ; EN: Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
 Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=DetailTextures,Title="Dettagli Texture",Description="Se abilitato, abilita il supporto ai dettagli delle texture.")
 ; EN: Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=HighDetailActors,Title="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
-Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=HighDetailActors,Title="Alto Dettaglio Attori",Description="Se attivata, verrà utilizzata la versione ad alto dettaglio di alcuni oggetti. Disattivarla può migliorare le prestazioni, ma ridurre significativamente la qualità dell’immagine.")
+Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=HighDetailActors,Title="Attori ad Alto Dettaglio",Description="Se attivata, verrà utilizzata la versione ad alto dettaglio di alcuni oggetti. Disattivarla può migliorare le prestazioni, ma ridurre significativamente la qualità dell’immagine.")
 ; EN: Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=Coronas,Title="Coronas",Description="If checked, enables rendering of light coronas.")
 Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=Coronas,Title="Corone Luminose",Description="Abilita il rendering delle corone luminose.")
 ; EN: Property=(Config,Class=SoftDrv.SoftwareRenderDevice,Name=ShinySurfaces,Title="Shiny Surfaces",Description="Enables rendering of shiny surfaces such as mirrors.")
