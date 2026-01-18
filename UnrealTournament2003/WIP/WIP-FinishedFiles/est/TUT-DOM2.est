@@ -1,10 +1,10 @@
 [LevelInfo0]
-; EN: Title="Scorched Earth"
-Title="Tierra Quemada"
+; EN: Title="Double Domination Tutorial"
+Title="Tutorial de Dominación Doble"
 
 [LevelSummary]
-; EN: Title="Scorched Earth"
-Title="Tierra Quemada"
+; EN: Title="Double Domination Tutorial"
+Title="Tutorial de Dominación Doble"
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
