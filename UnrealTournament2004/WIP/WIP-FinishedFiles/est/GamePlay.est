@@ -1,6 +1,6 @@
 [ACTION_DamageActor]
 ; EN: ActionString="Damage actor"
-ActionString="Actor de daños"
+ActionString="Dañar actor"
 
 [ACTION_DestroyActor]
 ; EN: ActionString="Destroy actor"
@@ -12,11 +12,11 @@ ActionString="Finalizar rotación"
 
 [ACTION_FireWeapon]
 ; EN: ActionString="fire weapon"
-ActionString="arma de fuego"
+ActionString="disparar arma"
 
 [ACTION_FireWeaponAt]
-; EN: ActionString="fire weapon"
-ActionString="arma de fuego"
+; EN: ActionString="fire weapon to"
+ActionString="disparar arma a"
 
 [ACTION_Freeze]
 ; EN: ActionString="Freeze"
@@ -28,19 +28,19 @@ ActionString="Curar actor"
 
 [ACTION_Jump]
 ; EN: ActionString="Jump"
-ActionString="Salto"
+ActionString="Saltar"
 
 [ACTION_LocalizedMessage]
 ; EN: ActionString="Localized Message"
-ActionString="Mensaje localizado"
+ActionString="Mensaje Localizado"
 
 [ACTION_PlayLIPSinc]
 ; EN: ActionString="Play LIPSinc"
-ActionString="Juega LIPSinc"
+ActionString="Reproducir LIPSinc"
 
 [ACTION_SetPhysics]
 ; EN: ActionString="change physics to "
-ActionString="cambiar la física a "
+ActionString="cambiar física a "
 
 [ACTION_ShootTarget]
 ; EN: ActionString="shoot target"
@@ -48,7 +48,7 @@ ActionString="disparar objetivo"
 
 [ACTION_SpawnActor]
 ; EN: ActionString="Spawn actor"
-ActionString="Actor engendro"
+ActionString="Generar actor"
 
 [ACTION_SubTitles]
 ; EN: ActionString="SubTitles"
@@ -56,11 +56,11 @@ ActionString="Subtítulos"
 
 [ACTION_ThrowWeapon]
 ; EN: ActionString="throw weapon"
-ActionString="lanzar arma"
+ActionString="arrojar arma"
 
 [ACTION_WaitForLIPSincAnimEnd]
 ; EN: ActionString="Wait for LIPSincAnimEnd"
-ActionString="Espere a que LIPSincAnimEnd"
+ActionString="Esperar por LIPSincAnimEnd"
 
 [ActionMessage_BR]
 ; EN: Messages[0]="Bombing Run"
@@ -89,7 +89,7 @@ Messages[10]="¡Buena suerte!"
 [ActionMessage_CTF]
 ; EN: Messages[0]="Capture the Flag"
 Messages[0]="Captura la bandera"
-; EN: Messages[1]="Two bases : red and blue"
+; EN: Messages[1]="Two bases: red and blue"
 Messages[1]="Dos bases: roja y azul"
 ; EN: Messages[2]="Touch enemy flag to take it"
 Messages[2]="Toca la bandera enemiga para tomarla."
@@ -98,7 +98,7 @@ Messages[3]="Regresa a tu base"
 ; EN: Messages[4]="Touch your flag to score"
 Messages[4]="Toca tu bandera para anotar"
 ; EN: Messages[5]="Translocating will drop the flag"
-Messages[5]="La translocación dejará caer la bandera"
+Messages[5]="La translocación hará que pierdas la bandera"
 ; EN: Messages[6]="Default capture limit is 3"
 Messages[6]="El límite de captura predeterminado es 3"
 ; EN: Messages[7]="Good luck!"
@@ -106,62 +106,63 @@ Messages[7]="¡Buena suerte!"
 
 [ActionMessage_DM]
 ; EN: Messages[0]="Deathmatch"
-Messages[0]="Combate a muerte"
+Messages[0]="Partida a Muerte"
 ; EN: Messages[1]="Press fire to spawn"
-Messages[1]="Presione el fuego para generar"
+Messages[1]="Pulsa disparo para iniciar"
 ; EN: Messages[2]="Weapons have two firing modes"
-Messages[2]="Las armas tienen dos modos de disparo."
+Messages[2]="Las armas tienen dos modos de disparo"
 ; EN: Messages[3]="Regular and alternate fire"
-Messages[3]="Fuego regular y alterno"
+Messages[3]="Disparo normal y alternativo"
 ; EN: Messages[4]="Assault Rifle"
-Messages[4]="Fusil de asalto"
+Messages[4]="Rifle de Asalto"
 ; EN: Messages[5]="Fires bullets and grenades"
 Messages[5]="Dispara balas y granadas"
 ; EN: Messages[6]="Shield Gun"
-Messages[6]="Arma de escudo"
+Messages[6]="Cañón Protector"
 ; EN: Messages[7]="Melee attack"
 Messages[7]="Ataque cuerpo a cuerpo"
 ; EN: Messages[8]="Protective Shield"
-Messages[8]="Escudo protector"
+Messages[8]="Escudo Protector"
 ; EN: Messages[9]="Explore to find other weapons"
 Messages[9]="Explora para encontrar otras armas"
 ; EN: Messages[10]="Flak Cannon"
-Messages[10]="Cañón antiaéreo"
+Messages[10]="Cañón de Metralla"
 ; EN: Messages[11]="Bio-Rifle"
-Messages[11]="Rifle biológico"
-Messages[12]="Minigun"
+Messages[11]="Rifle Biológico"
+; EN: Messages[12]="Minigun"
+Messages[12]="Ametralladora"
 ; EN: Messages[13]="Movement"
 Messages[13]="Movimiento"
 ; EN: Messages[14]="WASD = Default movement keys"
-Messages[14]="WASD = Teclas de movimiento predeterminadas"
+Messages[14]="Teclas de movimiento predeterminadas = WASD"
 ; EN: Messages[15]="Double tap a key to dodge"
-Messages[15]="Toca dos veces una tecla para esquivar"
+Messages[15]="Pulsa dos veces una tecla para esquivar"
 ; EN: Messages[16]="Jumping"
 Messages[16]="Saltar"
 ; EN: Messages[17]="Double jump"
-Messages[17]="Doble salto"
+Messages[17]="Doble Salto"
 ; EN: Messages[18]="Powerups"
-Messages[18]="Potenciadores"
+Messages[18]="Mejoras"
 ; EN: Messages[19]="Health vials"
-Messages[19]="Viales de salud"
+Messages[19]="Frascos de Curación"
 ; EN: Messages[20]="Health pack"
-Messages[20]="Paquete de salud"
+Messages[20]="Botiquín"
 ; EN: Messages[21]="Big Keg O' Health"
-Messages[21]="Big Keg O 'Health"
+Messages[21]="Gran Mochila de Salud"
 ; EN: Messages[22]="Armor"
 Messages[22]="Armadura"
 ; EN: Messages[23]="Shield Pack"
-Messages[23]="Paquete de escudo"
+Messages[23]="Paquete de Escudo"
 ; EN: Messages[24]="Super Shield Pack"
-Messages[24]="Paquete Super Shield"
+Messages[24]="Paquete de Superescudo"
 ; EN: Messages[25]="Adrenaline"
 Messages[25]="Adrenalina"
 ; EN: Messages[26]="Adrenaline can be used for combos"
-Messages[26]="La adrenalina se puede utilizar para combos."
+Messages[26]="La adrenalina se puede utilizar para combos"
 ; EN: Messages[27]="Damage Amplifier"
-Messages[27]="Amplificador de daño"
+Messages[27]="Amplificador de Daños"
 ; EN: Messages[28]="Reach the frag limit first!"
-Messages[28]="¡Alcanza el límite de fragmentos primero!"
+Messages[28]="¡Alcanza el límite de enemigos abatidos!"
 ; EN: Messages[29]="Suicides count against you"
 Messages[29]="Los suicidios cuentan en tu contra"
 ; EN: Messages[30]="Good luck!"
@@ -169,13 +170,13 @@ Messages[30]="¡Buena suerte!"
 
 [ActionMessage_DOM]
 ; EN: Messages[0]="Double Domination"
-Messages[0]="Doble dominación"
+Messages[0]="Dominación Doble"
 ; EN: Messages[1]="Control points : A & B"
 Messages[1]="Puntos de control: A y B"
 ; EN: Messages[2]="Hold points for 10 seconds"
-Messages[2]="Mantenga puntos durante 10 segundos"
+Messages[2]="Mantén ambos puntos durante 10 segundos"
 ; EN: Messages[3]="Touch point to take control"
-Messages[3]="Toque el punto para tomar el control"
+Messages[3]="Toca el punto para tomar el control"
 ; EN: Messages[4]="Good luck!"
 Messages[4]="¡Buena suerte!"
 
@@ -261,7 +262,7 @@ ActionString="Cambiar nivel"
 
 [Action_CHANGESCRIPT]
 ; EN: ActionString="Change script"
-ActionString="Cambiar secuencia de comandos"
+ActionString="Cambiar secuencia"
 
 [Action_CHANGETEAM]
 ; EN: ActionString="Change Team"
@@ -277,19 +278,19 @@ ActionString="comando de consola"
 
 [Action_DAMAGEINSTIGATOR]
 ; EN: ActionString="Damage instigator"
-ActionString="Instigador de daños"
+ActionString="Dañar a instigador"
 
 [Action_DESTROYPAWN]
 ; EN: ActionString="destroy pawn"
-ActionString="destruir peón"
+ActionString="destruir personaje"
 
 [Action_DISPLAYMESSAGE]
 ; EN: ActionString="display message"
-ActionString="mensaje de pantalla"
+ActionString="mostrar mensaje"
 
 [Action_DrawHUDMaterial]
 ; EN: ActionString="draw HUD texture"
-ActionString="dibujar textura HUD"
+ActionString="dibujar textura en MF"
 
 [Action_ENDSECTION]
 ; EN: ActionString="end section"
@@ -297,31 +298,31 @@ ActionString="sección final"
 
 [Action_FADEVIEW]
 ; EN: ActionString="fade view"
-ActionString="vista difuminada"
+ActionString="fundido"
 
 [Action_GOTOACTION]
 ; EN: ActionString="go to action"
-ActionString="ir a la acción"
+ActionString="ir a acción"
 
 [Action_IFCONDITION]
 ; EN: ActionString="If condition"
-ActionString="Si condición"
+ActionString="Condición 'si'"
 
 [Action_KILLINSTIGATOR]
-; EN: ActionString="Damage instigator"
-ActionString="Instigador de daños"
+; EN: ActionString="Kill instigator"
+ActionString="Matar a instigador"
 
 [Action_LEAVESEQUENCE]
 ; EN: ActionString="leave sequence"
-ActionString="dejar secuencia"
+ActionString="salir de secuencia"
 
 [Action_MOVETOPLAYER]
 ; EN: ActionString="Move to player"
-ActionString="Mover al jugador"
+ActionString="Mover a jugador"
 
 [Action_MOVETOPOINT]
 ; EN: ActionString="Move to point"
-ActionString="Mover al punto"
+ActionString="Mover a punto"
 
 [Action_PLAYAMBIENTSOUND]
 ; EN: ActionString="play ambient sound"
@@ -336,12 +337,12 @@ ActionString="reproducir animación"
 ActionString="reproducir anuncio"
 
 [Action_PLAYLOCALSOUND]
-; EN: ActionString="play sound"
-ActionString="reproducir sonido"
+; EN: ActionString="play local sound"
+ActionString="reproducir sonido local"
 
 [Action_PLAYMUSIC]
 ; EN: ActionString="play song"
-ActionString="tocar la canción"
+ActionString="reproducir pista"
 
 [Action_PLAYSOUND]
 ; EN: ActionString="play sound"
@@ -361,75 +362,75 @@ ActionString="establecer viewtarget"
 
 [Action_STOPANIMATION]
 ; EN: ActionString="stop animation"
-ActionString="detener la animación"
+ActionString="detener animación"
 
 [Action_TRIGGEREVENT]
 ; EN: ActionString="trigger event"
-ActionString="acontecimiento desencadenante"
+ActionString="desencadenar evento"
 
 [Action_TURNTOWARDPLAYER]
 ; EN: ActionString="Turn toward player"
-ActionString="Gire hacia el jugador"
+ActionString="Girar hacia jugador"
 
 [Action_WAITFORANIMEND]
 ; EN: ActionString="Wait for animend"
-ActionString="Espera a que termine"
+ActionString="Esperar a animend"
 
 [Action_WAITFOREVENT]
 ; EN: ActionString="Wait for external event"
-ActionString="Espere un evento externo"
+ActionString="Esperar por evento externo"
 
 [Action_WAITFORPLAYER]
 ; EN: ActionString="Wait for player"
-ActionString="Espera al jugador"
+ActionString="Esperar por jugador"
 
 [Action_WAITFORTIMER]
 ; EN: ActionString="Wait for timer"
-ActionString="Espera el temporizador"
+ActionString="Esperar por temporizador"
 
 [Action_WALK]
 ; EN: ActionString="walk"
-ActionString="andar"
+ActionString="caminar"
 
 [Burned]
 ; EN: DeathString="%o was sauteed."
-DeathString="% o estaba salteado."
+DeathString="%o ahora es un pedazo de carne cocida."
 
 [Corroded]
 ; EN: DeathString="%o was dissolved by %k's."
-DeathString="% o se disolvió en% k's."
+DeathString="%k ha disuelto a %o."
 ; EN: FemaleSuicide="%o dissolved in slime."
-FemaleSuicide="% o disuelto en fango."
+FemaleSuicide="%o ha sido disuelta en limo."
 ; EN: MaleSuicide="%o dissolved in slime."
-MaleSuicide="% o disuelto en fango."
+MaleSuicide="%o ha sido disuelto en limo."
 
 [Counter]
 ; EN: CountMessage="Only %i more to go..."
-CountMessage="Solo% i más para ir ..."
+CountMessage="Solo %i más para terminar..."
 ; EN: CompleteMessage="Completed!"
-CompleteMessage="¡Terminado!"
+CompleteMessage="¡Completado!"
 
 [Depressurized]
 ; EN: DeathString="%o was depressurized by %k."
-DeathString="% o fue despresurizado por% k."
+DeathString="%k ha despresurizado a %o."
 ; EN: FemaleSuicide="%o was depressurized."
-FemaleSuicide="% o estaba despresurizado."
+FemaleSuicide="%o ha sido despresurizada."
 ; EN: MaleSuicide="%o was depressurized."
-MaleSuicide="% o estaba despresurizado."
+MaleSuicide="%o ha sido despresurizado."
 
 [Drowned]
 ; EN: DeathString="%o forgot to come up for air."
-DeathString="% o olvidó subir a tomar aire."
+DeathString="%o ha olvidado salir a respirar."
 ; EN: FemaleSuicide="%o forgot to come up for air."
-FemaleSuicide="% o olvidó subir a tomar aire."
+FemaleSuicide="%o ha olvidado salir a respirar."
 ; EN: MaleSuicide="%o forgot to come up for air."
-MaleSuicide="% o olvidó subir a tomar aire."
+MaleSuicide="%o ha olvidado salir a respirar."
 
 [MessageTextureClient]
 ; EN: HisMessage="his"
 HisMessage="su"
 ; EN: HerMessage="her"
-HerMessage="ella"
+HerMessage="su"
 
 [ScriptedAction]
 ; EN: ActionString="unspecified action"
