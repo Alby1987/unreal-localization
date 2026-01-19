@@ -41,8 +41,29 @@ Message="cleared the M-M-M-Monster Gap!"
 [MessageTrigger9]
 Message="Ludicrous Gap!"
 
+[Volume10]
+LocationName="Red Base"
+
+[Volume11]
+LocationName="Blue Base"
+
 [Volume12]
 LocationName="Tower"
+
+[Volume5]
+LocationName="Red Prime Node (3)"
+
+[Volume6]
+LocationName="Blue Prime Node (2)"
+
+[Volume7]
+LocationName="Southwest Node (4)"
+
+[Volume8]
+LocationName="Southeast Node (5)"
+
+[Volume9]
+LocationName="Center Node (1)"
 
 [ZoneInfo1]
 LocationName="Outside"

@@ -10,55 +10,85 @@ Description="ESTE SÁBADO, ÚNICAMENTE UN DÍA, EN LA ARENA DE M-M-MONSTER VALLE
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="despejó el Holy Shit Gap!"
+Message="ha completado el Desafío La Leche"
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="¡despejó la brecha ridícula!"
+Message="ha completado el Desafío Carnaval de Sangre"
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="¡Todas las brechas despejadas!"
+Message="¡Completados todos los Desafíos!"
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="borra todos los huecos!"
+Message="ha completado todos los Desafíos"
 
 [MessageTrigger2]
-Message="Holy Shit Gap!"
+; EN: Message="Holy Shit Gap!"
+Message="¡Desafío La Leche!"
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="La dulce brecha de Ben"
+Message="Desafío Preferido de Ben"
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="¡Superaste la dulce brecha de Ben!"
+Message="ha completado el Desafío Preferido de Ben"
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="¡Unreal Gap!"
+Message="¡Desafío Unreal!"
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="¡despejó la brecha irreal!"
+Message="ha completado el Desafío Unreal"
 
 [MessageTrigger7]
-Message="M-M-M-Monster Gap!"
+; EN: Message="M-M-M-Monster Gap!"
+Message="¡Desafío Superdestructivo!"
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="¡despejó la brecha de M-M-M-Monster!"
+Message="ha completado el Desafío Superdestructivo"
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="¡Gap ridículo!"
+Message="¡Desafío Carnaval de Sangre!"
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
 
 [Volume12]
 ; EN: LocationName="Tower"
 LocationName="Torre"
 
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName="Nodo Principal Rojo (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName="Nodo Principal Azul (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName="Nodo SudOeste (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName="Nodo Sudeste"
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName="Nodo Central (1)"
+
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Fuera de"
+LocationName="Exterior"
 

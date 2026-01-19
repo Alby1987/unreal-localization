@@ -215,8 +215,8 @@ LocationName="Área de Secreto Especial"
 LocationName="Torre Roja"
 
 [ZoneInfo3]
-; EN: LocationName="Outdoors"
-LocationName="Exteriores"
+; EN: LocationName="Outside"
+LocationName="Exterior"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Tower"

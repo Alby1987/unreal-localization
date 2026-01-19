@@ -955,9 +955,9 @@ ItemName="Cañón de Metralla"
 
 [MultiKillMessage]
 ; EN: DoubleKillString="Double Kill!"
-DoubleKillString="¡Dos menos!"
+DoubleKillString="¡Dos Menos!"
 ; EN: TripleKillString="Triple Kill!"
-TripleKillString="¡Tres menos!"
+TripleKillString="¡Tres Menos!"
 ; EN: MultiKillString="Multi Kill!"
 MultiKillString="¡Multidestrucción!"
 ; EN: UltraKillString="ULTRA KILL!!"

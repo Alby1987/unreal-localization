@@ -5,9 +5,6 @@ Title="Ascendancy"
 Title="Ascendancy"
 Description="Battle over Tarydium crystal mines on the Second Moon of Kaldor Prime."
 
-[ZoneInfo0]
-LocationName="Outdoors"
-
 [Volume0]
 LocationName="Red Base"
 
@@ -31,4 +28,7 @@ LocationName="Southeast Wing (2)"
 
 [Volume7]
 LocationName="Red Prime Base (3)"
+
+[ZoneInfo0]
+LocationName="Outdoors"
 

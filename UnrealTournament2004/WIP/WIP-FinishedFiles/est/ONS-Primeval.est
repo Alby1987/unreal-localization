@@ -13,22 +13,22 @@ Description="Anidada en la oscuridad de los Bosques Primevos, este estadio de Ac
 LocationName="Base Roja"
 
 [Volume2]
-; EN: LocationName="Red Prime Node (1)"
-LocationName="Nodo Principal Rojo (1)"
+; EN: LocationName="Red Side Base (1)"
+LocationName="Base Lateral Roja (1)"
 
 [Volume3]
 ; EN: LocationName="Center Node (3)"
 LocationName="Nodo Central (3)"
 
 [Volume4]
-; EN: LocationName="Blue Prime Node (2)"
-LocationName="Nodo Principal Azul (2)"
+; EN: LocationName="Blue Side Base (2)"
+LocationName="Base Lateral Azul (2)"
 
 [Volume5]
 ; EN: LocationName="Blue Base"
 LocationName="Base Azul"
 
 [ZoneInfo0]
-; EN: LocationName="Wandering in the woods"
+; EN: LocationName="Wandering in the Woods"
 LocationName="Vagando por el Bosque"
 

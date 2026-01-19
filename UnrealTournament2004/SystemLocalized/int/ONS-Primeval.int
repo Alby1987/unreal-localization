@@ -9,17 +9,17 @@ Description="Nestled away in the darkness of the Primeval Forest, this Onslaught
 LocationName="Red Base"
 
 [Volume2]
-LocationName="Red Side Base"
+LocationName="Red Side Base (1)"
 
 [Volume3]
-LocationName="Center Node"
+LocationName="Center Node (3)"
 
 [Volume4]
-LocationName="Blue Side Base"
+LocationName="Blue Side Base (2)"
 
 [Volume5]
 LocationName="Blue Base"
 
 [ZoneInfo0]
-LocationName="Wandering in the woods"
+LocationName="Wandering in the Woods"
 

@@ -11,6 +11,27 @@ LocationName="Eastern Falls"
 [Volume1]
 LocationName="Western Falls"
 
+[Volume10]
+LocationName="Blue Support Node (5)"
+
+[Volume11]
+LocationName="South Node (3)"
+
+[Volume13]
+LocationName="Red Prime Node (1)"
+
+[Volume14]
+LocationName="Red Power Core"
+
+[Volume15]
+LocationName="Red Support Node (7)"
+
+[Volume16]
+LocationName="North Node (4)"
+
+[Volume17]
+LocationName="Center Node (6)"
+
 [Volume2]
 LocationName="Eastern Base"
 
@@ -28,6 +49,12 @@ LocationName="Bridge"
 
 [Volume7]
 LocationName="Central Island"
+
+[Volume8]
+LocationName="Blue Prime Node (2)"
+
+[Volume9]
+LocationName="Blue Power Core"
 
 [ZoneInfo0]
 LocationName="Canyon"

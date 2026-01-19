@@ -53,12 +53,12 @@ LocationName="Base del Este"
 LocationName="Base del Oeste"
 
 [Volume4]
-; EN: LocationName="Northern Bridge Passage (4)"
-LocationName="Pasaje de Puente Norte (4)"
+; EN: LocationName="Northern Bridge Passage"
+LocationName="Pasaje de Puente Norte"
 
 [Volume5]
-; EN: LocationName="Southern Bridge Passage (3)"
-LocationName="Pasaje de Puente Sur (3)"
+; EN: LocationName="Southern Bridge Passage"
+LocationName="Pasaje de Puente Sur"
 
 [Volume6]
 ; EN: LocationName="Bridge"
