@@ -48,11 +48,11 @@ LocationName="Rifle Biológico"
 
 [ZoneInfo19]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 
 [ZoneInfo2]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 
 [ZoneInfo3]
 ; EN: LocationName="Lightning Gun"
@@ -64,7 +64,7 @@ LocationName="Rifle de Choque"
 
 [ZoneInfo5]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 
 [ZoneInfo6]
 ; EN: LocationName="Flak"
@@ -72,7 +72,7 @@ LocationName="Cañón de Metralla"
 
 [ZoneInfo7]
 ; EN: LocationName="Double Damage Lift"
-LocationName="Ascensor de Daño Doble"
+LocationName="Ascensor de Doble Daño"
 
 [ZoneInfo8]
 ; EN: LocationName="Shock Rifle"
@@ -80,5 +80,5 @@ LocationName="Rifle de Choque"
 
 [ZoneInfo9]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 
