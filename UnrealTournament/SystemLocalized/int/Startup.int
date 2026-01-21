@@ -2,8 +2,8 @@
 Run="Run!"
 FirstTime="Unreal Tournament First-Time Configuration"
 SafeMode="Unreal Tournament Safe Mode"
-Video="Unreal Tournament Multimedia Configuration"
-Audio="Unreal Tournament Multimedia Configuration"
+Video="Unreal Tournament Video Configuration"
+Audio="Unreal Tournament Audio Configuration"
 RecoveryMode="Unreal Tournament Recovery Mode"
 WebPage="https://www.oldunreal.com"
 Direct3DWebPage="https://web.archive.org/web/20090930075309/http://unreal.epicgames.com:80/Direct3D.htm"
@@ -30,7 +30,7 @@ VulkanDrv.VulkanRenderDevice="Use Vulkan hardware rendering. Works best on high-
 MetalDrv.MetalRenderDevice="For users with S3 Savage4 video cards."
 ALAudio.ALAudioSubsystem="Use OldUnreal's advanced OpenAL-based audio driver. Provides great performance and support for high-end sound cards. EFX support."
 Galaxy.GalaxyAudioSubsystem="Use Unreal Tournament's original audio driver."
-Cluster.ClusterAudioSubsystem="Use OldUnreal's advanced FMOD-based audio driver. Provides great performance and support for high end-sound cards. EFX support.
+Cluster.ClusterAudioSubsystem="Use OldUnreal's advanced FMOD-based audio driver. Provides great performance and support for high end-sound cards. EFX support."
 
 [IDDIALOG_ConfigPageDetail]
 IDC_ConfigPageDetail=" "
