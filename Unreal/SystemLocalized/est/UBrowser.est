@@ -117,7 +117,7 @@ CloseName="&Cerrar Ventana"
 
 [UBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Server Browser"
-WindowTitleString="Buscador de Servidores de Unreal"
+WindowTitleString="Explorador de Servidores de Unreal"
 
 [UBrowserRightClickMenu]
 ; EN: RefreshName="&Refresh All Servers"

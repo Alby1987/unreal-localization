@@ -18,4 +18,4 @@ SpecsName="Espectadores"
 
 [UTBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Tournament Server Browser"
-WindowTitleString="Buscador de Servidores Unreal Tournament"
+WindowTitleString="Explorador de Servidores Unreal Tournament"

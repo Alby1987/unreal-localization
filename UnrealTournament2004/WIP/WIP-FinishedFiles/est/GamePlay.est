@@ -290,7 +290,7 @@ ActionString="mostrar mensaje"
 
 [Action_DrawHUDMaterial]
 ; EN: ActionString="draw HUD texture"
-ActionString="dibujar textura en MF"
+ActionString="dibujar textura en MF/HUD"
 
 [Action_ENDSECTION]
 ; EN: ActionString="end section"
