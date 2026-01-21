@@ -19,24 +19,28 @@ LocationName="Muro de Tanques"
 LocationName="Sala de Rifle Biológico"
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Sala Inferior"
+; EN: LocationName="Eastern Lower Halls"
+LocationName="Salas Inferiores Este"
 
 [ZoneInfo11]
 ; EN: LocationName="Flak Hall"
 LocationName="Sala de Metralla"
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Salas Superiores"
+; EN: LocationName="Bio Hall"
+LocationName="Sala Rifle Biológico"
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
 LocationName="Tanques de Clonación"
 
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName="Salas Superiores Norte"
+
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Salas Superiores"
+; EN: LocationName="Flak Hall"
+LocationName="Sala Cañón de Metralla"
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
@@ -47,8 +51,12 @@ LocationName="Tanques de Clonación"
 LocationName="Tanques de Clonación"
 
 [ZoneInfo4]
-; EN: LocationName="Lower Hall"
-LocationName="Sala Inferior"
+; EN: LocationName="Western Lower Halls"
+LocationName="Salas Inferiores Oeste"
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName="Salas Superiores Sur"
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"

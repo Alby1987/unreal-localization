@@ -77,20 +77,20 @@ LocationName="Sala de Daño Doble"
 LocationName="Sala de Daño Doble"
 
 [ZoneInfo25]
-; EN: LocationName="Lightning Gun Hallway"
-LocationName="Corredor de Arma Eléctrica"
+; EN: LocationName="Sniper Rifle Hallway"
+LocationName="Corredor de Rifle de Precisión"
 
 [ZoneInfo26]
-; EN: LocationName="Lightning Gun Hallway"
-LocationName="Corredor de Arma Eléctrica"
+; EN: LocationName="Sniper Rifle Hallway"
+LocationName="Corredor de Rifle de Precisión"
 
 [ZoneInfo27]
-; EN: LocationName="Lightning Gun Hallway"
-LocationName="Corredor de Arma Eléctrica"
+; EN: LocationName="Sniper Rifle Hallway"
+LocationName="Corredor de Rifle de Precisión"
 
 [ZoneInfo28]
-; EN: LocationName="Lightning Gun Hallway"
-LocationName="Corredor de Arma Eléctrica"
+; EN: LocationName="Sniper Rifle Hallway"
+LocationName="Corredor de Rifle de Precisión"
 
 [ZoneInfo29]
 LocationName="Sala de Daño Doble"
@@ -100,8 +100,8 @@ LocationName="Sala de Daño Doble"
 LocationName="Zona Cabezas de Dragón"
 
 [ZoneInfo4]
-; EN: LocationName="Lightning Gun Hallway"
-LocationName="Corredor de Arma Eléctrica"
+; EN: LocationName="Sniper Rifle Hallway"
+LocationName="Corredor de Rifle de Precisión"
 
 [ZoneInfo5]
 ; EN: LocationName="Side Hallway"

@@ -69,8 +69,8 @@ LocationName="Hueco del Ascensor Oeste"
 LocationName="Alcantarilla Sudeste"
 
 [ZoneInfo5]
-; EN: LocationName="East Curved Corridor"
-LocationName="Corredor Curvado Este"
+; EN: LocationName="Southwest Curved Corridor"
+LocationName="Corredor Curvado SudOeste"
 
 [ZoneInfo6]
 ; EN: LocationName="East Area"
