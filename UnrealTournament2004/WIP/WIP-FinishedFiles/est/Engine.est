@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
 Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -372,7 +372,7 @@ SessionBanned="Tu dirección IP ha sido vetada en la sesión actual del juego."
 ; EN: KickedMsg="You have been forcibly removed from the game."
 KickedMsg="Te han sacado forzosamente del juego."
 ; EN: DefaultKickReason="None specified"
-DefaultKickReason="Ninguno especificado"
+DefaultKickReason="Sin especificar"
 ; EN: IdleKickReason="Kicked for idling."
 IdleKickReason="Expulsado por inactividad."
 ; EN: ACDisplayText[0]="Game Password"
@@ -775,7 +775,7 @@ StringUnknown="Desconocido"
 
 [StreamPlaylistManager]
 ; EN: DefaultPlaylistName="New Playlist"
-DefaultPlaylistName="Nueva lista de reproducción"
+DefaultPlaylistName="Nueva Lista de Reproducción"
 
 [SubActionCameraEffect]
 ; EN: Desc="Camera effect"

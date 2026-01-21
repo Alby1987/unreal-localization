@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 ; EN: Run="Run!"
 Run="¡Ejecutar!"
 ; EN: FirstTime="Unreal Tournament 2004 First-Time Configuration"
@@ -45,7 +45,7 @@ IDC_NoSound="Desactivar el sonido"
 ; EN: IDC_Res="Run in standard 640x480 resolution"
 IDC_Res="Ejecutar en resolución estándar 640x480"
 ; EN: IDC_ResetConfig="Reset all configuration options to defaults"
-IDC_ResetConfig="Restaurar todas las configuraciones a valores por defecto"
+IDC_ResetConfig="Restablecer todas las configuraciones a valores por defecto"
 ; EN: IDC_NoProcessor="Disable Pentium III/3DNow processor extensions"
 IDC_NoProcessor="Desactivar las extensiones de procesador Pentium III/3DNow"
 ; EN: IDC_NoJoy="Disable joystick support"

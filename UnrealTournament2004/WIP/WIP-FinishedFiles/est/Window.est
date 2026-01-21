@@ -1,4 +1,4 @@
-[Errors]
+﻿[Errors]
 ; EN: Critical="Critical Error"
 Critical="Error Grave"
 ; EN: FailedConfigLoad="%s (failed load)"
@@ -27,7 +27,7 @@ InsertButton="Insertar"
 ; EN: DeleteButton="Delete"
 DeleteButton="Borrar"
 ; EN: DefaultsButton="Reset To Defaults"
-DefaultsButton="Restaurar Valor P/Defecto"
+DefaultsButton="Restab. Predeterm."
 ; EN: BackButton="< &Back"
 BackButton="< Atrás (&B)"
 ; EN: NextButton="&Next >"

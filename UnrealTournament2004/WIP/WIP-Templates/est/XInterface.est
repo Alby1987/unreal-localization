@@ -1,4 +1,4 @@
-[AdminPlayerList]
+﻿[AdminPlayerList]
 ColumnHeadings=("Player Name","Unique ID","IP")
 
 [Browser_AddBuddy]
@@ -588,9 +588,9 @@ KeyConfigAliasLabel3.Caption="Clave 2"
 ; EN: KeyConfigKeyList.Hint="Select Control to config"
 KeyConfigKeyList.Hint="Seleccione Control para configurar"
 ; EN: KeyResetButton.Caption="RESET"
-KeyResetButton.Caption="REINICIAR"
+KeyResetButton.Caption="RESTABLECER"
 ; EN: KeyResetButton.Hint="Reset keys to default values"
-KeyResetButton.Hint="Restablecer las claves a los valores predeterminados"
+KeyResetButton.Hint="Restablece las asignaciones a los valores predeterminados"
 
 [Tab_DetailSettings]
 ; EN: DetailLevels[0]="Lowest"
@@ -1416,8 +1416,8 @@ Err_CantCreateProfile="Falló la creación del perfil."
 btnBack.Caption="ESPALDA"
 ; EN: btnBack.Hint="Return to previous menu"
 btnBack.Hint="Regresar al menú anterior"
-; EN: btnDefaults.Caption="SET TO DEFAULTS"
-btnDefaults.Caption="CONFIGURAR A PREDETERMINADOS"
+; EN: btnDefaults.Caption="RESET TO DEFAULTS"
+btnDefaults.Caption="RESTAB. PREDETERMINADOS"
 ; EN: btnDefaults.Hint="Set this profile back to default values"
 btnDefaults.Hint="Establecer este perfil de nuevo a los valores predeterminados"
 ; EN: btnNextSkin.Hint="Selects a new appearance for your character"
@@ -1680,7 +1680,7 @@ BotWeapon.Caption="Arma preferida"
 BotWeapon.Hint="Selecciona qué arma debería preferir este bot."
 OkButton.Caption="OK"
 ; EN: ResetButton.Caption="Reset"
-ResetButton.Caption="Reiniciar"
+ResetButton.Caption="Restablecer"
 
 [UT2BotInfoPage]
 ; EN: NoInformation="No Information Available!"

@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM | Invasion | SkaarjPack.Tab_IAInvasion | SkaarjPack.MapListSkaarjInvasion | false")
 
@@ -168,7 +168,7 @@ WCFGLabel1.Caption="Configura cada oleada..."
 ; EN: WCFGLabel2.Caption="Difficulty"
 WCFGLabel2.Caption="Dificultad"
 ; EN: WCFGReset.Caption="Reset"
-WCFGReset.Caption="Reiniciar"
+WCFGReset.Caption="Restablecer"
 ; EN: WCFGWaveNo.Caption="Wave No."
 WCFGWaveNo.Caption="Oleada No."
 ; EN: WCFGWaveNo.Hint="Select which wave to adjust."

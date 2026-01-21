@@ -1,4 +1,4 @@
-[utvPrimaryMenu]
+﻿[utvPrimaryMenu]
 ; EN: Label1.Caption="Total clients"
 Label1.Caption="Total Clientes"
 ; EN: LabelD.Caption="Delay"
@@ -26,7 +26,7 @@ LabelVP.Caption="Contraseña VIP"
 ; EN: OkButton.Caption="OK"
 OkButton.Caption="OK"
 ; EN: ResetButton.Caption="Reset"
-ResetButton.Caption="Reiniciar"
+ResetButton.Caption="Restablecer"
 ; EN: TitleText.Caption="UTV2004 Primary settings"
 TitleText.Caption="Configuración Primaria de UTV2004"
 

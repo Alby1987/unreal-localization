@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="Necesario para que UTV2004 sea compatible en modo "Vista Completa"")
 
 [utvMutator]
