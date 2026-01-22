@@ -1247,7 +1247,7 @@ OutputRateText="Calidad de Salida"
 ; EN: OutputRateHelp="Changes the audio sampling rate, affecting sound quality."
 OutputRateHelp="Cambia la frecuencia de muestreo del sonido, lo cual afecta la calidad sonora."
 ; EN: SpeechVolumeText="Speech Volume"
-SpeechVolumeText="Volumen de Líneas Habladas"
+SpeechVolumeText="Volumen de Diálogo"
 ; EN: SpeechVolumeHelp="Increase or decrease speech volume."
 SpeechVolumeHelp="Ajusta el volumen de las líneas habladas."
 
