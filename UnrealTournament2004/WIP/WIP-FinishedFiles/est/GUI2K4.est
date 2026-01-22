@@ -1396,7 +1396,7 @@ CaptionBack="VOLVER"
 
 [UT2K4SPTab_DetailEnemies]
 ; EN: StrengthLabels=("Weak","Tough","Strong","Godlike","Phantom")
-StrengthLabels=("Débil","Duro","Fuerte","Divino","Fantasma")
+StrengthLabels=("Débil","Duro","Fuerte","Supremo","Fantasma")
 ; EN: ColumnHeadings[0]="Name"
 ColumnHeadings[0]="Nombre"
 ; EN: ColumnHeadings[1]="Matches"
@@ -1596,7 +1596,7 @@ DifficultyLevels[5]="Maestro"
 ; EN: DifficultyLevels[6]="Inhuman"
 DifficultyLevels[6]="Superhumano"
 ; EN: DifficultyLevels[7]="Godlike"
-DifficultyLevels[7]="Semidiós"
+DifficultyLevels[7]="Supremo"
 ; EN: PanelCaption="New profile"
 PanelCaption="Nuevo perfil"
 ; EN: SPNbtnNextSkin.Hint="Selects a new appearance for your character."

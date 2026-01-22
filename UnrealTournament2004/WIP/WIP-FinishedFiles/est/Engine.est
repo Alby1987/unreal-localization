@@ -619,7 +619,7 @@ GIPropDescText[13]="Determina el tiempo de espera para expulsar a un jugador ina
 ; EN: GIPropDescText[14]="When enabled, some weapons cause view shaking while firing."
 GIPropDescText[14]="Cuando se activa, algunas armas hacen vibrar la visión mientras se disparan."
 ; EN: GIPropsExtras[0]="0.000000;Novice;1.000000;Average;2.000000;Experienced;3.000000;Skilled;4.000000;Adept;5.000000;Masterful;6.000000;Inhuman;7.000000;Godlike"
-GIPropsExtras[0]="0.000000;Novato;1.000000;Promedio;2.000000;Experimentado;3.000000;Experto;4.000000;Adepto;5.000000;Maestro;6.000000;Superhumano;7.000000;Semidios"
+GIPropsExtras[0]="0.000000;Novato;1.000000;Promedio;2.000000;Experimentado;3.000000;Experto;4.000000;Adepto;5.000000;Maestro;6.000000;Superhumano;7.000000;Supremo"
 ; EN: NoBindString="[None]"
 NoBindString="[Ninguno]"
 
