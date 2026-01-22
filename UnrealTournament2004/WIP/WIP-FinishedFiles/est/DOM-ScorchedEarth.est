@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
 Title="Tierra Quemada"
 
@@ -8,11 +8,11 @@ Title="Tierra Quemada"
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="Lanzam. Azules"
+LocationName="Reaparición Azules"
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spawn"
-LocationName="Lanzam. Rojos"
+LocationName="Reaparición Rojos"
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
@@ -32,7 +32,7 @@ LocationName="Centro Interior"
 
 [ZoneInfo16]
 ; EN: LocationName="Spawn Blue"
-LocationName="Lanzam. Azules"
+LocationName="Reaparición Azules"
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
@@ -68,7 +68,7 @@ LocationName="Pasadizo Frontal B"
 
 [ZoneInfo7]
 ; EN: LocationName="Spawn Red"
-LocationName="Lanzam. Rojos"
+LocationName="Reaparición Rojos"
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"

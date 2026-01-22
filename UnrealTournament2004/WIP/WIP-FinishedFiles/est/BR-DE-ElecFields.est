@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="ElecFields"
 Title="Campos Eléctricos"
 
@@ -17,36 +17,36 @@ LocationName="Frente Azul"
 LocationName="Área de Reaparición Azul"
 
 [Volume10]
-; EN: LocationName="Red Base Ramp"
-LocationName="Rampa de Base Roja"
+; EN: LocationName="Red North Base Ramp"
+LocationName="Rampa Norte de Base Roja"
 
 [Volume11]
-; EN: LocationName="Red Base Ramp"
-LocationName="Rampa de Base Roja"
+; EN: LocationName="Red South Base Ramp"
+LocationName="Rampa Sur de Base Roja"
 
 [Volume12]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Azul"
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName="Rampa Inferior Sur Frontal Azul"
 
 [Volume13]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Roja"
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName="Rampa Inferior Norte Frontal Roja"
 
 [Volume14]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Azul"
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName="Rampa Inferior Sur Frontal Azul"
 
 [Volume15]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Azul"
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName="Rampa Inferior Norte Frontal Azul"
 
 [Volume16]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Roja"
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName="Rampa Inferior Norte Frontal Roja"
 
 [Volume17]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Roja"
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName="Rampa Inferior Sur Frontal Roja"
 
 [Volume18]
 ; EN: LocationName="Top Middle Area"
@@ -85,16 +85,20 @@ LocationName="Rampa Superior Frontal Roja"
 LocationName="Rampa Superior Frontal Roja"
 
 [Volume26]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Roja"
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName="Rampa Inferior Sur Frontal Roja"
 
 [Volume27]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampa Inferior Frontal Azul"
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName="Rampa Inferior Norte Frontal Azul"
 
 [Volume28]
 ; EN: LocationName="Blue Base"
 LocationName="Base Azul"
+
+[Volume29]
+; EN: LocationName="Shield Platform"
+LocationName="Plataforma de Escudo"
 
 [Volume3]
 ; EN: LocationName="Red Spawning Area"
@@ -105,12 +109,12 @@ LocationName="Área de Reaparición Roja"
 LocationName="Frente Rojo"
 
 [Volume5]
-; EN: LocationName="Blue Base Ramp"
-LocationName="Rampa de Base Azul"
+; EN: LocationName="Blue South Base Ramp"
+LocationName="Rampa Sur de Base Azul"
 
 [Volume6]
-; EN: LocationName="Blue Base Ramp"
-LocationName="Rampa de Base Azul"
+; EN: LocationName="Blue North Base Ramp"
+LocationName="Rampa Norte de Base Azul"
 
 [Volume7]
 ; EN: LocationName="Red Base"

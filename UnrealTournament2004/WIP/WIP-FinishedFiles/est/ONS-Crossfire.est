@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Crossfire"
 Title="Fuego Cruzado"
 
@@ -45,12 +45,12 @@ LocationName="Nodo Principal Azul Oeste (2)"
 LocationName="Nodo Principal Rojo Este (1)"
 
 [Volume4]
-; EN: LocationName="Red North Prime Node (5)"
-LocationName="Nodo Principal Rojo Norte (5)"
+; EN: LocationName="West Node (5)"
+LocationName="Nodo Este (5)"
 
 [Volume7]
-; EN: LocationName="Blue South Prime Node (4)"
-LocationName="Nodo Principal Azul Sur (4)"
+; EN: LocationName="East Node (4)"
+LocationName="Nodo Este (4)"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"

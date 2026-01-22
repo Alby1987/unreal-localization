@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Temple Of Anubis"
 Title="Templo de Anubis"
 
@@ -19,20 +19,20 @@ LocationName="Redentor"
 LocationName="Duna Arenosa del Super Escudo"
 
 [ZoneInfo10]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue South Respawn"
+LocationName="Reaparición Sur Azul"
 
 [ZoneInfo12]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue South Respawn"
+LocationName="Reaparición Sur Azul"
 
 [ZoneInfo13]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue South Respawn"
+LocationName="Reaparición Sur Azul"
 
 [ZoneInfo14]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Entrada Superior Azul"
+; EN: LocationName="Red North Top Entrance"
+LocationName="Entrada Superior Norte Roja"
 
 [ZoneInfo15]
 ; EN: LocationName="Red Base"
@@ -43,104 +43,104 @@ LocationName="Base Roja"
 LocationName="Base Roja"
 
 [ZoneInfo17]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red North Respawn"
+LocationName="Reaparición Norte Roja"
 
 [ZoneInfo18]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue North Respawn"
+LocationName="Reaparición Norte Azul"
 
 [ZoneInfo19]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red South Respawn"
+LocationName="Reaparición Sur Roja"
 
 [ZoneInfo2]
-; EN: LocationName="Flak Cannon"
-LocationName="Cañón de Metralla"
+; EN: LocationName="Rocket Launcher Room"
+LocationName="Sala de Lanzacohetes"
 
 [ZoneInfo20]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red South Respawn"
+LocationName="Reaparición Sur Roja"
 
 [ZoneInfo21]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red South Respawn"
+LocationName="Reaparición Sur Roja"
 
 [ZoneInfo22]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red South Respawn"
+LocationName="Reaparición Sur Roja"
 
 [ZoneInfo23]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue North Respawn"
+LocationName="Reaparición Norte Azul"
 
 [ZoneInfo24]
-; EN: LocationName="Blue Respawn"
-LocationName="Reaparición de Equipo Azul"
+; EN: LocationName="Blue North Respawn"
+LocationName="Reaparición Norte Azul"
 
 [ZoneInfo25]
 ; EN: LocationName="Center"
 LocationName="Centro"
 
 [ZoneInfo26]
-; EN: LocationName="Rocket launcher room"
-LocationName="Sala de Lanzacohetes"
+; EN: LocationName="Flak Cannon Room"
+LocationName="Sala de Cañón de Metralla"
 
 [ZoneInfo27]
-; EN: LocationName="Rocket Launcher"
-LocationName="Lanzacohetes"
+; EN: LocationName="Flak Cannon Room"
+LocationName="Sala de Cañón de Metralla"
 
 [ZoneInfo28]
-; EN: LocationName="Flak Cannon"
-LocationName="Cañón de Metralla"
+; EN: LocationName="Rocket Launcher Room"
+LocationName="Sala de Lanzacohetes"
 
 [ZoneInfo29]
-; EN: LocationName="Center"
-LocationName="Centro"
+; EN: LocationName="Center (Red Side)"
+LocationName="Centro (Lado Rojo)"
 
 [ZoneInfo3]
-; EN: LocationName="Red Respawn"
-LocationName="Reaparición de Equipo Rojo"
+; EN: LocationName="Red South Respawn"
+LocationName="Reaparición Sur Roja"
 
 [ZoneInfo30]
-; EN: LocationName="Red court yard"
+; EN: LocationName="Red Courtyard"
 LocationName="Patio Rojo"
 
 [ZoneInfo31]
-; EN: LocationName="Center"
-LocationName="Centro"
+; EN: LocationName="Center (Blue Side)"
+LocationName="Centro (Lado Azul)"
 
 [ZoneInfo32]
 ; EN: LocationName="Red Courtyard"
 LocationName="Patio Rojo"
 
 [ZoneInfo33]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Entrada Superior Azul"
+; EN: LocationName="Red South Top Entrance"
+LocationName="Entrada Superior Sur Roja"
 
 [ZoneInfo34]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Entrada Superior Azul"
+; EN: LocationName="Red North Top Entrance"
+LocationName="Entrada Superior Norte Roja"
 
 [ZoneInfo35]
-; EN: LocationName="Red Top Entrance"
-LocationName="Entrada Superior Roja"
+; EN: LocationName="Blue North Top Entrance"
+LocationName="Entrada Superior Norte Azul"
 
 [ZoneInfo36]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Entrada Superior Azul"
+; EN: LocationName="Red South Top Entrance"
+LocationName="Entrada Superior Sur Roja"
 
 [ZoneInfo37]
-; EN: LocationName="Red Top Entrance"
-LocationName="Entrada Superior Roja"
+; EN: LocationName="Blue North Top Entrance"
+LocationName="Entrada Superior Norte Azul"
 
 [ZoneInfo38]
-; EN: LocationName="Red Top Entrance"
-LocationName="Entrada Superior Roja"
+; EN: LocationName="Blue South Top Entrance"
+LocationName="Entrada Superior Sur Azul"
 
 [ZoneInfo39]
-; EN: LocationName="Red Top Entrance"
-LocationName="Entrada Superior Roja"
+; EN: LocationName="Blue South Top Entrance"
+LocationName="Entrada Superior Sur Azul"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Courtyard"

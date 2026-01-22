@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Adara Canyon"
 Title="Cañón de Adara"
 
@@ -9,12 +9,12 @@ Title="Cañón de Adara"
 Description="Temblores sísmicos y eones de erosión forjaron este campo de batalla. El Cañón de Adara es la naturaleza en su forma más impresionante. Sin embargo, no dejes que la belleza te engañe. Las caídas largas se cobran vidas, y la naturaleza similar a un corredor del cañón hace que evitar un misil de LiCAV sea algo difícil."
 
 [Volume0]
-; EN: LocationName="Eastern Falls (1)"
-LocationName="Cataratas del Este (1)"
+; EN: LocationName="Eastern Falls"
+LocationName="Cataratas del Este"
 
 [Volume1]
-; EN: LocationName="Western Falls (2)"
-LocationName="Cataratas del Oeste (2)"
+; EN: LocationName="Western Falls"
+LocationName="Cataratas del Oeste"
 
 [Volume10]
 ; EN: LocationName="Blue Support Node (5)"
@@ -53,20 +53,20 @@ LocationName="Base del Este"
 LocationName="Base del Oeste"
 
 [Volume4]
-; EN: LocationName="Northern Bridge Passage (4)"
-LocationName="Pasaje de Puente Norte (4)"
+; EN: LocationName="Northern Bridge Passage"
+LocationName="Pasaje de Puente Norte"
 
 [Volume5]
-; EN: LocationName="Southern Bridge Passage (3)"
-LocationName="Pasaje de Puente Sur (3)"
+; EN: LocationName="Southern Bridge Passage"
+LocationName="Pasaje de Puente Sur"
 
 [Volume6]
 ; EN: LocationName="Bridge"
 LocationName="Puente"
 
 [Volume7]
-; EN: LocationName="Central Island (6)"
-LocationName="Isla Central (6)"
+; EN: LocationName="Central Island"
+LocationName="Isla Central"
 
 [Volume8]
 ; EN: LocationName="Blue Prime Node (2)"

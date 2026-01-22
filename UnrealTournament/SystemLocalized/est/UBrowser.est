@@ -142,7 +142,7 @@ GameSpeedText="Velocidad de Juego"
 ; EN: AirControlText="Air Control"
 AirControlText="Control Aéreo"
 ; EN: WeaponStayText="Weapons Stay"
-WeaponStayText="Mantener Armas"
+WeaponStayText="Permanencia de Armas"
 ; EN: UseTranslocatorText="Allow Translocator"
 UseTranslocatorText="Translocalizador Permitido"
 ; EN: MonsterSkillText="Monsters Skill"
@@ -180,7 +180,7 @@ CloseName="&Cerrar"
 
 [UBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Tournament Server Browser"
-WindowTitleString="Buscador de Servidores de Unreal Tournament"
+WindowTitleString="Explorador de Servidores de Unreal Tournament"
 
 [UBrowserRightClickMenu]
 ; EN: PlayName="&Play on This Server"

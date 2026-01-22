@@ -11,11 +11,17 @@ LocationName="Southwest Island"
 [Volume1]
 LocationName="Southwest Island"
 
+[Volume10]
+LocationName="Red Base"
+
 [Volume11]
 LocationName="West Island"
 
 [Volume12]
 LocationName="Northwest Island"
+
+[Volume13]
+LocationName="Northwest Node (1)"
 
 [Volume14]
 LocationName="Northwest Island"
@@ -29,6 +35,9 @@ LocationName="Northeast Island"
 [Volume17]
 LocationName="Northeast Island"
 
+[Volume18]
+LocationName="Blue Prime Node (4)"
+
 [Volume19]
 LocationName="East Island"
 
@@ -38,11 +47,17 @@ LocationName="Southwest Island"
 [Volume20]
 LocationName="Small Northeast Island"
 
+[Volume21]
+LocationName="Blue Base"
+
 [Volume22]
 LocationName="East Island"
 
 [Volume23]
 LocationName="Southeast Island"
+
+[Volume24]
+LocationName="Southeast Node (3)"
 
 [Volume25]
 LocationName="Southeast Island"
@@ -50,47 +65,14 @@ LocationName="Southeast Island"
 [Volume26]
 LocationName="Volcano"
 
+[Volume3]
+LocationName="Red Prime Node (2)"
+
 [Volume5]
 LocationName="West Island"
 
 [Volume9]
 LocationName="Small Southwest Island"
-
-[WaterVolume1]
-LocationName="Under Water"
-
-[WaterVolume18]
-LocationName="Under Water"
-
-[WaterVolume19]
-LocationName="Under Water"
-
-[WaterVolume20]
-LocationName="Under Water"
-
-[WaterVolume23]
-LocationName="Under Water"
-
-[WaterVolume24]
-LocationName="Under Water"
-
-[WaterVolume25]
-LocationName="Under Water"
-
-[WaterVolume26]
-LocationName="Under Water"
-
-[WaterVolume27]
-LocationName="Under Water"
-
-[WaterVolume28]
-LocationName="Under Water"
-
-[WaterVolume3]
-LocationName="Under Water"
-
-[WaterVolume31]
-LocationName="Under Water"
 
 [ZoneInfo1]
 LocationName="Outside"

@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Ironic"
 Title="Irónico"
 
@@ -13,8 +13,8 @@ Description="En la soledad de las plataformas costeras abandonadas de Nueva Arge
 LocationName="Rifle de Choque"
 
 [ZoneInfo1]
-; EN: LocationName="Bio Rifle"
-LocationName="Rifle Biológico"
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón de Metralla"
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
@@ -25,20 +25,20 @@ LocationName="Corredor Superior"
 LocationName="Corredor Superior"
 
 [ZoneInfo12]
-; EN: LocationName="Flak Cannon"
-LocationName="Cañón de Metralla"
+; EN: LocationName="Bio Rifle"
+LocationName="Rifle Biológico"
 
 [ZoneInfo13]
-; EN: LocationName="Flak Cannon"
-LocationName="Cañón de Metralla"
+; EN: LocationName="Bio Rifle"
+LocationName="Rifle Biológico"
 
 [ZoneInfo14]
-; EN: LocationName="Pulse Gun"
+; EN: LocationName="Link Gun"
 LocationName="Arma Enlazadora"
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="Daño Doble"
+; EN: LocationName="Link Gun"
+LocationName="Arma Enlazadora"
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
@@ -53,8 +53,8 @@ LocationName="Rifle de Choque"
 LocationName="Lanzacohetes"
 
 [ZoneInfo19]
-; EN: LocationName="Shock Rifle"
-LocationName="Rifle de Choque"
+; EN: LocationName="Outside"
+LocationName="Exterior"
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
@@ -69,12 +69,12 @@ LocationName="Ascensor"
 LocationName="Ascensor"
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="Sala de Escudo"
+; EN: LocationName="Super Shield Room"
+LocationName="Sala de Superescudo"
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="Sala de Escudo"
+; EN: LocationName="Super Shield Room"
+LocationName="Sala de Superescudo"
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"

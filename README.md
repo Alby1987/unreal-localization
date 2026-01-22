@@ -20,6 +20,25 @@ New translators need to read [this](https://www.oldunreal.com/wiki/index.php?tit
 
 That's the cleanest way to create your series of changes (it's NOT a good idea to edit directly in Master). It's recommended that every branch contains a few changes, otherwise it would be a pain to merge with the current changes.
 
+## And what's your approach to work?
+
+* Every game has a folder called `SystemLocalized` and another called `WIP`. Sometimes a third folder appears called `ThirdParty`.
+    * `SystemLocalized` has the completed localizations ready for use in-game or to be tested for quirks. Completed localizations must be moved here.
+    * `ThirdParty` is the folder pertaining to mods. Each supported mod has its own `SystemLocalized`, `WIP/WIP-FinishedFiles` and `WIP/WIP-Templates` folders.
+    * `WIP` contains two folders: `WIP-FinishedFiles` and `WIP-Templates`
+        * `WIP-FinishedFiles` contains incomplete localizations with files that are considered "ready"/"checked". Completed/Verified files must be moved here.
+        * `WIP-Templates` contains files in need to be checked. Some folders also have the original files, which we all know are the reason why people prefer to play in English. 🤦‍♂️ Whenever a file is considered "ready"/"checked", it must be moved to `WIP-FinishedFiles` and all instances of it in this folder must be cleansed.
+        * Additionally, some games have a folder inside of this one called just `Template`. These are the **empty** templates which can be used to give the games support for other languages. The Greek localization for _UT_ was based on this empty template, to give you an example.
+
+## Any tips?
+
+I'll update as I remember them, but here are some things:
+
+* Use an editor that allows colored display of text such as Notepad++. The localization files are fashioned after INI files, but some of them may have some variables. If you have an editor that can support INI files with variables, use it.
+* Don't hesitate to recycle lines. It's better to use exactly-matching text already written for another game than to write multiple strings in different games for the same, well, string. The Spanish localization reuses strings whenever possible.
+* Changes of certain names in one game must be reflected in all other games such a name appears, if only for consistency sake. For example, weapon names can be localized, but (for example) the Flak Cannon's name must be shared between U1-UT-UT200X. And the same goes for option names, which are the ones that will appear the most across all games.
+* Proper names (team names, character names, non-proper race names, etc) must NOT be translated. They were named that way for a reason.
+
 ## But what if I don't want to work in GitHub?
 
 You can suggest or send new lines, fixes, corrections, etc. either [on the Forums](https://www.oldunreal.com/phpBB3/) (provided you have an account there) or in the #localization area of [OldUnreal's Discord channel](https://discord.gg/thURucxzs6). We used to work on the [OldU Wiki](https://www.oldunreal.com/wiki/) too, but as the project grew, it made more sense to keep all the files here, plus the Wiki didn't had an instant file generation tool.

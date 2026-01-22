@@ -109,7 +109,7 @@ IDC_DeveloperText="Desarrollador:"
 
 [IDDIALOG_FilerPageUninstall]
 IDC_UninstallPrompt="Esta operación desinstalará los siguientes componentes:"
-IDC_UninstallQuestion="¿Está seguro de querer eliminar estos componentes?"
+IDC_UninstallQuestion="¿Estás seguro de querer eliminar estos componentes?"
 
 [IDDIALOG_FilerPageAutoPlay]
 IDC_Options="Opciones de Unreal Tournament"

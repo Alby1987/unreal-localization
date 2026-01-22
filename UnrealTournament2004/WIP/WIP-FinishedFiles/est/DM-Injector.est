@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Hot Iron Injector"
 Title="Inyector de Hierro Caliente"
 
@@ -14,7 +14,7 @@ LocationName="Superescudo"
 
 [ZoneInfo10]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 
 [ZoneInfo11]
 ; EN: LocationName="Hall O Death"
@@ -62,5 +62,5 @@ LocationName="Hangar"
 
 [ZoneInfo9]
 ; EN: LocationName="Double Damage"
-LocationName="Daño Doble"
+LocationName="Doble Daño"
 

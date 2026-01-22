@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Compressed"
 Title="Comprimido"
 
@@ -48,11 +48,11 @@ LocationName="Ascensor de Metralla"
 
 [ZoneInfo21]
 ; EN: LocationName="Double Damage Corridor"
-LocationName="Corredor de Daño Doble"
+LocationName="Corredor de Doble Daño"
 
 [ZoneInfo23]
 ; EN: LocationName="Double Damage Corridor"
-LocationName="Corredor de Daño Doble"
+LocationName="Corredor de Doble Daño"
 
 [ZoneInfo3]
 ; EN: LocationName="Top South Hall"

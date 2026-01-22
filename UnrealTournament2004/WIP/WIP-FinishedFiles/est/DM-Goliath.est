@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Goliath"
 Title="Goliat"
 
@@ -30,7 +30,7 @@ LocationName="Sala de Ametralladora"
 
 [ZoneInfo3]
 ; EN: LocationName="Health Vial Spawn Hall"
-LocationName="Cámara de Reparición de Frasco de Curación"
+LocationName="Cámara de Reparición de Frasco de Salud"
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun Big Room"

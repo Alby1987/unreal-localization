@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
 Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -372,7 +372,7 @@ SessionBanned="Tu dirección IP ha sido vetada en la sesión actual del juego."
 ; EN: KickedMsg="You have been forcibly removed from the game."
 KickedMsg="Te han sacado forzosamente del juego."
 ; EN: DefaultKickReason="None specified"
-DefaultKickReason="Ninguno especificado"
+DefaultKickReason="Sin especificar"
 ; EN: IdleKickReason="Kicked for idling."
 IdleKickReason="Expulsado por inactividad."
 ; EN: ACDisplayText[0]="Game Password"
@@ -619,7 +619,7 @@ GIPropDescText[13]="Determina el tiempo de espera para expulsar a un jugador ina
 ; EN: GIPropDescText[14]="When enabled, some weapons cause view shaking while firing."
 GIPropDescText[14]="Cuando se activa, algunas armas hacen vibrar la visión mientras se disparan."
 ; EN: GIPropsExtras[0]="0.000000;Novice;1.000000;Average;2.000000;Experienced;3.000000;Skilled;4.000000;Adept;5.000000;Masterful;6.000000;Inhuman;7.000000;Godlike"
-GIPropsExtras[0]="0.000000;Novato;1.000000;Promedio;2.000000;Experimentado;3.000000;Experto;4.000000;Adepto;5.000000;Maestro;6.000000;Superhumano;7.000000;Semidios"
+GIPropsExtras[0]="0.000000;Novato;1.000000;Promedio;2.000000;Experimentado;3.000000;Experto;4.000000;Adepto;5.000000;Maestro;6.000000;Superhumano;7.000000;Supremo"
 ; EN: NoBindString="[None]"
 NoBindString="[Ninguno]"
 
@@ -688,8 +688,8 @@ GRIPropsDisplayText[1]="Nombre de Admin."
 GRIPropsDisplayText[2]="E-mail de Admin."
 ; EN: GRIPropsDisplayText[3]="MOTD"
 GRIPropsDisplayText[3]="MDD"
-; EN: GRIPropDescText[0]="Server name shown on server browser."
-GRIPropDescText[0]="Nombre de servidor mostrado en explorador de servidores."
+; EN: GRIPropDescText[0]="Server name shown on Server Browser."
+GRIPropDescText[0]="Nombre de servidor mostrado en el Explorador de Servidores."
 ; EN: GRIPropDescText[1]="Server administrator's name."
 GRIPropDescText[1]="Nombre des administrador del servidor."
 ; EN: GRIPropDescText[2]="Server administrator's email address."
@@ -775,7 +775,7 @@ StringUnknown="Desconocido"
 
 [StreamPlaylistManager]
 ; EN: DefaultPlaylistName="New Playlist"
-DefaultPlaylistName="Nueva lista de reproducción"
+DefaultPlaylistName="Nueva Lista de Reproducción"
 
 [SubActionCameraEffect]
 ; EN: Desc="Camera effect"

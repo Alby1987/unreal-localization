@@ -47,11 +47,44 @@ Message="Dave Hagewood"
 [PhysicsVolume51]
 LocationName="Secret Underground Hiding Place"
 
+[Volume0]
+LocationName="Blue Tower"
+
+[Volume1]
+LocationName="Red Base"
+
+[Volume10]
+LocationName="Red Power Core"
+
+[Volume11]
+LocationName="Red Power Core"
+
+[Volume12]
+LocationName="Center Node (3)"
+
+[Volume13]
+LocationName="Red Entrance"
+
+[Volume14]
+LocationName="Center Node (3)"
+
+[Volume15]
+LocationName="Center Node (3)"
+
+[Volume16]
+LocationName="Red Tower"
+
+[Volume17]
+LocationName="Center Node (3)"
+
 [Volume18]
 LocationName="Southeast Valley"
 
 [Volume19]
 LocationName="Southwest Lake"
+
+[Volume2]
+LocationName="Blue Tower"
 
 [Volume20]
 LocationName="Northwest Lake"
@@ -69,10 +102,10 @@ LocationName="Northern Canyon"
 LocationName="Southern Canyon"
 
 [Volume25]
-LocationName="Unspecified"
+LocationName="Southeast Node (1)"
 
 [Volume26]
-LocationName="Unspecified"
+LocationName="Northeast Node (2)"
 
 [Volume27]
 LocationName="Central Mountain"
@@ -80,14 +113,32 @@ LocationName="Central Mountain"
 [Volume29]
 LocationName="Central Mountain"
 
+[Volume3]
+LocationName="Center Node (3)"
+
 [Volume30]
 LocationName="North"
 
 [Volume31]
 LocationName="South"
 
+[Volume4]
+LocationName="Red Tower"
+
+[Volume5]
+LocationName="Blue Base"
+
+[Volume6]
+LocationName="Blue Power Core"
+
+[Volume7]
+LocationName="Blue Power Core"
+
 [Volume8]
-LocationName="Unspecified"
+LocationName="Center Node (3)"
+
+[Volume9]
+LocationName="Blue Entrance"
 
 [ZoneInfo0]
 LocationName="Blue Entrance"
@@ -96,16 +147,22 @@ LocationName="Blue Entrance"
 LocationName="Blue Tower"
 
 [ZoneInfo10]
-LocationName="Outside"
+LocationName="Center Node (3)"
 
 [ZoneInfo11]
-LocationName="Outside"
+LocationName="Center Node (3)"
 
 [ZoneInfo12]
 LocationName="Red Tower"
 
 [ZoneInfo13]
-LocationName="Outside"
+LocationName="Red Base"
+
+[ZoneInfo14]
+LocationName="Secret Hideout"
+
+[ZoneInfo15]
+LocationName="Easter Egg Area"
 
 [ZoneInfo2]
 LocationName="Red Tower"
@@ -120,14 +177,14 @@ LocationName="Red Tower"
 LocationName="Blue Tower"
 
 [ZoneInfo6]
-LocationName="Outside"
+LocationName="Center Node (3)"
 
 [ZoneInfo7]
 LocationName="Red Tower"
 
 [ZoneInfo8]
-LocationName="Outside"
+LocationName="Center Node (3)"
 
 [ZoneInfo9]
-LocationName="Outside"
+LocationName="Center Node (3)"
 

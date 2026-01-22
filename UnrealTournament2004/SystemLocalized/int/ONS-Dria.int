@@ -12,28 +12,34 @@ LocationName="North Bridge Tower"
 LocationName="South Bridge Tower"
 
 [Volume14]
-LocationName="North Node"
+LocationName="North Node (6)"
 
 [Volume15]
-LocationName="Northwest Node"
+LocationName="Northwest Node (5)"
+
+[Volume16]
+LocationName="Red Base"
+
+[Volume17]
+LocationName="Blue Base"
 
 [Volume2]
-LocationName="Midwest Node"
+LocationName="Midwest Node (8)"
 
 [Volume3]
-LocationName="Southeast Node"
+LocationName="Southeast Node (2)"
 
 [Volume4]
-LocationName="Northeast Node"
+LocationName="Northeast Node (4)"
 
 [Volume5]
-LocationName="South Node"
+LocationName="South Node (1)"
 
 [Volume6]
-LocationName="Southwest Node"
+LocationName="Southwest Node (7)"
 
 [Volume7]
-LocationName="Mideast Node"
+LocationName="Mideast Node (3)"
 
 [Volume8]
 LocationName="North Bridge"

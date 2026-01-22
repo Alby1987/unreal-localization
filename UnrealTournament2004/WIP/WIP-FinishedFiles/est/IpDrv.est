@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=IpDrv.UpdateServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.MasterServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -47,8 +47,8 @@ MSUPropText[0]="Anunciar Servidor"
 MSUPropText[1]="Procesar Estadísticas"
 ; EN: MSUPropText[2]="Ignore UTAN Bans"
 MSUPropText[2]="Ignorar Vetos de UTAN"
-; EN: MSUPropDesc[0]="If checked, your server will be advertised on the internet server browser."
-MSUPropDesc[0]="Si se activa, tu servidor aparecerá en el explorador de servidores de Internet."
+; EN: MSUPropDesc[0]="If checked, your server will be advertised on the Internet Server Browser."
+MSUPropDesc[0]="Si se activa, tu servidor aparecerá en el Explorador de Servidores de Internet."
 ; EN: MSUPropDesc[1]="Publishes player stats from your server on the UT2004 stats website."
 MSUPropDesc[1]="Publica las estadísticas de los jugadores de tu servidor en el sitio web de UT2004."
 ; EN: MSUPropDesc[2]="If true, your server will ignore UTAN based bans coming from the master server."
