@@ -1,109 +1,3 @@
-[Tab_NetworkSettings]
-ViewOnlineStats.Caption="Ver estadísticas"
-ViewOnlineStats.Hint="Hacer clic para ir al sitio web de estadísticas de Unreal."
-EpicID.Caption="Tu id exclusiva es:"
-InvalidWarning.Caption="El nombre de usuario o contraseña son inválidos. El nombre de usuario debe tener al menos 4 caracteres de largo y la contraseña debe tener al menos 6."
-OnlineStatDesc.Caption="Estadísticas generales de UT2003"
-NetworkDynamicNetspeed.Caption="Velocidad de conexión dinámica"
-NetworkDynamicNetspeed.Hint="Ajusta la velocidad de red en las conexiones lentas."
-OnlineTrackStats.Caption="Seguimiento estadísticas"
-OnlineTrackStats.Hint="Activa esta opción para unirte al sistema de clasificaciones online."
-OnlineNetSpeed.Caption="Conexión"
-OnlineNetSpeed.Hint="¿Velocidad de tu conexión?"
-OnlineStatsName.Caption="Nombre de usuario de Estadísticas"
-OnlineStatsName.Hint="¡Selecciona un nombre para identificar tus estadísticas!"
-OnlineStatsPW.Caption="Contraseña de estadísticas"
-OnlineStatsPW.Hint="¡Selecciona una contraseña para asegurar tus estadísticas!"
-
-[Tab_PlayerSettings]
-HandNames[0]="Derecha"
-HandNames[1]="Oculto"
-HandNames[2]="Izquierda"
-HandNames[3]="Centrar"
-TeamNames[0]="Roj"
-TeamNames[1]="Azul"
-ShowBioCaption="Bio"
-Show3DViewCaption="Vista 3D"
-Player3DView.Caption="Vista 3D"
-Player3DView.Hint="Cambiar entre vista 3D y biografía de personaje."
-PlayerOGG.Caption="Lista de música"
-PlayerOGG.Hint="Configura tu lista de música OGG."
-PlayerCharList.Hint="Cambia el personaje con el que juegas."
-PlayerSmallWeap.Caption="Armas pequeñas"
-PlayerSmallWeap.Hint="Hace que tu arma en primera persona sea más pequeña."
-PlayerHand.Caption="Armas"
-PlayerHand.Hint="Cambia que tu arma sea visible."
-PlayerTeam.Caption="Equipo preferido"
-PlayerTeam.Hint="Cambia el equipo en el que jugarás por defecto."
-PlayerName.Caption="Nombre"
-PlayerName.Hint="Cambia el apodo con el que juegas"
-PlayerFOV.Caption="CV predeterminado"
-PlayerFOV.Hint="Este valor cambiará tu campo visual."
-
-[Tab_SPProfileLoad]
-Difficulties[0]="Novato"
-Difficulties[1]="Normal"
-Difficulties[2]="Experto"
-Difficulties[3]="Virtuoso"
-Difficulties[4]="Adepto"
-Difficulties[5]="Maestro"
-Difficulties[6]="Inhumano"
-Difficulties[7]="Semidiós"
-DeleteMessage="Estás a punto de borrar el perfil de '%prof%'||¿Seguro que quieres borrar este perfil?"
-btnDelete.Caption="BORRAR PERFIL"
-btnDelete.Hint="Borrar perfil seleccionado actualmente"
-btnLoad.Caption="CARGAR PERFIL"
-btnLoad.Hint="Cargar el perfil seleccionado"
-btnNew.Caption="NUEVO PERFIL"
-btnNew.Hint="Ir al menú de creación de perfil"
-imagePlayerSkin.Hint="Seleccionar la apariencia de tu personaje"
-imageTeamSymbol.Hint="Seleccionar el escudo de tu equipo"
-SPPLLblProfiles.Caption="LISTAS DE PERFILES"
-SPPLLblStats.Caption="ESTADÍSTICAS DE PERFILES"
-lboxProfile.Hint="Seleccionar perfil"
-moebDeaths.Caption="Muertes:"
-moebDeaths.Hint="Número de veces que este personaje ha muerto"
-moebDifficulty.Caption="Dificultad:"
-moebDifficulty.Hint="Índice de dificultad de este torneo"
-moebGoals.Caption="Tantos:"
-moebGoals.Hint="Número de tantos anotados por este personaje"
-moebKills.Caption="Abatidos:"
-moebKills.Hint="Número de enemigos abatidos por este personaje"
-moebMatches.Caption="Encuentros:"
-moebMatches.Hint="Número de encuentros jugados por este personaje"
-moebPlayerName.Caption="Nombre de jugador:"
-moebPlayerName.Hint="Nombre de tu jugador"
-moebTeamName.Caption="Nombre de equipo:"
-moebTeamName.Hint="El nombre de tu equipo"
-moebWins.Caption="Victorias:"
-moebWins.Hint="Número de encuentros ganados por este personaje"
-
-[Tab_SPProfileNew]
-DefaultName="Jugador"
-DefaultTeamName="Equipo"
-Err_ProfileExists="¡El perfil %prof% ya existe!"
-Err_CantCreateProfile="Fallo al crear perfil."
-btnBack.Caption="VOLVER"
-btnBack.Hint="Volver al menú anterior"
-btnDefaults.Caption="RESTABLECER PRED."
-btnDefaults.Hint="Devuelve este perfil a sus valores predeterminados"
-btnSaveProfile.Caption="CREAR PERFIL"
-btnSaveProfile.Hint="Crear un perfil con estos ajustes"
-clistPlayerSkins.Hint="Apariencia de tu personaje, usa el cursor para cambiar"
-btnNextSkin.Hint="Seleccionar nueva apariencia de personaje"
-btnNextSymbol.Hint="Seleccionar nuevo escudo de equipo"
-btnPrevSkin.Hint="Seleccionar nueva apariencia de personaje"
-btnPrevSymbol.Hint="Seleccionar nuevo escudo de equipo"
-ilTeamSymbols.Hint="El escudo de tu equipo; usa las teclas de cursor para cambiar"
-lblCharacter.Caption="Seleccionar|Personaje"
-lblTeamSymbol.Caption="Seleccionar|Escudo del equipo"
-mocbDifficulty.Caption="Dificultad:"
-mocbDifficulty.Hint="Personalizar desafío"
-moebPlayerName.Caption="Nombre de jugador:"
-moebPlayerName.Hint="Nombre de tu jugador"
-moebTeamName.Caption="Nombre de equipo:"
-moebTeamName.Hint="El nombre de tu equipo"
-
 [Tab_SPRoster]
 MessageNoInfo="No hay información disponible."
 PostStatsMessage="Estadísticas"
@@ -127,20 +21,6 @@ lblNA3.Caption="RANURA NO DISPONIBLE"
 lblNA4.Caption="RANURA NO DISPONIBLE"
 SPCharData.Hint="Perfil de miembros del equipo"
 
-[Tab_SPTutorials]
-SelectMessage="Haz clic para jugar tutorial"
-
-[Tab_ServerInfo]
-DefaultText="Recibiendo reglas de servidor...||Esto requiere que el servidor esté ejecutando el último parche"
-ServerInfoLabel.Caption="Reglas"
-
-[Tab_ServerMapList]
-DefaultText="Recibiendo rotación de mapas del servidor...||Esto requiere que el servidor esté ejecutando el último parche"
-ServerInfoLabel.Caption="Mapas"
-
-[Tab_SpeechBinder]
-SpeechLabel="Frase"
-
 [Tab_VideoSettings]
 BitDepthText[0]="Col. 16 bits"
 BitDepthText[1]="Col. 32 bits"
@@ -160,10 +40,6 @@ VideoColorDepth.Caption="Calidad de color"
 VideoColorDepth.Hint="Selecciona el número máximo de colores que se muestra a la vez."
 VideoResolution.Caption="Resolución"
 VideoResolution.Hint="Selecciona la resolución de los gráficos en la que jugar."
-
-[TestVignette]
-LoadingFontName="UT2003Fonts.FontLarge"
-LoadingString="...CARGANDO..."
 
 [UT2BotConfigPage]
 NoInformation="¡No hay información disponible!"
@@ -186,17 +62,6 @@ BotStrafeSlider.Caption="Movimiento lateral"
 BotStrafeSlider.Hint="Ajusta la capacidad de movimiento lateral de este robot."
 BotTacticsSlider.Caption="Tácticas"
 BotTacticsSlider.Hint="Ajusta la habilidad en el juego de equipo de este robot."
-
-[UT2BotInfoPage]
-NoInformation="¡No hay información disponible!"
-OkButton.Caption="OK"
-lblName.Caption="Desconocido"
-lblRace.Caption="Desconocido"
-myPB.Caption="Precisión"
-myPB2.Caption="Agilidad"
-myPB3.Caption="Táctica"
-myPB4.Caption="Agresividad"
-myPB5.Caption="..."
 
 [UT2DraftTeam]
 ClearConfirmMessage="Esto vaciará tu plantilla actual. ¿Estás seguro?"
@@ -242,17 +107,6 @@ IAPageSpecButton.Caption="ASISTIR"
 IAPageSpecButton.Hint="Asistir a un encuentro como espectador con estos ajustes"
 IAPageHeader.Caption="Acción instantánea"
 
-[UT2MidGameMenu]
-LeaveMPButtonText="DESCONECTAR"
-LeaveSPButtonText="ABANDONAR"
-LeaveEntryButtonText="EXPLORADOR DE SERVIDORES"
-AddFavoriteButton.Caption="AÑADIR FAVORITO"
-BrowserButton.Caption="EXPLORADOR DE SERVIDORES"
-ChangeTeamButton.Caption="CAMBIAR EQUIPO"
-ContMatchButton.Caption="CONTINUAR"
-QuitGameButton.Caption="Salir de UT2003"
-SettingsButton.Caption="AJUSTES"
-
 [UT2MultiplayerHostPage]
 MainTabLabel="Juego y mapa"
 MainTabHint="Escoge el mapa inicial y el tipo de juego..."
@@ -269,37 +123,6 @@ HostBackButton.Hint="Cancelar los cambios y volver al menú anterior"
 HostPlayButton.Caption="INICIO"
 HostPlayButton.Hint="Iniciar el servidor"
 HostHeader.Caption="Alojar partida multijugador"
-
-[UT2SP_DraftEventPage]
-MessageDraft="Has demostrado tu valor en la ronda de clasificación,|y te has ganado el derecho a formar tu propio equipo en el torneo.|Recluta a tu equipo de entre los agentes libres disponibles.|Luego entrarás en el escalafón del torneo por equipos,|pero solo cuando demuestres tu capacidad para el liderazgo."
-MessageDraftTitle="Bienvenido al torneo"
-
-[UT2SP_LadderLoading]
-StatNames[0]="CONTRA"
-StatNames[1]="Precisión"
-StatNames[2]="Agresividad"
-StatNames[3]="Agilidad"
-StatNames[4]="Táctica"
-LoadingMessage="Cargando..."
-
-[UT2SP_PlayerTradePage]
-MessageTitle="Un jugador | Oportunidad de intercambio"
-MessageTradeConfirm="¿Estás seguro de que deseas cambiar a %old% por %new%?"
-MessageTradeInfo="Se te ha ofrecido un intercambio por %player%."
-MessageTradeCancel="¿Estás seguro de que quieres cancelar el intercambio?"
-CaptionBack="VOLVER"
-MessageTradePicHint="Este jugador está disponible para intercambiar"
-SPPTSwap.Caption="CAMBIAR"
-SPPTSwap.Hint="Cambia este personaje con el compañero activo"
-
-[UT2ServerInfo]
-PanelCaption=("MOTD","Reglas","Mapas")
-PanelHint=("Mensaje del día","Reglas de juego","Rotación de mapas")
-ServerBackButton.Caption="Cerrar"
-ServerBackButton.Hint="Cerrar este menú"
-
-[UT2ServerListFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit11")
 
 [UT2SettingsPage]
 VideoTabLabel="Vídeo"
@@ -349,51 +172,6 @@ SPBack.Hint="Volver al menú principal"
 SPPlay.Caption="JUG."
 SPPlay.Hint="Jugar el encuentro seleccionado"
 SPPageHeader.Caption="Un jugador"
-
-[UT2VideoChangeOK]
-RestoreTextPre="(La configuración original se restaurará en"
-RestoreTextPost=" segundos)"
-RestoreTextSingular="(La configuración original se restaurará en 1 segundo)"
-AcceptButton.Caption="Conservar config."
-BackButton.Caption="Restaurar config."
-VideoOKDesc.Caption="¿Aceptas esta configuración?"
-VideoOkTimerDesc.Caption="(La configuración original se restaurará en 15 segundos)"
-
-[UT2AdminMenu]
-AdminBackButton.Caption="Cerrar"
-AdminBackButton.Hint="Cerrar este menú"
-AdminInfoHeader.Caption="Menú en juego admin"
-
-[UT2Congratulations]
-BackButton.Caption="Continuar"
-CongratsHeader.Caption="ENHORABUENA"
-
-[UT2BadCDKeyMsg]
-BadCDOk.Caption="OK"
-BadCDLabel.Caption="La clave del CD no es válida o la está usando otro jugador."
-
-[UT2DemoQuitPage]
-BuyButton.Caption="Comprar"
-QuitButton.Caption="Salir"
-
-[Browser_AddBuddy]
-CancelButton.Caption="CANC."
-OkButton.Caption="OK"
-AddBuddyDesc.Caption="Añadir amigo"
-BuddyEntryBox.Caption="Nombre de amigo:"
-
-[Browser_OpenIP]
-CancelButton.Caption="CANC."
-OkButton.Caption="OK"
-OpenIPDesc.Caption="Introducir nueva IP"
-IpEntryBox.Caption="Dirección IP."
-
-
-[UT2GetPassword]
-GetPassFail.Caption="Canc."
-GetPassRetry.Caption="Reintentar"
-GetPassLabel.Caption="Se requieres una contraseña para jugar en este servidor."
-GetPassPW.Caption="Contraseña de servidor"
 
 [UT2MainMenu]
 HostButton.Caption="ALOJAR PARTIDA MULTIJUGADOR"
@@ -459,85 +237,6 @@ IAMutatorSelectedLabel.Caption="Mutadores activos"
 IAMutatorAvailList.Hint="Estos son los mutadores disponibles."
 IAMutatorSelectedList.Hint="Estos son los mutadores con los que jugarás."
 
-[UT2StatusMsg]
-NetStatOk.Caption="OK"
-
-[UT2NetworkStatusMsg]
-NetStatOk.Caption="OK"
-
-
-[UT2SmallFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit11","UT2003Fonts.FontNeuzeit11","UT2003Fonts.FontNeuzeit14")
-
-[UT2SmallHeaderFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit8","UT2003Fonts.FontEurostile9","UT2003Fonts.FontEurostile12","UT2003Fonts.FontEurostile14")
-
-[UT2DefaultFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit9")
-
-[UT2HeaderFont]
-FontArrayNames=("UT2003Fonts.FontEurostile14","UT2003Fonts.FontEurostile17","UT2003Fonts.FontEurostile21")
-
-[UT2IRCFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit11")
-
-[UT2LargeFont]
-FontArrayNames=("UT2003Fonts.FontEurostile24","UT2003Fonts.FontEurostile29","UT2003Fonts.FontEurostile37")
-
-[UT2MenuFont]
-FontArrayNames=("UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontNeuzeit11","UT2003Fonts.FontNeuzeit11","UT2003Fonts.FontNeuzeit14")
-
-[UT2MidGameFont]
-FontArrayNames=("UT2003Fonts.FontEurostile17","UT2003Fonts.FontEurostile14","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontSmallText")
-
-[UT2StatsPrompt]
-NoButton.Caption="NO"
-YesButton.Caption="SÍ"
-PromptDesc.Caption="Solo podrás unirte a este servidor activando el "seguimiento de estadísticas" y configurando un nombre de usuario y contraseña únicos. Ahora mismo solo podrás conectarte a servidores que tengan las estadísticas DESACTIVADAS.||¿Quieres configurar tu nombre de usuario y contraseña de estadísticas?"
-PromptHeader.Caption="¡Este servidor tiene ACTIVADAS las estadísticas de UT2003!"
-
-[UT2QuitPage]
-NoButton.Caption="NO"
-YesButton.Caption="SÍ"
-QuitDesc.Caption="¿Seguro que quieres salir?"
-
-[UT2PerformWarn]
-OkButton.Caption="OK"
-DialogText.Caption="AVISO"
-DialogText2.Caption="El cambio que estás realizando puede afectar negativamente al rendimiento."
-
-[IRC_NewNick]
-OkButton.Caption="OK"
-NewNickEntry.Caption="Nuevo apodo:"
-
-[UT2DeferChangeRes]
-OkButton.Caption="OK"
-DialogText.Caption="La resolución que has escogido es mejor que la resolución mínima de menú"
-DialogText2.Caption="Se aplicará la próxima vez que entres en una partida."
-
-[UT2ArenaConfig]
-OkButton.Caption="OK"
-DialogText.Caption="Arma de estadio"
-DialogText2.Caption="Escoge arma que poner en estadio"
-WeaponSelect.Caption="Armas"
-
-[Browser_IconKey]
-OkButton.Caption="OK"
-DialogText.Caption="Clave de icono de servidor"
-
-[UT2SP_LadderEventPage]
-SPLEPMap.Caption="VER TUTORIAL"
-SPLEPOK.Caption="CONTINUAR"
-SPLEPtitle.Caption="¡ENHORABUENA!"
-
-[JoeTest]
-TestButton1.Caption="Cerrar ventana"
-TitleText.Caption="Asombrosa GUI de prueba de Joe"
-
-[JoeTestPanelA]
-TestButtonA.Caption="Guau"
-TestButtonB.Caption="Maldición"
-
 [Tab_WeaponPref]
 WeaponDefaults.Caption="Predeterminados"
 WeaponDefaults.Hint="Establece las prioridades de armas a sus valores predeterminados."
@@ -551,25 +250,6 @@ WeaponAutoSwitch.Caption="Cambiar al recoger"
 WeaponAutoSwitch.Hint="Cambia automáticamente el arma cuando recoges una mejor."
 WeaponSwap.Caption="Alternar modo de disparo"
 WeaponSwap.Hint="Marca esta casilla para alternar el modo de disparo del arma seleccionada."
-
-[Tab_SPLadderTeam]
-BRLabel.Caption="CARRERA DE BOMBARDEO"
-CTFLabel.Caption="CAPTURAR LA BANDERA"
-DOMLabel.Caption="DOMINACIÓN"
-MapInfoName.Caption="No enc. seleccionado"
-TDMLabel.Caption="COMBATE MORTAL EQUIPO"
-
-[Tab_SPLadderQualify]
-DMLabel0.Caption="Tutorial"
-DMLabel1.Caption="Uno para uno"
-DMLabel2.Caption="Uno para uno"
-DMLabel3a.Caption="Rajagargantas"
-DMLabel3b.Caption="Combate Mortal"
-DMLabel4a.Caption="Cinco vías"
-DMLabel4b.Caption="Combate Mortal"
-DMLabel5a.Caption="Recluta a tu equipo"
-DMLabel5b.Caption="y luego derrótalos"
-MapInfoName.Caption="No enc. seleccionado"
 
 [Tab_IForceSettings]
 InputIForceLabel.Caption="Sensibilidad de Force Feedbak"
@@ -605,35 +285,6 @@ InputMouseSensitivity.Caption="Sensibilidad del ratón (en juego)"
 InputMouseSensitivity.Hint="Ajusta la sensibilidad del ratón."
 InputMouseSmoothStr.Caption="Fuerza de suavizado de ratón"
 InputMouseSmoothStr.Hint="Ajusta la cantidad de suavizado que se aplica a los movimientos del ratón."
-
-[UT2LoadingWeaponsArena]
-LoadWeapText.Caption="Cargando base de datos de arma"
-
-[UT2LoadingWeapons]
-LoadWeapText.Caption="Cargando base de datos de arma"
-
-[Browser_ServerListPageMSCustom]
-MyGameTypeLabel.Caption="Tipo de juego"
-
-[Tab_ServerMOTD]
-ServerMOTDLabel.Caption="Mensaje del día"
-ServerAdminEmail.Caption="      Email:"
-ServerAdminEmail.Hint="Como contactar con propietario"
-ServerAdminName.Caption="Nombre Admin:"
-ServerAdminName.Hint="El propietario del servidor"
-
-[TestGFXButtonPage]
-lblClientBound.Caption="¿Cliente asociado?"
-lblImgAlign.Caption="Menú estado"
-lblImgSelect.Caption="Seleccionar imagen"
-lblImgStyle.Caption="Estilo de imagen"
-
-[TestImagePage]
-AddImage.Caption="Añadir"
-ImageAlign.Caption="Alinear"
-ImageRenderStyle.Caption="Estilo de renderizado"
-ImageStyle.Caption="Estilo de imagen"
-SelectImage.Caption="Seleccionar imagen"
 
 [Tab_MultiplayerHostServerSettings]
 MPServerAdvertise.Caption="Anunciar servidor"
