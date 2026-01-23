@@ -37,7 +37,7 @@ ZoneName="Sala de Cohetes Azul"
 
 [ZoneInfo5]
 ; EN: ZoneName="Red Flak Room"
-ZoneName="Sala de Metralla Roja"
+ZoneName="Sala de Antiaéreo Roja"
 
 [ZoneInfo1]
 ; EN: ZoneName="Blue Rocket Room"
@@ -45,7 +45,7 @@ ZoneName="Sala de Cohetes Azul"
 
 [ZoneInfo9]
 ; EN: ZoneName="Blue Flak Room"
-ZoneName="Sala de Metralla Azul"
+ZoneName="Sala de Antiaéreo Azul"
 
 [ZoneInfo15]
 ; EN: ZoneName="Blue Energy Tunnel"

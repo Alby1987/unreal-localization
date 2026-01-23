@@ -12,11 +12,11 @@ LocationName="Sala Superior Norte"
 
 [ZoneInfo11]
 ; EN: LocationName="Flak Hall"
-LocationName="Sala de Metralla"
+LocationName="Sala de Antiaéreo"
 
 [ZoneInfo12]
 ; EN: LocationName="Flak Hall"
-LocationName="Sala de Metralla"
+LocationName="Sala de Antiaéreo"
 
 [ZoneInfo13]
 ; EN: LocationName="Link Hall"
@@ -44,7 +44,7 @@ LocationName="Anexo izquierdo"
 
 [ZoneInfo20]
 ; EN: LocationName="Flak elevator"
-LocationName="Ascensor de Metralla"
+LocationName="Ascensor de Antiaéreo"
 
 [ZoneInfo21]
 ; EN: LocationName="Double Damage Corridor"

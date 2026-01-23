@@ -32,7 +32,7 @@ LocationName="Pasillo Ametralladora"
 
 [ZoneInfo12]
 ; EN: LocationName="Bio Rifle Corridor"
-LocationName="Sala de Rifle Biológico"
+LocationName="Sala de Bio Rifle"
 
 [ZoneInfo13]
 ; EN: LocationName="Minigun Corridor"
@@ -68,15 +68,15 @@ LocationName="Sala de la Mochila de Salud"
 
 [ZoneInfo20]
 ; EN: LocationName="Flak Corridor"
-LocationName="Pasillo de Metralla"
+LocationName="Pasillo de Antiaéreo"
 
 [ZoneInfo21]
 ; EN: LocationName="Flak Corridor"
-LocationName="Pasillo de Metralla"
+LocationName="Pasillo de Antiaéreo"
 
 [ZoneInfo22]
 ; EN: LocationName="Flak Corridor"
-LocationName="Pasillo de Metralla"
+LocationName="Pasillo de Antiaéreo"
 
 [ZoneInfo23]
 ; EN: LocationName="Shock Rifle Corridor"
@@ -92,7 +92,7 @@ LocationName="Pasillo de Escudo"
 
 [ZoneInfo26]
 ; EN: LocationName="Bio Rifle Corridor"
-LocationName="Sala de Rifle Biológico"
+LocationName="Sala de Bio Rifle"
 
 [ZoneInfo3]
 ; EN: LocationName="Super Health Room"
@@ -104,7 +104,7 @@ LocationName="Sala de la Mochila de Salud"
 
 [ZoneInfo5]
 ; EN: LocationName="Bio Rifle Corridor"
-LocationName="Corredor de Rifle Biológico"
+LocationName="Corredor de Bio Rifle"
 
 [ZoneInfo6]
 ; EN: LocationName="Link Gun Room"
@@ -120,5 +120,5 @@ LocationName="Pasillo del Rifle de Choque"
 
 [ZoneInfo9]
 ; EN: LocationName="Flak Corridor"
-LocationName="Pasillo de Metralla"
+LocationName="Pasillo de Antiaéreo"
 

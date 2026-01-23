@@ -14,7 +14,7 @@ LocationName="Rifle de Choque"
 
 [ZoneInfo1]
 ; EN: LocationName="Flak Cannon"
-LocationName="Cañón de Metralla"
+LocationName="Cañón de Antiaéreo"
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
@@ -26,11 +26,11 @@ LocationName="Corredor Superior"
 
 [ZoneInfo12]
 ; EN: LocationName="Bio Rifle"
-LocationName="Rifle Biológico"
+LocationName="Bio Rifle"
 
 [ZoneInfo13]
 ; EN: LocationName="Bio Rifle"
-LocationName="Rifle Biológico"
+LocationName="Bio Rifle"
 
 [ZoneInfo14]
 ; EN: LocationName="Link Gun"

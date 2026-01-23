@@ -50,7 +50,7 @@ Object=(Name=Botpack.enforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Des
 ; EN: Object=(Name=Botpack.doubleenforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Double Enforcers")
 Object=(Name=Botpack.doubleenforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Reforzadores Dobles")
 ; EN: Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="GES BioRifle")
-Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Rifle Biológico GES")
+Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Bio Rifle GES")
 ; EN: Object=(Name=Botpack.ShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Shock Rifle")
 Object=(Name=Botpack.ShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Rifle de Choque")
 ; EN: Object=(Name=Botpack.SuperShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Super Shock Rifle")
@@ -62,7 +62,7 @@ Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Descr
 ; EN: Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Minigun")
 Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Ametralladora")
 ; EN: Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Flak Cannon")
-Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Cañón de Metralla")
+Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Cañón Antiaéreo")
 ; EN: Object=(Name=Botpack.UT_Eightball,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Rocket Launcher")
 Object=(Name=Botpack.UT_Eightball,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Lanzacohetes")
 ; EN: Object=(Name=Botpack.SniperRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Sniper Rifle")
@@ -87,7 +87,7 @@ Object=(Name=Botpack.JumpMatch,Class=Class,MetaClass=Engine.Mutator,Description=
 ; EN: Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="No Redeemer,The Redeemer is removed from the game.")
 Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="Sin Redentores,Los redentores son eliminados de la partida.")
 ; EN: Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Flak Cannon Arena,All weapon and ammo pickups are replaced with Flak Cannons and Flak Ammo.")
-Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Sólo Cañones de Metralla,Sólo se permitirán cañones de metralla en la partida.")
+Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Sólo Cañones Antiaéreo,Sólo se permitirán cañones antiaéreos en la partida.")
 ; EN: Object=(Name=Botpack.impactarena,Class=Class,MetaClass=Engine.Mutator,Description="Impact Hammer Arena,Weapons and items are removed from the match, and players only carry an Impact Hammer.")
 Object=(Name=Botpack.impactarena,Class=Class,MetaClass=Engine.Mutator,Description="Sólo Martillos de Impacto,Sólo se permitirán martillos de impacto en la partida.")
 ; EN: Object=(Name=Botpack.ChainsawMelee,Class=Class,MetaClass=Engine.Mutator,Description="Chainsaw Melee,The Chainsaw replaces the Impact Hammer as the starting melee weapon.")
@@ -945,13 +945,13 @@ ItemName="Amplificador de Daños"
 
 [UT_FlakCannon]
 ; EN: WeaponDescription="Classification: Heavy Shrapnel\n\nPrimary Fire: White hot chunks of scrap metal are sprayed forth, shotgun style.\n\nSecondary Fire: A grenade full of shrapnel is lobbed at the enemy. The grenade can hurt you if you're in its splash range.\n\nTechniques: The Flak Cannon is far more useful in close range combat situations."
-WeaponDescription="Clasificación: Metralla Pesada\n\nDisparo Principal: Dispara trozos de metal blanco caliente con la cadencia de una escopeta. Estos trozos se esparcen por el área de impacto, si no afectan a otro jugador.\n\nDisparo Secundario: Lanza una granada de metralla al enemigo. Esta granada puede dañarte si estás en su área de impacto.\n\nTécnicas: El Cañón de Metralla es mucho más útil en combates a corta distancia."
+WeaponDescription="Clasificación: Metralla Pesada\n\nDisparo Principal: Dispara trozos de metal blanco caliente con la cadencia de una escopeta. Estos trozos se esparcen por el área de impacto, si no afectan a otro jugador.\n\nDisparo Secundario: Lanza una granada de metralla al enemigo. Esta granada puede dañarte si estás en su área de impacto.\n\nTécnicas: El Cañón Antiaéreo es mucho más útil en combates a corta distancia."
 ; EN: DeathMessage="%o was ripped to shreds by %k's %w."
 DeathMessage="%k ha convertido en jirones a %o con su %k."
 ; EN: PickupMessage="You got the Flak Cannon."
-PickupMessage="Has recogido el Cañón de Metralla."
+PickupMessage="Has recogido el Cañón Antiaéreo."
 ; EN: ItemName="Flak Cannon"
-ItemName="Cañón de Metralla"
+ItemName="Cañón Antiaéreo"
 
 [MultiKillMessage]
 ; EN: DoubleKillString="Double Kill!"
@@ -979,9 +979,9 @@ WeaponDescription="Clasificación: Rifle Tóxico\n\nDisparo Principal: Dispara p
 ; EN: DeathMessage="%o drank a glass of %k's dripping green load."
 DeathMessage="%o ha bebido un vaso de la sustancia verde y espesa de %k."
 ; EN: PickupMessage="You got the GES BioRifle."
-PickupMessage="Has recogido el Rifle Biológico GES."
+PickupMessage="Has recogido el Bio Rifle GES."
 ; EN: ItemName="GES BioRifle"
-ItemName="Rifle Biológico GES"
+ItemName="Bio Rifle GES"
 
 [minigun2]
 ; EN: WeaponDescription="Classification: Gatling Gun\n\nPrimary Fire: Bullets are sprayed forth at a medium to fast rate of fire and good accuracy.\n\nSecondary Fire: Minigun fires twice as fast and is half as accurate.\n\nTechniques: Secondary fire is much more useful at close range, but can eat up tons of ammunition."
@@ -2442,9 +2442,9 @@ ItemName="Cuchillas"
 
 [FlakAmmo]
 ; EN: PickupMessage="You picked up 10 Flak Shells."
-PickupMessage="Has recogido 10 Proyectiles de Metralla."
+PickupMessage="Has recogido 10 Proyectiles Antiaéreos."
 ; EN: ItemName="Flak Shells"
-ItemName="Proyectiles de Metralla"
+ItemName="Proyectiles Antiaéreos"
 
 [DominationScoreboard]
 ; EN: FragGoal="Score Limit:"
@@ -2863,7 +2863,7 @@ Bio[1]="Una ex-comandante del NGT y especialista en armas de energía. Rhea sabe
 ; EN: Bio[2]="Born on board the IWV Battlecruiser Ciran-Vega and nursed on the scorched plains of the embattled Skaarj planet of Skrath, Dovienya is a highly experienced warrior. She knows the Tournament arenas better than her peers and learns quickly on the battlefield."
 Bio[2]="Dovienya, una guerrera con mucha experiencia, nació a bordo de la nave de combate IWV Ciran-Vega, y fue criada en las tierras desoladas de Skrath, un planeta en guerra poblado por Skaarjs. Conoce los campos de batalla del torneo mejor que los otros luchadores y aprende muy rápido."
 ; EN: Bio[3]="Barktooth is a madman. Screaming with berserk rage, he would rather rip an opponent to shreds with his bare hands than fight from afar. When forced to use a gun, he favors the Flak Cannon's close range stopping power."
-Bio[3]="Barktooth está realmente loco. Grita con una furia desenfrenada, y prefiere desgarrar a sus adversarios con sus propias manos que matarlos desde lejos. Cuando le obligan a usar un arma, normalmente elige el potente Cañón de Metralla de corto alcance."
+Bio[3]="Barktooth está realmente loco. Grita con una furia desenfrenada, y prefiere desgarrar a sus adversarios con sus propias manos que matarlos desde lejos. Cuando le obligan a usar un arma, normalmente elige el potente Cañón Antiaéreo de corto alcance."
 ; EN: Bio[4]="Deslok is the clan mate of Drimacus. Although weaker than his warrior-brother, Deslok is a competent fighter and will prove a worthy opponent."
 Bio[4]="Deslok pertenece al mismo clan que Drimacus. Aunque no es tan fuerte como su compañero, es un luchador competente y un buen adversario."
 

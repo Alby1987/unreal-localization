@@ -44,7 +44,7 @@ LocationName="Ardiendo en el Infierno"
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="Torre de Metralla"
+LocationName="Torre de Antiaéreo"
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
@@ -60,11 +60,11 @@ LocationName="Torre de Ametralladora"
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="Torre de Metralla"
+LocationName="Torre de Antiaéreo"
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="Torre de Metralla"
+LocationName="Torre de Antiaéreo"
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"

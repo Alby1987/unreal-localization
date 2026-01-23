@@ -16,7 +16,7 @@ LocationName="Muro de Tanques"
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Hall"
-LocationName="Sala de Rifle Biológico"
+LocationName="Sala de Bio Rifle"
 
 [ZoneInfo10]
 ; EN: LocationName="Eastern Lower Halls"
@@ -24,11 +24,11 @@ LocationName="Salas Inferiores Este"
 
 [ZoneInfo11]
 ; EN: LocationName="Flak Hall"
-LocationName="Sala de Metralla"
+LocationName="Sala de Cañón Antiaéreo"
 
 [ZoneInfo12]
 ; EN: LocationName="Bio Hall"
-LocationName="Sala Rifle Biológico"
+LocationName="Sala de Bio Rifle"
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
@@ -40,7 +40,7 @@ LocationName="Salas Superiores Norte"
 
 [ZoneInfo15]
 ; EN: LocationName="Flak Hall"
-LocationName="Sala Cañón de Metralla"
+LocationName="Sala de Cañón Antiaéreo"
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
