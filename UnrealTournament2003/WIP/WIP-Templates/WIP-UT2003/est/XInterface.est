@@ -1,7 +1,7 @@
-[Browser_ServerListPageEliminar]
-TheEliminarList.ColumnHeadings[0]="Nom. colega"
-AddEliminarCaption="AÑADIR COLEGA"
-RemoveEliminarCaption="ELIMINAR COLEGA"
+[Browser_ServerListPageBuddy]
+TheBuddyList.ColumnHeadings[0]="Nom. colega"
+AddBuddyCaption="AÑADIR COLEGA"
+RemoveBuddyCaption="ELIMINAR COLEGA"
 
 [Tab_AdminPlayerList]
 AdminList.ColumnHeadings[0]="Nombre del jugador"
@@ -40,8 +40,8 @@ MyPrefsPage.ConnTimeoutString="Conexión detenida"
 MyPrefsPage.QueryCompleteString="¡Consulta completada!"
 MyPrefsPage.RefreshCompleteString="¡Actualización completada!"
 MyPrefsPage.ReadyString="Listo"
-MyBuddiesPage.AddEliminarCaption="AÑADIR COLEGA"
-MyBuddiesPage.RemoveEliminarCaption="ELIMINAR COLEGA"
+MyBuddiesPage.AddBuddyCaption="AÑADIR COLEGA"
+MyBuddiesPage.RemoveBuddyCaption="ELIMINAR COLEGA"
 MyBuddiesPage.QueryFinHead="¡Consulta completa! Recibido: "
 MyBuddiesPage.QueryFinTail=" Servidores"
 MyBuddiesPage.PingRecvString="¡PING!"
@@ -287,7 +287,7 @@ RefreshButton.Caption="ACTUALIZAR"
 SpectateButton.Caption="OBSERVAR"
 TheRulesList.WeaponStayString="Armas perm."
 
-[Browser_EliminarList]
+[Browser_BuddyList]
 ColumnHeadings[0]="Nom. colega"
 
 [Browser_MOTD]
@@ -1171,11 +1171,11 @@ OkButton.Caption="ACEPTAR"
 OpenIPDesc.Caption="Introduce nueva dirección IP"
 IpEntryBox.Caption="Dirección IP: "
 
-[Browser_AddEliminar]
+[Browser_AddBuddy]
 CancelButton.Caption="CANCELAR"
 OkButton.Caption="ACEPTAR"
-AddEliminarDesc.Caption="Añadir colega"
-EliminarEntryBox.Caption="Nom. colega: "
+AddBuddyDesc.Caption="Añadir colega"
+BuddyEntryBox.Caption="Nom. colega: "
 
 [UT2GetPassword]
 GetPassFail.Caption="Error"

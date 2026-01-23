@@ -2,17 +2,17 @@
 ; EN: ColumnHeadings=("Player Name","Unique ID","IP")
 ColumnHeadings=("Nombre Jugador","ID única","IP")
 
-[Browser_AddEliminar]
-; EN: AddEliminarDesc.Caption="Add Buddy"
-AddEliminarDesc.Caption="Añadir Amigo"
-; EN: EliminarEntryBox.Caption="Buddy Name: "
-EliminarEntryBox.Caption="Nombre de Amigo: "
+[Browser_AddBuddy]
+; EN: AddBuddyDesc.Caption="Add Buddy"
+AddBuddyDesc.Caption="Añadir Amigo"
+; EN: BuddyEntryBox.Caption="Buddy Name: "
+BuddyEntryBox.Caption="Nombre de Amigo: "
 ; EN: CancelButton.Caption="CANCEL"
 CancelButton.Caption="CANCELAR"
 ; EN: OkButton.Caption="OK"
 OkButton.Caption="OK"
 
-[Browser_EliminarList]
+[Browser_BuddyList]
 ; EN: ColumnHeadings=("Buddy Name")
 ColumnHeadings=("Nombre Amigo")
 
@@ -188,11 +188,11 @@ RefreshButton.Caption="ACTUALIZAR LISTA"
 ; EN: SpectateButton.Caption="SPECTATE"
 SpectateButton.Caption="ESPECTAR"
 
-[Browser_ServerListPageEliminar]
-; EN: AddEliminarCaption="ADD BUDDY"
-AddEliminarCaption="AÑADIR AMIGO"
-; EN: RemoveEliminarCaption="REMOVE BUDDY"
-RemoveEliminarCaption="ELIMINAR AMIGO"
+[Browser_ServerListPageBuddy]
+; EN: AddBuddyCaption="ADD BUDDY"
+AddBuddyCaption="AÑADIR AMIGO"
+; EN: RemoveBuddyCaption="REMOVE BUDDY"
+RemoveBuddyCaption="ELIMINAR AMIGO"
 
 [Browser_ServerListPageFavorites]
 ; EN: RemoveFavoriteCaption="REMOVE FAVORITE"
