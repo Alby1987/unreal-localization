@@ -1,7 +1,7 @@
-[Browser_ServerListPageBuddy]
-TheBuddyList.ColumnHeadings[0]="Nom. colega"
-AddBuddyCaption="AÑADIR COLEGA"
-RemoveBuddyCaption="ELIMINAR COLEGA"
+[Browser_ServerListPageEliminar]
+TheEliminarList.ColumnHeadings[0]="Nom. colega"
+AddEliminarCaption="AÑADIR COLEGA"
+RemoveEliminarCaption="ELIMINAR COLEGA"
 
 [Tab_AdminPlayerList]
 AdminList.ColumnHeadings[0]="Nombre del jugador"
@@ -40,8 +40,8 @@ MyPrefsPage.ConnTimeoutString="Conexión detenida"
 MyPrefsPage.QueryCompleteString="¡Consulta completada!"
 MyPrefsPage.RefreshCompleteString="¡Actualización completada!"
 MyPrefsPage.ReadyString="Listo"
-MyBuddiesPage.AddBuddyCaption="AÑADIR COLEGA"
-MyBuddiesPage.RemoveBuddyCaption="ELIMINAR COLEGA"
+MyBuddiesPage.AddEliminarCaption="AÑADIR COLEGA"
+MyBuddiesPage.RemoveEliminarCaption="ELIMINAR COLEGA"
 MyBuddiesPage.QueryFinHead="¡Consulta completa! Recibido: "
 MyBuddiesPage.QueryFinTail=" Servidores"
 MyBuddiesPage.PingRecvString="¡PING!"
@@ -287,7 +287,7 @@ RefreshButton.Caption="ACTUALIZAR"
 SpectateButton.Caption="OBSERVAR"
 TheRulesList.WeaponStayString="Armas perm."
 
-[Browser_BuddyList]
+[Browser_EliminarList]
 ColumnHeadings[0]="Nom. colega"
 
 [Browser_MOTD]
@@ -1171,11 +1171,11 @@ OkButton.Caption="ACEPTAR"
 OpenIPDesc.Caption="Introduce nueva dirección IP"
 IpEntryBox.Caption="Dirección IP: "
 
-[Browser_AddBuddy]
+[Browser_AddEliminar]
 CancelButton.Caption="CANCELAR"
 OkButton.Caption="ACEPTAR"
-AddBuddyDesc.Caption="Añadir colega"
-BuddyEntryBox.Caption="Nom. colega: "
+AddEliminarDesc.Caption="Añadir colega"
+EliminarEntryBox.Caption="Nom. colega: "
 
 [UT2GetPassword]
 GetPassFail.Caption="Error"
@@ -1218,7 +1218,7 @@ IAMapListAdd.Caption=Añadir
 IAMapListAdd.Hint=Añade este mapa a tu lista de mapas
 IAMapListAll.Caption=Añadir todos
 IAMapListAll.Hint=Añade todos los mapas a tu lista de mapas
-IAMapListClear.Caption=Borrar todos
+IAMapListClear.Caption=Eliminar todos
 IAMapListClear.Hint=Elimina todos los mapas de tu lista de mapas
 IAMapListDown.Caption=Abajo
 IAMapListDown.Hint=Mueve este mapa más abajo en tu lista de mapas
@@ -1238,7 +1238,7 @@ IAMutatorAdd.Caption=Añadir
 IAMutatorAdd.Hint=Añade el mutador selec. a la lista de mutadores con los que jugar.
 IAMutatorAll.Caption=Añadir todos
 IAMutatorAll.Hint=Añade todos los mutadores a la lista de mutadores con los que jugar.
-IAMutatorClear.Caption=Borrar todos
+IAMutatorClear.Caption=Eliminar todos
 IAMutatorClear.Hint=Elimina todos los mutadores de la lista de mutadores con los que jugar.
 IAMutatorConfig.Caption=Configurar mutadores
 IAMutatorConfig.Hint=Configura el mutágeno seleccionado.
