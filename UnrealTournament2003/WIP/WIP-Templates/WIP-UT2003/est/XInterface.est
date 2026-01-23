@@ -247,7 +247,7 @@ MyServerLabel.Caption="Servidor de IRC"
 DefaultChannels=("#ut2003es","#ut2003chat","#ut2003play")
 
 [IRC_NewNick]
-OkButton.Caption="OK"
+OkButton.Caption="Aceptar"
 NewNickEntry.Caption="Nuevo Apodo: "
 
 [Browser_ServerListPageBase]
@@ -1158,7 +1158,7 @@ BackButton.Caption=Continuar
 CongratsHeader.Caption=ENHORABUENA
 
 [UT2BadCDKeyMsg]
-BadCDOk.Caption="OK"
+BadCDOk.Caption="Aceptar"
 BadCDLabel.Caption="Tu código de CD es inválido o está siendo utilizado por otro jugador"
 
 [UT2DemoQuitPage]

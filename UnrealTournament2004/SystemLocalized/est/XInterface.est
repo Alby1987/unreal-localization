@@ -10,7 +10,7 @@ BuddyEntryBox.Caption="Nombre de Amigo: "
 ; EN: CancelButton.Caption="CANCEL"
 CancelButton.Caption="CANCELAR"
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 
 [Browser_BuddyList]
 ; EN: ColumnHeadings=("Buddy Name")
@@ -34,7 +34,7 @@ MyChangeNickButton.Caption="CAMBIAR APODO"
 ; EN: DialogText.Caption="Server Icon Key"
 DialogText.Caption="Clave de Icono del Servidor"
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 
 [Browser_MOTD]
 ; EN: VersionString="Ver."
@@ -52,7 +52,7 @@ CancelButton.Caption="CANCELAR"
 ; EN: IpEntryBox.Caption="IP Address: "
 IpEntryBox.Caption="Dirección IP: "
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 ; EN: OpenIPDesc.Caption="Enter New IP Address"
 OpenIPDesc.Caption="Introducir Nueva Dirección IP"
 
@@ -346,7 +346,7 @@ NickInvalidText="Apodo Inválido"
 ; EN: NewNickEntry.Caption="New Nickname: "
 NewNickEntry.Caption="Nuevo Apodo: "
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 
 [IRC_Page]
 ; EN: HasLeftText="has left"
@@ -1661,7 +1661,7 @@ DialogText.Caption="Arma de Estadio"
 ; EN: DialogText2.Caption="Choose the weapon to populate your Arena."
 DialogText2.Caption="Escoge el arma que poblará el Estadio."
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 ; EN: WeaponSelect.Caption="Weapon"
 WeaponSelect.Caption="Arma"
 
@@ -1669,7 +1669,7 @@ WeaponSelect.Caption="Arma"
 ; EN: BadCDLabel.Caption="Your CD key is invalid or in use by another player."
 BadCDLabel.Caption="La clave del CD no es válida o está siendo usada por otro jugador."
 ; EN: BadCDOk.Caption="OK"
-BadCDOk.Caption="OK"
+BadCDOk.Caption="ACEPTAR"
 
 [UT2BotConfigPage]
 ; EN: NoInformation="No Information Available!"
@@ -1709,7 +1709,7 @@ BotWeapon.Caption="Arma Preferida"
 ; EN: BotWeapon.Hint="Select which weapon this bot should prefer."
 BotWeapon.Hint="Selecciona el arma preferida de este bot."
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 ; EN: ResetButton.Caption="Reset"
 ResetButton.Caption="Restablecer"
 
@@ -1717,7 +1717,7 @@ ResetButton.Caption="Restablecer"
 ; EN: NoInformation="No Information Available!"
 NoInformation="¡Sin Información Disponible!"
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 ; EN: lblName.Caption="Unknown"
 lblName.Caption="Desconocido"
 ; EN: lblRace.Caption="Unknown"
@@ -1747,7 +1747,7 @@ DialogText.Caption="La resolución que has escogido es menor que la resolución 
 ; EN: DialogText2.Caption="It will be applied when you next enter gameplay."
 DialogText2.Caption="Se aplicará la próxima vez que entres en una partida."
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 
 [UT2DemoQuitPage]
 ; EN: BuyButton.Caption="Buy"
@@ -1952,7 +1952,7 @@ HostPlayButton.Hint="Inicia el servidor."
 
 [UT2NetworkStatusMsg]
 ; EN: NetStatOk.Caption="OK"
-NetStatOk.Caption="OK"
+NetStatOk.Caption="ACEPTAR"
 
 [UT2PerformWarn]
 ; EN: DialogText.Caption="WARNING"
@@ -1960,7 +1960,7 @@ DialogText.Caption="ADVERTENCIA"
 ; EN: DialogText2.Caption="The change you are making may adversely affect your performance."
 DialogText2.Caption="El cambio que estás realizando puede afectar negativamente al rendimiento."
 ; EN: OkButton.Caption="OK"
-OkButton.Caption="OK"
+OkButton.Caption="ACEPTAR"
 
 [UT2QuitPage]
 ; EN: NoButton.Caption="NO"
@@ -2141,7 +2141,7 @@ YesButton.Caption="SÍ"
 
 [UT2StatusMsg]
 ; EN: NetStatOk.Caption="OK"
-NetStatOk.Caption="OK"
+NetStatOk.Caption="ACEPTAR"
 
 [UT2VideoChangeOK]
 ; EN: RestoreTextPre="(Original settings will be restored in "
