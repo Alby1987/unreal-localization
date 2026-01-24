@@ -5,11 +5,11 @@ This repository holds text localizations for Unreal Engine based games. Currentl
 
 **NOT ALL LANGUAGES ARE COMPLETE**,. A language is considered complete when it can work without most problems under the game it's meant to be on. Completed languages are located in the `SystemLocalized` folder. Currently that honor befells to English (obviously), German, French, Spanish, Italian, Russian, Polish (Unreal only), Portuguese (Unreal only), Swedish (Unreal only), Catalan, Dutch, Norwegian (Unreal only) and Greek (Unreal Tournament only). The rest of the languages, on the other hand, vary, from requiring a lot of work or be created from scratch, to just requiring the new strings to be translated. This is a long-time project, so expect incomplete stuff. Help is welcome in any regard.
 
-Also note that **the list isn't restricted to the named games and mods**. Expect more mods and games to be added as the project grows. Bear in mind, however, that we prioritize **Unreal and Unreal Tournament** due to them having actual Community Patches being worked on (more specifically, [Unreal v227](https://www.oldunreal.com/phpBB3/viewforum.php?f=51) and [UT v469](https://github.com/OldUnreal/UnrealTournamentPatches)). Furthermore, localization of these games is being done specifically on these versions, so **don't expect them to work on v226\* and v436/451 without tweaks**.
+Also note that **the list isn't restricted to the named games and mods**. Expect more mods and games to be added as the project grows. Bear in mind, however, that we prioritize **Unreal and Unreal Tournament** due to them having actual Community Patches being worked on (more specifically, [Unreal v227](https://www.oldunreal.com/phpBB3/viewforum.php?f=51), [UT v469](https://github.com/OldUnreal/UnrealTournamentPatches)) and [UT2004](https://github.com/OldUnreal/UT2004Patches). Furthermore, localization of these games is being done specifically on these versions, so **don't expect them to work on v226\*, v436/451 or v3369 (or lower versions) without tweaks**.
 
 ## Cool! So, how do I help?
 
-New translators need to read [this](https://www.oldunreal.com/wiki/index.php?title=Localization) in order to get familiarized with how the localization system of the UE1 works.
+New translators need to read [this](https://www.oldunreal.com/wiki/index.php?title=Localization) in order to get familiarized with how the localization system of the UE1/UE2 works.
 
 1. First you need an account on Github, obviously
 2. Fork this repo
@@ -61,6 +61,7 @@ This list will be updated as more games are added.
     * _Epic Bonus Pack_
     * _DE Bonus Pack_
 * _**Unreal Tournament 2004**_ (WIP)
+    * _XP Bonus Maps_
     * _ECE Bonus Pack_
     * _Mega Pack_ (a.k.a. "Bonus Pack 2")
 * _**Wheel of Time**_ (_heavy_ WIP)
@@ -83,13 +84,24 @@ This list will be updated as more mods and maps are added.
 
 * _**Unreal**_:
     * Base game + post-launch content
+         * Fusion Mappack
+         * Division Mappack
     * _Return to Na Pali_
     * _Redeem Your Space_
 * _**Unreal Tournament**_:
     * Base game + post-launch content
+         * Epic Bonus Pack
+         * DE Bonus Pack
+         * Inoxx Pack
+         * Christmas 2000 Pack (Bonus Pack 4)
     * _Chaos: UT_
     * _Monster Hunt_
     * _XVehicles_
+* _**Unreal Tournament 2004**_:
+    * Base game + post-launch content
+         * XP Bonus Maps
+         * ECE Bonus Pack
+         * Mega Bonus Pack
 
 ## Credits
 
