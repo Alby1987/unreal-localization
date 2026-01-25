@@ -188,8 +188,8 @@ Title="AS-BP2-Outback"
 
 [LevelSummary]
 Title="AS-BP2-Outback"
-; EN: Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.                                                                                The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
-Description="A városi slickerek éppen most vették át az uralmat a külterület legjobb sörfőzdéjében. Kidobták a kedvenc italodat, és lecserélték szegény Zero Beerre. A grogban nincs alkohol, és olyan íze van, mint egy Bondi szivarnak! Menj oda azonnal és rendezd ezt a dolgot... mielőtt átveszi OZ uralmát!!"
+; EN: Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.|The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
+Description="A városi slickerek éppen most vették át az uralmat a külterület legjobb sörfőzdéjében. Kidobták a kedvenc italodat, és lecserélték szegény Zero Beerre.|A grogban nincs alkohol, és olyan íze van, mint egy Bondi szivarnak! Menj oda azonnal és rendezd ezt a dolgot... mielőtt átveszi OZ uralmát!!"
 
 [MyBurned]
 ; EN: DeathString="%o got to close to the flamage."

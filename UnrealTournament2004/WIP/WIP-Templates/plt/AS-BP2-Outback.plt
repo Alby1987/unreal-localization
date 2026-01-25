@@ -195,8 +195,8 @@ Title="AS-BP2-Outback"
 
 [LevelSummary]
 Title="AS-BP2-Outback"
-; EN: Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.                                                                                The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
-Description="City slickers właśnie zawładnęły najlepszym browarem outbacku. Wyrzucili twój ulubiony napój, zastępując go biednym piwem Zero Beer. Grog nie ma alkoholu i smakuje jak cygaro Bondi! Podejdź tam szybko i załatw to... zanim przejmie OZ!!"
+; EN: Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.|The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
+Description="City slickers właśnie zawładnęły najlepszym browarem outbacku. Wyrzucili twój ulubiony napój, zastępując go biednym piwem Zero Beer.|Grog nie ma alkoholu i smakuje jak cygaro Bondi! Podejdź tam szybko i załatw to... zanim przejmie OZ!!"
 
 [MyBurned]
 ; EN: DeathString="%o got to close to the flamage."
