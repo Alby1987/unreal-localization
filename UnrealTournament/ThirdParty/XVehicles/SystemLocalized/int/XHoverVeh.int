@@ -1,0 +1,16 @@
+[Public]
+; Object=(Name=XHoverVeh.XManta2Ghost,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Ghost,<Insert description here>")
+; Object=(Name=XHoverVeh.XManta2Viper,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Viper,<Insert description here>")
+
+[Ghost]
+VehicleName="Ghost"
+TranslatorDescription="This is a Ghost, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+
+[Viper]
+VehicleName="Viper"
+TranslatorDescription="This is a Viper, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+
+[XManta]
+VehicleName="Manta"
+TranslatorDescription="This is a Manta, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+

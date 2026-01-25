@@ -1,3 +1,23 @@
+[Public]
+; Object=(Name=XChopVeh.XHeli2LinkCraft,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2LinkCraft,<Insert description here>")
+; Object=(Name=XChopVeh.XHeli2Banshee,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Banshee,<Insert description here>")
+; Object=(Name=XChopVeh.XHeli2Raptor,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Raptor,<Insert description here>")
+
+[raptor]
+VehicleName="Raptor"
+TranslatorDescription="This is a Raptor, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+VehicleKeyInfoStr="Raptor keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+
+[Banshee]
+VehicleName="Banshee"
+TranslatorDescription="This is a Banshee, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+VehicleKeyInfoStr="Banshee keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+
+[LinkCraft]
+VehicleName="Link Craft"
+TranslatorDescription="This is a LinkCraft, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+VehicleKeyInfoStr="LinkCraft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+
 [CybotHelico]
 VehicleName="Cybot Helico"
 TranslatorDescription="This is a Cybot Helico, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."

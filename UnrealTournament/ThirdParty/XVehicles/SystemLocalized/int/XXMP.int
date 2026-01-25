@@ -1,0 +1,23 @@
+[Public]
+; Object=(Name=XXMP.XJeepTDX2Grinder,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Grinder,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2Juggernaut,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Juggernaut,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2Badger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Badger,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2HoverBadger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2HoverBadger,<Insert description here>")
+
+[HoverBadger]
+VehicleName="HoverBadger"
+TranslatorDescription="This is a HoverBadger, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+VehicleKeyInfoStr="HoverBadger keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+
+[Juggernaut]
+VehicleName="Juggernaut"
+VehicleKeyInfoStr="Juggernaut keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+
+[Grinder]
+VehicleName="Grinder"
+VehicleKeyInfoStr="Grinder keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|1, 2 to switch seats|0 to toggle light|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+
+[Badger]
+VehicleName="Badger"
+VehicleKeyInfoStr="Badger keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+
