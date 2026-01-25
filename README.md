@@ -13,19 +13,19 @@ This repository holds text localizations for Unreal Engine based games. Currentl
 | Spanish (.est) | YES | YES | YES |
 | Italian (.itt) | YES | YES | NO(\*) |
 | Russian (.rut) | YES | YES | NO(\*) |
-| Polish (.plt) | YES | NO(\*) | NO(\*) |
+| Polish (.plt) | YES(\*) | NO(\*) | NO(\*) |
 | Portuguese (.ptt) | YES | YES | NO(\*) |
 | Hungarian (.hut) | NO(\*) | NO(\*) | NO(\*) |
 | Czech (.czt) | NO(\*) | NO(\*) | NO(\*) |
 | Swedish (.svt) | NO(\*) | NO(\*) | NO(\*) |
-| Catalan (.ctt) | YES | NO(\*) | NO(\*) |
-| Dutch (.nlt) | YES | YES | NO(\*) |
+| Catalan (.ctt) | YES(\*) | NO(\*) | NO(\*) |
+| Dutch (.nlt) | YES(\*) | YES(\*) | NO(\*) |
 | Norwegian (.not) | NO(\*) | NO(\*) | NO(\*) |
 | Japanese (.jpt) | NO(\*) | NO(\*) | NO(\*) |
-| Greek (.elt) | NO | YES | NO |
-| Korean (.kot) | NO | NO | Partial(\*) |
-| Simp. Chinese (.smt) | NO | NO | Partial(\*) |
-| Trad. Chinese (.tmt) | NO | NO | Partial(\*) |
+| Greek (.elt) | NO(\*) | YES | NO(\*) |
+| Korean (.kot) | NO(\*) | NO(\*) | Partial(\*) |
+| Simp. Chinese (.smt) | NO(\*) | NO(\*) | Partial(\*) |
+| Trad. Chinese (.tmt) | NO(\*) | NO(\*) | Partial(\*) |
 | --- | --- | --- | --- |
 | Empty (.template) | YES | YES | YES |
 
