@@ -1,9 +1,7 @@
 # OldUnreal Localization Project Repository
 
 ## About
-This repository holds text localizations for Unreal Engine based games. Currently the localization project manages 15 languages: English (.int), German (.det), French (.frt), Spanish (.est), Italian (.itt), Russian (.rut), Polish (.plt), Portuguese (.ptt), Hungarian (.hut), Czech (.czt), Swedish (.svt), Catalan (.ctt), Dutch (.nlt), Norwegian (.not), Japanese (.jpt) and Greek (.elt). Additionally, UT2004 handles Korean (.kot), Simplified Chinese (.smt) and Traditional Chinese (.tmt) as well. There are also empty templates for extra language support (.template). More languages can be added to games and mods with available templates.
-
-**NOT ALL LANGUAGES ARE COMPLETE**,. A language is considered complete when it can work without most problems under the game it's meant to be on. Here's the situation so far:
+This repository holds text localizations for Unreal Engine based games. Currently the localization project manages three games in several languages: Unreal (v227 patch onwards), Unreal Tournament (v469 patch onwards) and Unreal Tournament 2004 (v3374 patch onwards), with other two receiving partial/WIP support (Unreal Tournament 2003 and Wheel of Time). There are also empty templates for extra language support (.template). More languages can be added to games and mods with available templates. **NOT ALL LANGUAGES ARE COMPLETE**,. A language is considered complete when it can work without most problems under the game it's meant to be on. Here's the situation so far:
 
 | Language | U1 | UT | UT2004 |
 | --- | --- | --- | --- |
@@ -29,7 +27,7 @@ This repository holds text localizations for Unreal Engine based games. Currentl
 | --- | --- | --- | --- |
 | Empty (.template) | YES | YES | YES |
 
-(*) Require intervention from a native speaker.
+(\*) Require intervention from a native speaker.
 
 Completed languages are located in the `SystemLocalized` folder. The rest of the languages, on the other hand, vary, from requiring a lot of work or be created from scratch, to just requiring the new strings to be translated. This is a long-time project, so expect incomplete stuff. Help is welcome in any regard.
 
