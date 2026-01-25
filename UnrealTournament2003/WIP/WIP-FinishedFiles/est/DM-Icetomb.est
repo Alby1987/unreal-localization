@@ -10,7 +10,7 @@ Description="Ponte las manoplas y abrígate bien, porque las cosas se van a pone
 
 [ZoneInfo0]
 ; EN: LocationName="Bio Rifle Cavern"
-LocationName="Caverna Rifle Biológico"
+LocationName="Caverna Bio Rifle"
 
 [ZoneInfo1]
 ; EN: LocationName="Ramp"
@@ -26,7 +26,7 @@ LocationName="Cuatro Cataratas"
 
 [ZoneInfo12]
 ; EN: LocationName="Bio Rifle Cavern"
-LocationName="Caverna Rifle Biológico"
+LocationName="Caverna Bio Rifle"
 
 [ZoneInfo14]
 ; EN: LocationName="Ice Tomb"

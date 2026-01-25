@@ -1,12 +1,10 @@
 [Public]
-; EN: Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="Fix Gun,Adds a fixgun in levels where there are none")
-Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description=",")
+; Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="FixGunMutator,<Insert description here>")
 Object=(Name=FixGun.FixGun,Class=Class,MetaClass=Engine.Weapon)
 
 [FixGun]
-; Line format: Classification: [Classification]\nPrimary fire: [PF description]\nSecondary fire: [SF description]\nTechniques: [Techniques] - Respect this format!
-; EN: WeaponDescription="Classification: Fix Rifle\nPrimary Fire: Medium sized, fast moving plasma balls are fired at a fast rate of fire.\nSecondary Fire: A bolt of blue lightning is expelled for 100 meters, which will fix vehicles.\nTechniques: Firing and keeping the secondary fire's beam on a vehicle will fix them in seconds."
-WeaponDescription="[Clas]\n[PF]\n[SF]\n[Tech]"
+; EN: WeaponDescription="Classification: Fix RiflenPrimary Fire: Medium sized, fast moving plasma balls are fired at a fast rate of fire.nSecondary Fire: A bolt of blue lightning is expelled for 100 meters, which will fix vehicles.nTechniques: Firing and keeping the secondary fire's beam on a vehicle will fix them in seconds."
+WeaponDescription=""
 ; EN: MessageNoAmmo=" has no ammo."
 MessageNoAmmo=""
 ; EN: PickupMessage="You got a Fixing Gun"

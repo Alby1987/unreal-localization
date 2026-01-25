@@ -52,7 +52,7 @@ LocationName="Corredores Superiores Rojos"
 
 [ZoneInfo19]
 ; EN: LocationName="Red Flak Room"
-LocationName="Sala de Metralla Roja"
+LocationName="Sala de Antiaéreo Roja"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Room"
@@ -104,7 +104,7 @@ LocationName="Corredores Superiores Azules"
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Flak Room"
-LocationName="Sala de Metralla Azul"
+LocationName="Sala de Antiaéreo Azul"
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Minigun Halls"

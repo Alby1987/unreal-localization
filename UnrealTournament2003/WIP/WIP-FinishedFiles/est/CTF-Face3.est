@@ -40,27 +40,27 @@ LocationName="Nivel 2 Base Roja"
 
 [Volume4]
 ; EN: LocationName="Blue Flak"
-LocationName="Metralla Base Azul"
+LocationName="Antiaéreo Base Azul"
 
 [Volume5]
 ; EN: LocationName="Red Flak"
-LocationName="Metralla Base Roja"
+LocationName="Antiaéreo Base Roja"
 
 [Volume6]
 ; EN: LocationName="Blue Flak"
-LocationName="Metralla Base Azul"
+LocationName="Antiaéreo Base Azul"
 
 [Volume7]
 ; EN: LocationName="Blue Flak"
-LocationName="Metralla Base Azul"
+LocationName="Antiaéreo Base Azul"
 
 [Volume8]
 ; EN: LocationName="Red Flak"
-LocationName="Metralla Base Roja"
+LocationName="Antiaéreo Base Roja"
 
 [Volume9]
 ; EN: LocationName="Red Flak"
-LocationName="Metralla Base Roja"
+LocationName="Antiaéreo Base Roja"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"

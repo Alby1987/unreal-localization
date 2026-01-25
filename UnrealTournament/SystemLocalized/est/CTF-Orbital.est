@@ -29,11 +29,11 @@ ZoneName="Pasaje de Francotirador Azul"
 
 [ZoneInfo2]
 ; EN: ZoneName="Blue Flak Cannon Room"
-ZoneName="Sala de Metralla Azul"
+ZoneName="Sala de Antiaéreo Azul"
 
 [ZoneInfo7]
 ; EN: ZoneName="Red Flak Cannon Room"
-ZoneName="Sala de Metralla Roja"
+ZoneName="Sala de Antiaéreo Roja"
 
 [ZoneInfo8]
 ; EN: ZoneName="Red Sniper Halls"

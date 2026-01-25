@@ -14,7 +14,7 @@ LocationName="Corredor de Plataforma"
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Rifle Room"
-LocationName="Sala de Rifle Biológico"
+LocationName="Sala de Bio Rifle"
 
 [ZoneInfo2]
 ; EN: LocationName="Shock Rifle Corridor"
@@ -38,5 +38,5 @@ LocationName="Corredor Inferior"
 
 [ZoneInfo7]
 ; EN: LocationName="Flak Room"
-LocationName="Sala de Metralla"
+LocationName="Sala de Antiaéreo"
 

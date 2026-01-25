@@ -1,0 +1,23 @@
+[Public]
+; Object=(Name=UT3Rewards.UT3Rewards,Class=Class,MetaClass=Engine.Mutator,Description="UT3Rewards,<Insert description here>")
+
+[UT3Rewards]
+Strings[0]="Rocket Scientist!"
+Strings[1]="Flak Master!"
+Strings[2]="Head Hunter!"
+Strings[3]="Combo King!"
+Strings[4]="Bio Hazard!"
+Strings[5]="JackHammer!"
+Strings[6]="Shaft Master!"
+Strings[7]="Gun Slinger!"
+Strings[8]="Big Game Hunter!"
+Strings[9]="Blue Streak!"
+Strings[10]="Road Kill!"
+Strings[11]="Hit and Run!"
+Strings[12]="Road Rage!"
+Strings[13]="Vehicular Manslaughter!"
+Strings[14]="Pancake!"
+Strings[15]="Eagle Eye!"
+Strings[16]="Top Gun!"
+Strings[17]="Road Rampage!"
+

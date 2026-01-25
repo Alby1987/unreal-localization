@@ -247,7 +247,7 @@ MyServerLabel.Caption="Servidor de IRC"
 DefaultChannels=("#ut2003es","#ut2003chat","#ut2003play")
 
 [IRC_NewNick]
-OkButton.Caption="OK"
+OkButton.Caption="Aceptar"
 NewNickEntry.Caption="Nuevo Apodo: "
 
 [Browser_ServerListPageBase]
@@ -497,11 +497,11 @@ AudioMatureTaunts.Hint=Permite comentarios de fuerte contenido.
 AudioMessageBeep.Caption="Sonido de mensaje"
 AudioMessageBeep.Hint=Activa un sonido de aviso al recibir un mensaje de otros jugad.
 AudioReverseStereo.Caption="Intercamb. estéreo"
-AudioReverseStereo.Hint=Intercambia los canales de audio izquierdo y derecho.
+AudioReverseStereo.Hint=Intercambia los canales de sonido izquierdo y derecho.
 AudioAnnounce.Caption="Comentarios"
 AudioAnnounce.Hint="Establece la cantidad de comentarios en el juego."
-AudioMode.Caption="Modo de audio"
-AudioMode.Hint=Cambia el sistema de audio (SE NECESITA REINICIAR EL JUEGO).
+AudioMode.Caption="Modo de sonido"
+AudioMode.Hint=Cambia el sistema de sonido (SE NECESITA REINICIAR EL JUEGO).
 AudioPlayVoices.Hint=Define los tipos de mensajes de voz para jugar.
 AudioPlayVoices.Caption="Mostrar voces"
 AudioAnnouncerPack.Caption="Voz del presentador" 
@@ -1098,8 +1098,8 @@ VideoTabLabel="Vídeo"
 VideoTabHint=Selecciona la resolución y cambia el brillo...
 DetailsTabLabel="Detalles"
 DetailsTabHint=Mejora los gráficos y ajusta el índice mínimo de cuadros/seg...
-AudioTabLabel="Audio"
-AudioTabHint=Ajusta el audio del juego...
+AudioTabLabel="Sonido"
+AudioTabHint=Ajusta el sonido del juego...
 PlayerTabLabel="Jugador"
 PlayerTabHint=Configura tu avatar UT2003...
 NetworkTabLabel="Red"
@@ -1158,7 +1158,7 @@ BackButton.Caption=Continuar
 CongratsHeader.Caption=ENHORABUENA
 
 [UT2BadCDKeyMsg]
-BadCDOk.Caption="OK"
+BadCDOk.Caption="Aceptar"
 BadCDLabel.Caption="Tu código de CD es inválido o está siendo utilizado por otro jugador"
 
 [UT2DemoQuitPage]
@@ -1218,7 +1218,7 @@ IAMapListAdd.Caption=Añadir
 IAMapListAdd.Hint=Añade este mapa a tu lista de mapas
 IAMapListAll.Caption=Añadir todos
 IAMapListAll.Hint=Añade todos los mapas a tu lista de mapas
-IAMapListClear.Caption=Borrar todos
+IAMapListClear.Caption=Eliminar todos
 IAMapListClear.Hint=Elimina todos los mapas de tu lista de mapas
 IAMapListDown.Caption=Abajo
 IAMapListDown.Hint=Mueve este mapa más abajo en tu lista de mapas
@@ -1238,7 +1238,7 @@ IAMutatorAdd.Caption=Añadir
 IAMutatorAdd.Hint=Añade el mutador selec. a la lista de mutadores con los que jugar.
 IAMutatorAll.Caption=Añadir todos
 IAMutatorAll.Hint=Añade todos los mutadores a la lista de mutadores con los que jugar.
-IAMutatorClear.Caption=Borrar todos
+IAMutatorClear.Caption=Eliminar todos
 IAMutatorClear.Hint=Elimina todos los mutadores de la lista de mutadores con los que jugar.
 IAMutatorConfig.Caption=Configurar mutadores
 IAMutatorConfig.Hint=Configura el mutágeno seleccionado.

@@ -9,11 +9,11 @@ Object=(Name=xZones.xzDoubleEnforcer,Class=Class,MetaClass=Engine.Weapon)
 ; EN: ZoneName="Underwater"
 ZoneName=""
 
-[xSlimeZone]
-; EN: ZoneName="SLIME"
-ZoneName=""
-
 [xLavaZone]
 ; EN: ZoneName="LAVA"
+ZoneName=""
+
+[xSlimeZone]
+; EN: ZoneName="SLIME"
 ZoneName=""
 

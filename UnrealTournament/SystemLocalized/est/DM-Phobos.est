@@ -20,7 +20,7 @@ ZoneName="Pasillo de las Escaleras"
 
 [ZoneInfo9]
 ; EN: ZoneName="BioRifle Corridor"
-ZoneName="Pasillo de Rifle Biológico"
+ZoneName="Pasillo de Bio Rifle"
 
 [LevelSummary]
 ; EN: Title="Phobos Moon"

@@ -28,7 +28,7 @@ LocationName="Arma Enlazadora"
 
 [ZoneInfo14]
 ; EN: LocationName="Flak"
-LocationName="Cañón de Metralla"
+LocationName="Cañón Antiaéreo"
 
 [ZoneInfo15]
 ; EN: LocationName="Shock Rifle"
@@ -36,7 +36,7 @@ LocationName="Rifle de Choque"
 
 [ZoneInfo16]
 ; EN: LocationName="Flak Lift"
-LocationName="Ascensor de Metralla"
+LocationName="Ascensor de Antiaéreo"
 
 [ZoneInfo17]
 ; EN: LocationName="Lightning Gun"
@@ -44,7 +44,7 @@ LocationName="Arma Eléctrica"
 
 [ZoneInfo18]
 ; EN: LocationName="Biorifle"
-LocationName="Rifle Biológico"
+LocationName="Bio Rifle"
 
 [ZoneInfo19]
 ; EN: LocationName="Double Damage"
@@ -68,7 +68,7 @@ LocationName="Daño Doble"
 
 [ZoneInfo6]
 ; EN: LocationName="Flak"
-LocationName="Cañón de Metralla"
+LocationName="Cañón Antiaéreo"
 
 [ZoneInfo7]
 ; EN: LocationName="Double Damage Lift"

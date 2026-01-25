@@ -24,7 +24,7 @@ Object=(Name=ChaosUT.CUTUG,Class=Class,MetaClass=Botpack.TournamentWeapon,Descri
 ; EN: Object=(Name=ChaosUT.CUTIG,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Utility Gun (Ice)") 
 Object=(Name=ChaosUT.CUTIG,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Arma Utilitaria (Hielo)") 
 ; EN: Object=(Name=ChaosUT.Flak2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Claw (flak mode)") 
-Object=(Name=ChaosUT.Flak2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Garra (Modo Metralla)") 
+Object=(Name=ChaosUT.Flak2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Garra (Modo Antiaéreo)") 
 ; EN: Object=(Name=ChaosUT.Flak2Proxy,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Claw (proxy mode)") 
 Object=(Name=ChaosUT.Flak2Proxy,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Garra (Modo Proxy)") 
 ; EN: Object=(Name=ChaosUT.Flak2Melee,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Claw (melee mode)") 
@@ -120,7 +120,7 @@ ItemName="Espada Bastarda"
 ; EN: CrossbowString="Standard Crossbows"
 CrossbowString="Ballestas Estándar"
 ; EN: flakproxystring="Flak2 and Proxies"
-flakproxystring="Proxies y Metralla 2"
+flakproxystring="Proxies y Antiaéreo 2"
 ; EN: ecrossbowString="Explosive Crossbows"
 ecrossbowString="Ballestas Explosivas"
 ; EN: pCrossbowString="Poison Crossbows"
@@ -132,7 +132,7 @@ ugString="Arma Utilitaria"
 ; EN: swordString="Sword"
 swordString="Espada Bastarda"
 ; EN: flakString="Flak2"
-flakString="Metralla 2"
+flakString="Antiaéreo 2"
 ; EN: cas12String="CAS12"
 cas12String="Escopeta CAS12"
 ; EN: proxyString="Proxies"

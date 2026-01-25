@@ -13,7 +13,7 @@ Preferences=(Caption="Cluster 3D",Parent="Audio",Class=Cluster.ClusterAudioSubsy
 ClassCaption="Cluster 3D"
 ; User facing desciption (intended to be used in startup wizard for a detailed description instead of Startup.int:Descriptions.<Package>.<Object>).
 ; EN: ClassDescription="Cluster is designed as a similiar sounding substituate to the aging Galaxy 3D Audio."
-ClassDescription="Cluster está diseñado para ser un sustituto de similar sonoridad al antiguo Audio Galaxy 3D."
+ClassDescription="Cluster está diseñado para ser un sustituto de similar sonoridad al antiguo Sonido Galaxy 3D."
 
 [General]
 ; Serialized to log on init.
