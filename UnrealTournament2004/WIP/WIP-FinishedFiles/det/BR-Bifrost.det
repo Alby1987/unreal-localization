@@ -8,47 +8,47 @@ Title="Bifrost-Basen"
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Front Room"
-LocationName="BLAUES Frontzimmer"
+LocationName="BLAUER Vorraum"
 
 [ZoneInfo12]
 ; EN: LocationName="RED Front Room"
-LocationName="ROTES vorderes Zimmer"
+LocationName="ROTER Vorraum"
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
-LocationName="Außen"
+LocationName="Aussen"
 
 [ZoneInfo14]
 ; EN: LocationName="RED Hallway"
-LocationName="ROTER Flur"
+LocationName="ROTER Korridor"
 
 [ZoneInfo15]
 ; EN: LocationName="RED Bomb Room"
-LocationName="ROTER Bombenraum"
+LocationName="ROTER Torraum"
 
 [ZoneInfo16]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLAUER Flur"
+LocationName="BLAUER Korridor"
 
 [ZoneInfo17]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLAUER Bombenraum"
+LocationName="BLAUER Torraum"
 
 [ZoneInfo2]
 ; EN: LocationName="RED Bomb Room"
-LocationName="ROTER Bombenraum"
+LocationName="ROTER Torraum"
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLAUER Flur"
+LocationName="BLAUER Korridor"
 
 [ZoneInfo5]
 ; EN: LocationName="RED Hallway"
-LocationName="ROTER Flur"
+LocationName="ROTER Korridor"
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLAUER Bombenraum"
+LocationName="BLAUER Torraum"
 
 [ZoneInfo7]
 ; EN: LocationName="RED Entrance"
@@ -57,12 +57,4 @@ LocationName="ROTER Eingang"
 [ZoneInfo9]
 ; EN: LocationName="BLUE Entrance"
 LocationName="BLAUER Eingang"
-
-[xBombDelivery0]
-; EN: DestructionMessage="Red Team Scores!"
-DestructionMessage="Rote Mannschaftsergebnisse!"
-
-[xBombDelivery1]
-; EN: DestructionMessage="Blue Team Scores!"
-DestructionMessage="Blaue Mannschaftsergebnisse!"
 

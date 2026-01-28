@@ -40,25 +40,25 @@ Message="Spreng Türen öffnen!"
 
 [DestroyableObjective_SM0]
 ; EN: DestructionMessage="Outer defenses breached!"
-DestructionMessage="Äußere Abwehrkräfte verletzt!"
+DestructionMessage="Äußere Verteidigungslinie durchbrochen!"
 ; EN: ObjectiveDescription="Destroy the gate"
-ObjectiveDescription="Zerstöre das Tor"
+ObjectiveDescription="Tor zerstören"
 ; EN: Objective_Info_Attacker="Destroy the gate"
-Objective_Info_Attacker="Zerstöre das Tor"
+Objective_Info_Attacker="Tor zerstören"
 ; EN: Objective_Info_Defender="Defend the main gate"
-Objective_Info_Defender="Verteidige das Haupttor"
+Objective_Info_Defender="Haupttor verteidigen"
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Data Cables"
 ObjectiveName="Datenkabel"
 ; EN: DestructionMessage="Data Cables Cut!"
-DestructionMessage="Datenkabel geschnitten!"
+DestructionMessage="Datenkabel durchtrennt!"
 ; EN: ObjectiveDescription="Cut the Data Cables"
-ObjectiveDescription="Schneiden Sie die Datenkabel ab"
+ObjectiveDescription="Datenkabel durchtrennen"
 ; EN: Objective_Info_Attacker="Cut the Data Cables"
-Objective_Info_Attacker="Schneiden Sie die Datenkabel ab"
+Objective_Info_Attacker="Datenkabel durchtrennen"
 ; EN: Objective_Info_Defender="Defend the data cables"
-Objective_Info_Defender="Verteidige die Datenkabel"
+Objective_Info_Defender="Datenkabel verteidigen"
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Shield Component 1"
@@ -66,11 +66,11 @@ ObjectiveName="Schildkomponente 1"
 ; EN: DestructionMessage="Shield generator destroyed!"
 DestructionMessage="Schildgenerator zerstört!"
 ; EN: ObjectiveDescription="Shatter the shield nexus"
-ObjectiveDescription="Zerschmettere den Schild-Nexus"
+ObjectiveDescription="Schildnexus vernichten"
 ; EN: Objective_Info_Attacker="Destroy shield component"
 Objective_Info_Attacker="Schildkomponente zerstören"
 ; EN: Objective_Info_Defender="Defend the shield nexus"
-Objective_Info_Defender="Verteidige den Schild-Nexus"
+Objective_Info_Defender="Schildnexus verteidigen"
 
 [DestroyableObjective_SM3]
 ; EN: ObjectiveName="Shield Component 3"
@@ -78,11 +78,11 @@ ObjectiveName="Schildkomponente 3"
 ; EN: DestructionMessage="Shield generator destroyed!"
 DestructionMessage="Schildgenerator zerstört!"
 ; EN: ObjectiveDescription="Shatter the shield nexus"
-ObjectiveDescription="Zerschmettere den Schild-Nexus"
+ObjectiveDescription="Schildnexus vernichten"
 ; EN: Objective_Info_Attacker="Destroy shield component"
 Objective_Info_Attacker="Schildkomponente zerstören"
 ; EN: Objective_Info_Defender="Defend the shield nexus"
-Objective_Info_Defender="Verteidige den Schild-Nexus"
+Objective_Info_Defender="Schildnexus verteidigen"
 
 [DestroyableObjective_SM4]
 ; EN: ObjectiveName="Shield Component 2"
@@ -90,11 +90,11 @@ ObjectiveName="Schildkomponente 2"
 ; EN: DestructionMessage="Shield generator destroyed!"
 DestructionMessage="Schildgenerator zerstört!"
 ; EN: ObjectiveDescription="Shatter the shield nexus"
-ObjectiveDescription="Zerschmettere den Schild-Nexus"
+ObjectiveDescription="Schildnexus vernichten"
 ; EN: Objective_Info_Attacker="Destroy shield component"
 Objective_Info_Attacker="Schildkomponente zerstören"
 ; EN: Objective_Info_Defender="Defend the shield nexus"
-Objective_Info_Defender="Verteidige den Schild-Nexus"
+Objective_Info_Defender="Schildnexus verteidigen"
 
 [DestroyableObjective_SM5]
 ; EN: ObjectiveName="AI Generator"
@@ -102,22 +102,23 @@ ObjectiveName="KI-Generator"
 ; EN: DestructionMessage="AI generator destroyed!"
 DestructionMessage="KI-Generator zerstört!"
 ; EN: ObjectiveDescription="Destroy the AI generator"
-ObjectiveDescription="Zerstöre den KI-Generator"
+ObjectiveDescription="KI-Generator zerstören"
 ; EN: Objective_Info_Attacker="Destroy the AI generator"
-Objective_Info_Attacker="Zerstöre den KI-Generator"
+Objective_Info_Attacker="KI-Generator zerstören"
 ; EN: Objective_Info_Defender="Defend the AI generator"
-Objective_Info_Defender="Verteidige den KI-Generator"
+Objective_Info_Defender="KI-Generator verteidigen"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Teleporter Aktivierung"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
-DestructionMessage="Neuer Spawn-Standort der Angreifer bereit"
+DestructionMessage="Neuer Erscheinungsort für Angreifer bereit"
 ; EN: ObjectiveDescription="Align the satellite dish"
-ObjectiveDescription="Richten Sie die Satellitenschüssel aus"
+ObjectiveDescription="Satellitenschüssel ausrichten"
 ; EN: Objective_Info_Attacker="Align the satellite dish"
-Objective_Info_Attacker="Richten Sie die Satellitenschüssel aus"
+Objective_Info_Attacker="Satellitenschüssel ausrichten"
 ; EN: Objective_Info_Defender="Defend the satellite controls"
-Objective_Info_Defender="Verteidige die Satellitensteuerung"
+Objective_Info_Defender="Satelliten-Schalttafel verteidigen"
 
 [LevelInfo0]
 ; EN: Title="Robot Factory"
@@ -127,10 +128,11 @@ Title="Roboterfabrik"
 ; EN: Title="Robot Factory"
 Title="Roboterfabrik"
 ; EN: Description="This scenario is a recreation of the Liandri robot uprising on the mechanical asteroid of LBX-7683 and the subsequent quelling of this rebellion by human forces. LBX-7683 was an outpost for research and development of the next generation of Liandri robots. Liandri's best scientists were able to introduce increasingly sophisticated artificial intelligence into the machines that they designed. Eventually, they rebelled against the humans and took the asteroid as their own, brutally disposing of their creators and mining the rich materials embedded within the rock for their own gain. Liandri's commanders devised a plan to strike directly at the production facility manufacturing the robots. During an all-out assault on the world, a small team was inserted with the sole goal of destroying the AI generators, thereby destroying the ability of the machines to reproduce themselves and ending this uprising."
-Description="Dieses Szenario ist eine Nachbildung des Aufstands der Liandri-Roboter auf dem mechanischen Asteroiden LBX-7683 und der anschließenden Niederschlagung dieser Rebellion durch menschliche Kräfte. LBX-7683 war ein Außenposten für die Forschung und Entwicklung der nächsten Generation von Liandri-Robotern. Die besten Wissenschaftler von Liandri waren in der Lage, immer ausgefeiltere künstliche Intelligenz in die von ihnen entwickelten Maschinen einzuführen. Schließlich rebellierten sie gegen die Menschen und nahmen den Asteroiden als ihren eigenen an, entsorgten ihre Schöpfer brutal und förderten die reichen Materialien, die in das Gestein eingebettet waren, zu ihrem eigenen Vorteil. Die Kommandeure von Liandri schmiedeten einen Plan, um direkt in der Produktionsstätte der Roboter zuzuschlagen. Während eines umfassenden Angriffs auf die Welt wurde ein kleines Team mit dem einzigen Ziel eingesetzt, die KI-Generatoren zu zerstören, damit die Fähigkeit der Maschinen zu zerstören, sich selbst zu reproduzieren und diesen Aufstand zu beenden."
+Description="Bei diesem Szenario werden der Liandri-Roboteraufstand auf dem mechanischen Asteroiden LBX-7683 und dessen spätere Niederschlagung durch die Truppen der Menschen nachgestellt. LBX-7683 war ein Forschungs-Außenposten, auf dem die nächste Generation von Liandri-Robotern entwickelt wurde. Liandris beste Wissenschaftler konnten immer ausgefeiltere künstliche Intelligenz in ihre Maschinen integrieren. Doch irgendwann rebellierten diese gegen die Menschen und übernahmen den Asteroiden, indem sie ihre Erbauer auf grausame Weise beseitigten und die wertvollen Mineralien für ihre eigenen Zwecke abbauten. Die Kommandeure von Liandri planten einen direkten Angriff auf die Produktionseinrichtung zur Herstellung der Roboter. Bei einem massiven Angriff auf diese Welt wurde ein kleines Team abgesetzt, das als einziges Ziel hatte, die KI-Generatoren zu zerstören und zu verhindern, dass die Maschinen sich selbst reproduzieren können und somit den Aufstand niederzuschlagen."
 
 [SceneSubtitles0]
-SubTitles=("This scenario is a recreation of the Liandri robot uprising on the mechanical planet of LBX-7683","and the subsequent quelling of this rebellion by human forces.","LBX-7683 was an outpost for research and development of the next generation of Liandri robots.","Liandri's best scientists were able to introduce increasingly sophisticated artificial intelligence into the machines that they designed.","Eventually, they rebelled against the humans and took the planet, and surrounding moons, as their own,","brutally disposing of their creators and mining the rich materials embedded within the rock for their own gain.","Liandri's commanders devised a plan to strike directly at the production facility manufacturing the robots.","During an all-out assault on the world, a small team was inserted with the sole goal of destroying the AI generators,","thereby destroying the ability of the machines to reproduce themselves and ending this uprising.","You have landed near the robot factory's docking and loading facilities.","Your goal is to breach the factory's defenses and destroy the AI generator.","First, you must align the Satellite Dish to contact your HeadQuarters.","Then, destroy the gate that blocks entrance to the factory.",,"Once the Factory has been infiltrated, you must cut the data cables.",,"Shatter the three components of the shield nexus to uncover the AI generator.",,"Destroy the AI generator to stop the Robot production.")
+; EN: SubTitles=("This scenario is a recreation of the Liandri robot uprising on the mechanical planet of LBX-7683","and the subsequent quelling of this rebellion by human forces.","LBX-7683 was an outpost for research and development of the next generation of Liandri robots.","Liandri's best scientists were able to introduce increasingly sophisticated artificial intelligence into the machines that they designed.","Eventually, they rebelled against the humans and took the planet, and surrounding moons, as their own,","brutally disposing of their creators and mining the rich materials embedded within the rock for their own gain.","Liandri's commanders devised a plan to strike directly at the production facility manufacturing the robots.","During an all-out assault on the world, a small team was inserted with the sole goal of destroying the AI generators,","thereby destroying the ability of the machines to reproduce themselves and ending this uprising.","You have landed near the robot factory's docking and loading facilities.","Your goal is to breach the factory's defenses and destroy the AI generator.","First, you must align the Satellite Dish to contact your HeadQuarters.","Then, destroy the gate that blocks entrance to the factory.",,"Once the Factory has been infiltrated, you must cut the data cables.",,"Shatter the three components of the shield nexus to uncover the AI generator.",,"Destroy the AI generator to stop the Robot production.")
+SubTitles=("Bei diesem Szenario werden der Liandri-Roboteraufstand auf dem mechanischen Asteroiden LBX-7683","und dessen spätere Niederschlagung durch die Truppen der Menschen nachgestellt.","LBX-7683 war ein Forschungs-Außenposten, auf dem die nächste Generation von Liandri-Robotern entwickelt wurde.","Liandris beste Wissenschaftler konnten immer ausgefeiltere künstliche Intelligenz in ihre Maschinen integrieren.","Doch irgendwann rebellierten diese gegen die Menschen und übernahmen den Asteroiden,","indem sie ihre Erbauer auf grausame Weise beseitigten und die wertvollen Mineralien für ihre eigenen Zwecke abbauten.","Die Kommandeure von Liandri planten einen direkten Angriff auf die Produktionseinrichtung zur Herstellung der Roboter.","Bei einem massiven Angriff auf diese Welt wurde ein kleines Team abgesetzt, das als einziges Ziel hatte, die KI-Generatoren zu zerstören","und zu verhindern, dass die Maschinen sich selbst reproduzieren können und somit den Aufstand niederzuschlagen.","Zu Beginn des Szenarios sind Sie gerade beim Verladedeck der Roboterfabrik gelandet.","Ihr Ziel besteht darin, die Verteidigungsanlagen der Fabrik zu durchbrechen und den KI-Generator zu zerstören.","Zunächst müssen Sie die Satellitenschüssel so ausrichten, dass Sie Kontakt zu Ihrem Hauptquartier aufnehmen können.","Zerstören Sie dann das Tor, das den Eingang zur Fabrik versperrt.",,"Sobald Sie in der Fabrik sind, müssen Sie die Datenkabel durchtrennen.",,"Vernichten Sie die drei Komponenten des Schildnexus, um an den KI-Generator heranzukommen.",,"Zerstören Sie dann den KI-Generator, um die Roboterproduktion aufzuhalten.")
 
 [Volume0]
 ; EN: LocationName="Outside the access door"
@@ -138,19 +140,19 @@ LocationName="Außerhalb der Zugangstür"
 
 [Volume1]
 ; EN: LocationName="Northern deck"
-LocationName="Norddeck"
+LocationName="Nördliches Deck"
 
 [Volume3]
 ; EN: LocationName="Attackers' staging area"
-LocationName="Staging-Bereich der Angreifer"
+LocationName="Einsatzbereich der Angreifer"
 
 [Volume4]
 ; EN: LocationName="Deck control room"
-LocationName="Deckkontrollraum"
+LocationName="Schaltzentrale des Decks"
 
 [Volume6]
 ; EN: LocationName="Southern deck"
-LocationName="Süddeck"
+LocationName="Südliches Deck"
 
 [ZoneInfo0]
 ; EN: LocationName="AI Generator"
@@ -166,27 +168,27 @@ LocationName="Verpackungskammer"
 
 [ZoneInfo12]
 ; EN: LocationName="Data transfer hall"
-LocationName="Datenübertragungshalle"
+LocationName="Datentransferhalle"
 
 [ZoneInfo13]
 ; EN: LocationName="Warehouse"
-LocationName="Lagerhaus"
+LocationName="Lagerhalle"
 
 [ZoneInfo14]
 ; EN: LocationName="Generator Control room"
-LocationName="Generatorkontrollraum"
+LocationName="Generatorschaltzentrale"
 
 [ZoneInfo15]
 ; EN: LocationName="Crusher plant"
-LocationName="Brecheranlage"
+LocationName="Press-Anlage"
 
 [ZoneInfo16]
 ; EN: LocationName="Factory entrance"
-LocationName="Werkseingang"
+LocationName="Fabrikeingang"
 
 [ZoneInfo18]
 ; EN: LocationName="Generator Control room"
-LocationName="Generatorkontrollraum"
+LocationName="Generatorschaltzentrale"
 
 [ZoneInfo2]
 ; EN: LocationName="AI Conveyor Belts"
@@ -194,11 +196,11 @@ LocationName="KI-Förderbänder"
 
 [ZoneInfo20]
 ; EN: LocationName="Warehouse"
-LocationName="Lagerhaus"
+LocationName="Lagerhalle"
 
 [ZoneInfo21]
 ; EN: LocationName="Duct to data transfer hall"
-LocationName="Kanal zur Datenübertragungshalle"
+LocationName="Gang zur Datentransferhalle"
 
 [ZoneInfo22]
 ; EN: LocationName="Packaging chamber"
@@ -210,11 +212,11 @@ LocationName="Verpackungskammer"
 
 [ZoneInfo24]
 ; EN: LocationName="Shield Generator Annex"
-LocationName="Schildgenerator-Anhang"
+LocationName="Schildgenerator-Anbau"
 
 [ZoneInfo25]
 ; EN: LocationName="Data transfer hall"
-LocationName="Datenübertragungshalle"
+LocationName="Datentransferhalle"
 
 [ZoneInfo26]
 ; EN: LocationName="AI Generator"
@@ -222,7 +224,7 @@ LocationName="KI-Generator"
 
 [ZoneInfo27]
 ; EN: LocationName="Crusher plant"
-LocationName="Brecheranlage"
+LocationName="Press-Anlage"
 
 [ZoneInfo28]
 ; EN: LocationName="AI Conveyor Belts"
@@ -230,11 +232,11 @@ LocationName="KI-Förderbänder"
 
 [ZoneInfo3]
 ; EN: LocationName="Duct to data transfer hall"
-LocationName="Kanal zur Datenübertragungshalle"
+LocationName="Gang zur Datentransferhalle"
 
 [ZoneInfo4]
 ; EN: LocationName="Data hub chamber"
-LocationName="Daten-Hub-Kammer"
+LocationName="Datenzentrum"
 
 [ZoneInfo5]
 ; EN: LocationName="Shield generators"
@@ -242,12 +244,13 @@ LocationName="Schildgeneratoren"
 
 [ZoneInfo6]
 ; EN: LocationName="Deck Control room"
-LocationName="Deckkontrollraum"
+LocationName="Schaltzentrale des Decks"
 
 [ZoneInfo7]
+; EN: LocationName="Cine Forces"
 LocationName="Cine Forces"
 
 [ZoneInfo9]
 ; EN: LocationName="Shield Generator Annex"
-LocationName="Schildgenerator-Anhang"
+LocationName="Schildgenerator-Anbau"
 

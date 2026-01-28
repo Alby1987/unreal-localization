@@ -6,45 +6,45 @@ Title="Schlucht"
 ; EN: Title="Canyon"
 Title="Schlucht"
 ; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
-Description="Heftiger, blutiger Kampf und die freie Natur – wer will mehr? Diese kleine Arena wird durch einen sich schnell bewegenden, tödlichen Fluss geteilt. Schwimmen wird NICHT empfohlen."
+Description="Eine blutrünstige Schlacht im Freien - was kann es Schöneres geben? Diese kleine Arena wird durch einen reißenden Fluss geteilt. Das Schwimmen ist hier NICHT empfehlenswert."
 
 [Volume1]
 ; EN: LocationName="Blue Sniper Roost"
-LocationName="Blaues Scharfschützenquartier"
+LocationName="BLAUER Sniper-Rastplatz"
 
 [Volume2]
 ; EN: LocationName="Blue Bomb Goal"
-LocationName="Blaues Bombenziel"
+LocationName="BLAUES Bomb-Goal"
 
 [Volume3]
 ; EN: LocationName="Blue South Spawn Pool"
-LocationName="Blauer Süd-Spawn-Pool"
+LocationName="BLAUES Einstiegs-Pool Süden"
 
 [Volume4]
 ; EN: LocationName="Blue North Spawn Pool"
-LocationName="Blauer Nord-Spawn-Pool"
+LocationName="BLAUER Einstiegs-Pool Norden"
 
 [Volume6]
 ; EN: LocationName="Red Sniper Roost"
-LocationName="Rotes Scharfschützenquartier"
+LocationName="ROTER Sniper-Rastplatz"
 
 [Volume7]
 ; EN: LocationName="Red North Spawn Pool"
-LocationName="Roter Nord-Spawn-Pool"
+LocationName="ROTER Einstiegs-Pool Norden"
 
 [Volume8]
 ; EN: LocationName="Red South Spawn Pool"
-LocationName="Roter Süd-Spawn-Pool"
+LocationName="ROTER Einstiegs-Pool Süden"
 
 [Volume9]
 ; EN: LocationName="Red Bomb Goal"
-LocationName="Rotes Bombentor"
+LocationName="ROTES Bomb-Goal"
 
 [WaterVolume0]
 ; EN: LocationName="With the Fishes"
-LocationName="Mit den Fischen"
+LocationName="Bei den Fischen"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Außen"
+LocationName="Außenbereich"
 

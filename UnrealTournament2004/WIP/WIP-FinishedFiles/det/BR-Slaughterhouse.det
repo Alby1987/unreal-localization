@@ -1,160 +1,152 @@
 [LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="Schlachthof"
+Title="Schlachthaus"
 ; EN: LevelEnterText="The Slaughterhouse"
 LevelEnterText="Das Schlachthaus"
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="Schlachthof"
+Title="Schlachthaus"
 ; EN: LevelEnterText="The Slaughterhouse"
 LevelEnterText="Das Schlachthaus"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Blaues Fleisch Lagerung"
+LocationName="Lagerhalle BLAU"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawnroom Beta"
-LocationName="Blauer Spawnraum-Beta"
+LocationName="Respawn-Raum BLAU Beta"
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Blauer Abflussraum"
+LocationName="Abflussrohr BLAU"
 
 [ZoneInfo11]
-; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Eingang zum blauen Fleischlager"
+; EN: LocationName="Blue Meat Storage Entrance"]
+LocationName="Eingang Lagerhalle BLAU Beta"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Roter Gefrierschrank"
+LocationName="Kühlraum ROT"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Rotes Bombentor"
+LocationName="Torraum ROT"
 
 [ZoneInfo14]
 ; EN: LocationName="Red Spawnroom Beta"
-LocationName="Rote Spawnroom-Beta"
+LocationName="Respawn-Raum ROT Beta"
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Flur mit rotem Rücken"
+LocationName="ROTER Korridor Hinten"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="Rote Brunnen"
+LocationName="Fontäne ROT"
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Spawnroom Alpha"
-LocationName="Blauer Spawnraum Alpha"
+LocationName="Respawn-Raum BLAU Alpha"
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Rote Kapelle"
+LocationName="Kapelle ROT"
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Rote Drainage"
+LocationName="Abflussrohr ROT"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Blaues Bombentor"
+LocationName="Torraum BLAU"
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Dieser Kerl ist Chuck. Ground Chuck im blauen Raum"
+LocationName="Zu Futter verarbeitet. Wurmfutter im BLAUEN Raum"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Spawnroom Alpha"
-LocationName="Roter Spawnraum Alpha"
+LocationName="Respawn-Raum ROT Alpha"
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Flur der Roten Säge"
+LocationName="Sägen-Korridor ROT"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauer Innenhof"
+LocationName="BLAUER Hof"
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="OOoh, er ist tot im Roten"
+LocationName="Oooh, leider gestorben"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauer Innenhof"
+LocationName="BLAUER Hof"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Blaue Haupthalle"
+LocationName="Große Halle BLAU"
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blauer Sägeflur"
+LocationName="Sägen-Korridor BLAU"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Blaues Fleisch Lagerung"
+LocationName="Lagerhalle BLAU"
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Flur der Roten Säge"
+LocationName="Sägen-Korridor ROT"
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blauer Sägeflur"
+LocationName="Sägen-Korridor BLAU"
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Rote Haupthalle"
+LocationName="Große Halle ROT"
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="Rote Pfeife"
+LocationName="ROTES Rohr"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Roter Hof"
+LocationName="ROTER Hof"
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="Blaue Pfeife"
+LocationName="BLAUES Rohr"
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Eingang zum roten Gefrierschrank"
+LocationName="Eingang Kühlraum ROT"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Blaue Kapelle"
+LocationName="Kapelle BLAU"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="Blaue Fontänen"
+LocationName="Fontäne BLAU"
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="Flur mit blauem Rücken"
+LocationName="BLAUER Korridor Hinten"
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Bombenhof"
+LocationName="Großer Ball-Hof"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Roter Hof"
+LocationName="ROTER Hof"
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Roter Gefrierschrank"
-
-[xBombDelivery0]
-; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="Blaues Bombenziel"
-
-[xBombDelivery2]
-; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Rotes Bombenziel"
+LocationName="ROTER Kühlraum"
 

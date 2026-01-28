@@ -12,55 +12,55 @@ LocationName="Mittlere Brücke"
 
 [Volume1]
 ; EN: LocationName="Red High Bridge"
-LocationName="Rote Hochbrücke"
+LocationName="Obere Brücke ROT"
 
 [Volume10]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Roter geneigter Eingang"
+LocationName="Eingang Steilhügel ROT"
 
 [Volume11]
 ; EN: LocationName="Red Entrance"
-LocationName="Roter Eingang"
+LocationName="ROTER EINGANG"
 
 [Volume12]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blauer Eingang"
+LocationName="BLAUER EINGANG"
 
 [Volume2]
 ; EN: LocationName="Red Low Bridge"
-LocationName="Rote niedrige Brücke"
+LocationName="Untere Brücke ROT"
 
 [Volume3]
 ; EN: LocationName="Blue Low Bridge"
-LocationName="Blaue niedrige Brücke"
+LocationName="Untere Brücke BLAU"
 
 [Volume4]
 ; EN: LocationName="Blue High Bridge"
-LocationName="Blaue Hochbrücke"
+LocationName="Obere Brücke BLAU"
 
 [Volume5]
 ; EN: LocationName="Blue Mesa"
-LocationName="Blauer Mesa"
+LocationName="BLAUE Hochebene"
 
 [Volume6]
 ; EN: LocationName="Red Mesa"
-LocationName="Rote Mesa"
+LocationName="ROTE Hochebene"
 
 [Volume7]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Blauer schräger Eingang"
+LocationName="Eingang Steilhügel BLAU"
 
 [Volume8]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="BLAUE Flaggenbasis"
 
 [Volume9]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="ROTE Flaggenbasis"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Blauer schräger Eingang"
+LocationName="Eingang Steilhügel BLAU"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
@@ -68,29 +68,29 @@ LocationName="Außen"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Roter geneigter Eingang"
+LocationName="Eingang Steilhügel ROT"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="ROTE Flaggenbasis"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Entrance"
-LocationName="Roter Eingang"
+LocationName="ROTER Eingang"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Entrance"
-LocationName="Roter Eingang"
+LocationName="ROTER Eingang"
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blauer Eingang"
+LocationName="BLAUER Eingang"
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blauer Eingang"
+LocationName="BLAUER Eingang"
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Zimmer mit Blauer Flagge"
+LocationName="BLAUE Flaggenbasis"
 

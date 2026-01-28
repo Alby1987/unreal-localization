@@ -6,117 +6,117 @@ Title="Absoluter Nullpunkt"
 ; EN: Title="Absolute Zero"
 Title="Absoluter Nullpunkt"
 ; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
-Description="Absolute Zero wurde ursprünglich als wissenschaftlicher Außenposten zur Untersuchung der Gletscherdrift errichtet. Im Laufe der Jahre erschütterten die globale Erwärmung und massive Erdbeben fast die Basis von seinem Fundament. Die Forscher und Wissenschaftler wurden hastig evakuiert und Liandri kaufte schnell die Basis für das Turnier. Der herzliche Empfang, den Ihr Team Ihnen entgegenbringt, kann helfen, die Minusgrade auszugleichen, aber machen Sie es sich nicht zu bequem, Ihre Feinde haben etwas viel Kälteres für Sie auf Lager..."
+Description="'Absolute Zero' ist eine ehemalige Gletscher-Forschungs- station, die durch massive Erdrutsche in Folge der globalen Erwärmung schwer in Mitleidenschaft gezogen wurde. Nachdem die Forscher und Wissenschaftler in aller Eile evakuiert worden waren, hatte Liandri diese Basis für das Tournament erworben. Eine warme Begrüßung durch die Teammitglieder mag von den Tiefsttemperaturen ablenken. Das sollte aber niemanden darüber hinweg täuschen, dass die Feinde hier eiskalt sein können ..."
 
 [Volume0]
 ; EN: LocationName="Red Lower Generator Room"
-LocationName="Roter unterer Generatorraum"
+LocationName="ROTER Generator-Raum unten"
 
 [Volume1]
 ; EN: LocationName="Blue Lower Generator Room"
-LocationName="Blauer unterer Generatorraum"
+LocationName="BLAUER Generator-Raum unten"
 
 [Volume10]
 ; EN: LocationName="Blue Lower Hall"
-LocationName="Blaue untere Halle"
+LocationName="BLAUE untere Halle"
 
 [Volume11]
 ; EN: LocationName="Red Lower Hall"
-LocationName="Rote untere Halle"
+LocationName="ROTE untere Halle"
 
 [Volume12]
 ; EN: LocationName="Red Flag Room"
-LocationName="Zimmer mit roter Flagge"
+LocationName="ROTER Flaggenraum"
 
 [Volume13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Zimmer mit Blauer Flagge"
+LocationName="BLAUER Flaggenraum"
 
 [Volume14]
 ; EN: LocationName="Blue Upper Hall A-Side"
-LocationName="Blaue obere Halle A-Seite"
+LocationName="BLAUE obere Halle A-Seite"
 
 [Volume15]
 ; EN: LocationName="Blue Upper Hall B-Side"
-LocationName="Blaue obere Halle B-Seite"
+LocationName="BLAUE obere Halle B-Seite"
 
 [Volume16]
 ; EN: LocationName="Blue Flag Stairs"
-LocationName="Treppe mit Blauer Flagge"
+LocationName="Treppe - BLAUE Flagge"
 
 [Volume17]
 ; EN: LocationName="Red Upper Hall A-Side"
-LocationName="Rote Obere Halle A-Seite"
+LocationName="ROTE obere Halle A-Seite"
 
 [Volume18]
 ; EN: LocationName="Red Upper Hall B-Side"
-LocationName="Rote Obere Halle B-Seite"
+LocationName="ROTE obere Halle B-Seite"
 
 [Volume19]
 ; EN: LocationName="Red Flag Stairs"
-LocationName="Rote Fahnentreppe"
+LocationName="Treppe - ROTE Flagge"
 
 [Volume2]
 ; EN: LocationName="Blue Upper Generator Room"
-LocationName="Blauer oberer Generatorraum"
+LocationName="BLAUER Generator-Raum oben"
 
 [Volume20]
 ; EN: LocationName="Red Upper Hall"
-LocationName="Rote Obere Halle"
+LocationName="ROTE obere Halle"
 
 [Volume21]
 ; EN: LocationName="Blue Upper Hall"
-LocationName="Blaue Obere Halle"
+LocationName="BLAUE obere Halle"
 
 [Volume23]
 ; EN: LocationName="Ion Painter Bridge"
-LocationName="Ionenmalerbrücke"
+LocationName="Ion-Painter-Brücke"
 
 [Volume24]
 ; EN: LocationName="Redeemer Bridge"
-LocationName="Erlöserbrücke"
+LocationName="Redeemer-Brücke"
 
 [Volume25]
 ; EN: LocationName="Blue Sniper Tower: Redeemer Side"
-LocationName="Blauer Scharfschützenturm: Erlöserseite"
+LocationName="BLAUER Sniper-Turm: Redeemer-Seite"
 
 [Volume26]
 ; EN: LocationName="Blue Sniper Tower: Painter Side"
-LocationName="Blauer Scharfschützenturm: Malerseite"
+LocationName="BLAUER Sniper-Turm: Painter-Seite"
 
 [Volume27]
 ; EN: LocationName="Red Sniper Tower: Redeemer Side"
-LocationName="Roter Scharfschützenturm: Erlöserseite"
+LocationName="ROTER Sniper-Turm: Redeemer-Seite"
 
 [Volume28]
 ; EN: LocationName="Red Sniper Tower: Painter Side"
-LocationName="Roter Scharfschützenturm: Malerseite"
+LocationName="ROTER Sniper-Turm: Painter-Seite"
 
 [Volume29]
 ; EN: LocationName="Blue Outside"
-LocationName="Blau außen"
+LocationName="BLAU draußen"
 
 [Volume3]
 ; EN: LocationName="Red Upper Generator Room"
-LocationName="Roter oberer Generatorraum"
+LocationName="ROTER Generator-Raum oben"
 
 [Volume30]
 ; EN: LocationName="Red Outside"
-LocationName="Rot außen"
+LocationName="ROT draußen"
 
 [Volume6]
 ; EN: LocationName="Red Lower Hall B-Side"
-LocationName="Rote untere Halle B-Seite"
+LocationName="ROTE untere Halle B-Seite"
 
 [Volume7]
 ; EN: LocationName="Red Lower Hall A-Side"
-LocationName="Rote untere Halle A-Seite"
+LocationName="ROTE untere Halle A-Seite"
 
 [Volume8]
 ; EN: LocationName="Blue Lower Hall B-Side"
-LocationName="Blaue untere Halle B-Seite"
+LocationName="BLAUE untere Halle B-Seite"
 
 [Volume9]
 ; EN: LocationName="Blue Lower Hall A-Side"
-LocationName="Blaue untere Halle A-Seite"
+LocationName="BLAUE untere Halle A-Seite"
 

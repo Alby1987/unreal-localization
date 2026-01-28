@@ -391,23 +391,23 @@ LocationName="Linker Gang"
 
 [ZoneInfo37]
 ; EN: LocationName="Attackers landing bay"
-LocationName="Landebucht der Angreifer"
+LocationName="Angreifer-Landebucht "
 
 [ZoneInfo38]
 ; EN: LocationName="Right hallway"
-LocationName="Rechter Flur"
+LocationName="Rechter Gang"
 
 [ZoneInfo39]
 ; EN: LocationName="Top energy bypass entrance"
-LocationName="Top-Energie-Bypass-Eingang"
+LocationName="Oberer Energieumleitungs-Eingang"
 
 [ZoneInfo4]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="Landebucht des Verteidigers"
+LocationName="Verteidiger-Landebucht"
 
 [ZoneInfo40]
 ; EN: LocationName="Core entrance"
-LocationName="Kerneingang"
+LocationName="Kern-Eingang"
 
 [ZoneInfo41]
 ; EN: LocationName="Core exterior"
@@ -415,35 +415,35 @@ LocationName="Kern außen"
 
 [ZoneInfo42]
 ; EN: LocationName="Core bridge passage left"
-LocationName="Kernbrückendurchgang links"
+LocationName="Kernbrücke links"
 
 [ZoneInfo43]
 ; EN: LocationName="Gravity engine room #1"
-LocationName="Schwerkraftmaschinenraum #1"
+LocationName="Schwerkraftsmaschinenraum #1"
 
 [ZoneInfo44]
 ; EN: LocationName="Gravity engine hallway left"
-LocationName="Schwerkraftmaschine Flur links"
+LocationName="Schwerkraftsmaschinen linker Gang"
 
 [ZoneInfo45]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Schwerkraftmaschine Flur rechts"
+LocationName="Schwerkraftsmaschinen rechter Gang"
 
 [ZoneInfo46]
 ; EN: LocationName="Gravity engine room #2"
-LocationName="Schwerkraftmaschinenraum #2"
+LocationName="Schwerkraftsmaschinenraum #2"
 
 [ZoneInfo47]
 ; EN: LocationName="Core bridge passage right"
-LocationName="Kernbrückendurchgang rechts"
+LocationName="Kernbrücke rechts"
 
 [ZoneInfo48]
 ; EN: LocationName="Core bridge passage right"
-LocationName="Kernbrückendurchgang rechts"
+LocationName="Kernbrücke rechts"
 
 [ZoneInfo49]
 ; EN: LocationName="Cargo hull"
-LocationName="Frachtrumpf"
+LocationName="Frachtraum"
 
 [ZoneInfo5]
 ; EN: LocationName="Energy generator #1"
@@ -451,27 +451,27 @@ LocationName="Energiegenerator #1"
 
 [ZoneInfo50]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="Frachtrumpfflur"
+LocationName="Frachtraum-Korridor"
 
 [ZoneInfo51]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Schwerkraftmaschine Flur rechts"
+LocationName="Schwerkraftsmaschinen rechter Gang"
 
 [ZoneInfo52]
 ; EN: LocationName="Core bridge passage left"
-LocationName="Kernbrückendurchgang links"
+LocationName="Kernbrücke links"
 
 [ZoneInfo53]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Schwerkraftmaschine Flur rechts"
+LocationName="Schwerkraftsmaschinen rechter Gang"
 
 [ZoneInfo54]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Schwerkraftmaschine Flur rechts"
+LocationName="Schwerkraftsmaschinen rechter Gang"
 
 [ZoneInfo55]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="Frachtrumpfflur"
+LocationName="Frachtraum-Korridor"
 
 [ZoneInfo6]
 ; EN: LocationName="Landing bay"
@@ -483,9 +483,9 @@ LocationName="Landebucht"
 
 [ZoneInfo8]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="Landebucht des Verteidigers"
+LocationName="Verteidiger-Landebucht"
 
 [ZoneInfo9]
 ; EN: LocationName="Left shaft"
-LocationName="Linke Welle"
+LocationName="Linker Schacht"
 

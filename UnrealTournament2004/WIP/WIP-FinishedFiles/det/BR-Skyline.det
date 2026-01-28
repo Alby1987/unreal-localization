@@ -8,25 +8,25 @@ Title="Horizont"
 
 [MessageTextureClient0]
 ; EN: ScrollingMessage="%lp IS WINNING WITH A SCORE OF %lf"
-ScrollingMessage="%lp GEWINNT MIT EINER PUNKTE VON %lf"
+ScrollingMessage="%lp GEWINNT MIT %lf PUNKTEN"
 
 [Volume2]
 ; EN: LocationName="Inside Blue Tower"
-LocationName="Im Blauen Turm"
+LocationName="BLAUER Turm innen"
 
 [Volume3]
 ; EN: LocationName="Central Tower"
-LocationName="Zentralturm"
+LocationName="Turm Mitte"
 
 [Volume4]
 ; EN: LocationName="Inside Red Tower"
-LocationName="Im Roten Turm"
+LocationName="ROTER Turm innen"
 
 [Volume5]
 ; EN: LocationName="Red Tower"
-LocationName="Roter Turm"
+LocationName="ROTER Turm"
 
 [Volume6]
 ; EN: LocationName="Blue Tower"
-LocationName="Blauer Turm"
+LocationName="BLAUER Turm"
 

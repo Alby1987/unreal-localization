@@ -9,6 +9,7 @@ SubLangId=0
 [Query]
 ; EN: OldVersion="The file %ls was saved by a previous version which is not backwards compatible with this one. Reading it will likely fail, and may cause a crash. Do you want to try anyway?"
 OldVersion="Die Datei %ls wurde von einer früheren Version gespeichert, die mit dieser nicht abwärtskompatibel ist. Das Lesen schlägt wahrscheinlich fehl und kann zu einem Absturz führen. Willst du es trotzdem versuchen?"
+; EN: Name="Name:"
 Name="Name:"
 ; EN: Password="Password:"
 Password="Passwort:"

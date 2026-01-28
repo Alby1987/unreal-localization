@@ -4,87 +4,87 @@ Title="Avaris"
 [LevelSummary]
 Title="Avaris"
 ; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
-Description="Einst Hauptstadt eines mächtigen Imperiums, liegt Avaris heute leer, den unerbittlichen Elementen der Wüste überlassen. Diejenigen, die hier im Turnier sterben, teilen das gleiche Schicksal."
+Description="Avaris, einst Hauptstadt eines mächtigen Reiches, liegt jetzt vergessen in einer trostlosen Wüste. Denjenigen, die hier im Tournament sterben, droht das gleiche Schicksal."
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blaue linke Vorkammer"
+LocationName="BLAUES Vorzimmer links"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauer Innenhof"
+LocationName="BLAUER Innenhof"
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Blaue Haupthalle"
+LocationName="BLAUE Haupthalle"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Right Antechamber"
-LocationName="Rote rechte Vorkammer"
+LocationName="ROTES Vorzimmer rechts"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Left Antechamber (Destroyed)"
-LocationName="Rote linke Vorkammer (zerstört)"
+LocationName="ROTES Vorzimmer links (zerstört)"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Basis - ROTE Flagge"
 
 [ZoneInfo15]
 ; EN: LocationName="Courtyard Building"
-LocationName="Hofgebäude"
+LocationName="Innenhof-Gebäude"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Right Entrance"
-LocationName="Roter rechter Eingang"
+LocationName="ROTER Eingang rechts"
 
 [ZoneInfo17]
 ; EN: LocationName="Courtyard Building"
-LocationName="Hofgebäude"
+LocationName="Innenhof-Gebäude"
 
 [ZoneInfo18]
 ; EN: LocationName="Red Left Entrance"
-LocationName="Roter linker Eingang"
+LocationName="ROTER Eingang links"
 
 [ZoneInfo19]
 ; EN: LocationName="Red Main Hall"
-LocationName="Rote Haupthalle"
+LocationName="ROTE Haupthalle"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Left Entrance"
-LocationName="Blauer linker Eingang"
+LocationName="BLAUER Eingang links"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Right Passages"
-LocationName="Rote rechte Passagen"
+LocationName="ROTE Gänge rechts"
 
 [ZoneInfo22]
 ; EN: LocationName="Red Right Courtyard"
-LocationName="Roter rechter Hof"
+LocationName="ROTER Innenhof rechts"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Left Side"
-LocationName="Blaue linke Seite"
+LocationName="Linke Seite BLAU"
 
 [ZoneInfo28]
 ; EN: LocationName="Courtyard Building"
-LocationName="Hofgebäude"
+LocationName="Innenhof-Gebäude"
 
 [ZoneInfo29]
 ; EN: LocationName="Central Courtyard"
-LocationName="Zentraler Hof"
+LocationName="Zentraler Innenhof"
 
 [ZoneInfo3]
 ; EN: LocationName="Central Area"
@@ -92,7 +92,7 @@ LocationName="Zentralbereich"
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Right Entrance"
-LocationName="Blauer rechter Eingang"
+LocationName="BLAUER Eingang rechts"
 
 [ZoneInfo31]
 ; EN: LocationName="Central Area"
@@ -100,15 +100,15 @@ LocationName="Zentralbereich"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Left Staircase"
-LocationName="Blaue linke Treppe"
+LocationName="BLAUE Treppen links"
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blaue rechte Vorkammer"
+LocationName="BLAUES Vorzimmer rechts"
 
 [ZoneInfo34]
 ; EN: LocationName="Red Left Staircase"
-LocationName="Rote linke Treppe"
+LocationName="ROTE Treppen links"
 
 [ZoneInfo35]
 ; EN: LocationName="Central Area"
@@ -116,79 +116,79 @@ LocationName="Zentralbereich"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Right Staircase"
-LocationName="Rote rechte Treppe"
+LocationName="ROTE Treppen rechts"
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo38]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Basis - ROTE Flagge"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Basis - ROTE Flagge"
 
 [ZoneInfo42]
 ; EN: LocationName="Red Courtyard"
-LocationName="Roter Hof"
+LocationName="ROTES Vorzimmer"
 
 [ZoneInfo43]
 ; EN: LocationName="Courtyard Building"
-LocationName="Hofgebäude"
+LocationName="Innenhof-Gebäude"
 
 [ZoneInfo44]
 ; EN: LocationName="Blue Left Side"
-LocationName="Blaue linke Seite"
+LocationName="Linke Seite BLAU"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blaue rechte Vorkammer"
+LocationName="BLAUES Vorzimmer rechts"
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blaue rechte Vorkammer"
+LocationName="BLAUES Vorzimmer rechts"
 
 [ZoneInfo47]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo48]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blaue rechte Vorkammer"
+LocationName="BLAUES Vorzimmer rechts"
 
 [ZoneInfo49]
 ; EN: LocationName="Red Right Side"
-LocationName="Rote rechte Seite"
+LocationName="Rechte Seite ROT"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Left Courtyard"
-LocationName="Roter linker Hof"
+LocationName="ROTER Innenhof links"
 
 [ZoneInfo50]
-; EN: LocationName="Blue Right Side"
-LocationName="Blaue rechte Seite"
+; EN: LocationName="Blue Right Side
+LocationName="Rechte Seite BLAU"
 
 [ZoneInfo51]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo52]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Basis der Blauen Flagge"
+LocationName="Basis - BLAUE Flagge"
 
 [ZoneInfo53]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Basis - ROTE Flagge"
 
 [ZoneInfo54]
 ; EN: LocationName="Red Flag Base"
-LocationName="Basis der roten Flagge"
+LocationName="Basis - ROTE Flagge"
 
 [ZoneInfo55]
 ; EN: LocationName="Blue Right Side"
-LocationName="Blaue rechte Seite"
+LocationName="Rechte Seite BLAU"
 
 [ZoneInfo56]
 ; EN: LocationName="Central Area"
@@ -200,29 +200,29 @@ LocationName="Zentralbereich"
 
 [ZoneInfo59]
 ; EN: LocationName="Red Right Side"
-LocationName="Rote rechte Seite"
+LocationName="Rechte Seite ROT"
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Right Staircase"
-LocationName="Blaue rechte Treppe"
+LocationName="BLAUE Stufen rechts"
 
 [ZoneInfo61]
 ; EN: LocationName="Red Left Side"
-LocationName="Rote linke Seite"
+LocationName="Linke Seite ROT"
 
 [ZoneInfo62]
 ; EN: LocationName="Red Left Side"
-LocationName="Rote linke Seite"
+LocationName="Linke Seite ROT"
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blaue linke Vorkammer"
+LocationName="BLAUES Vorzimmer links"
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blaue linke Vorkammer"
+LocationName="BLAUES Vorzimmer links"
 
 [ZoneInfo9]
 ; EN: LocationName="Central Courtyard"
-LocationName="Zentraler Hof"
+LocationName="Zentraler Innenhof"
 

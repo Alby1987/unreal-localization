@@ -12,146 +12,149 @@ Title="Tempel des Anubis"
 
 [ZoneInfo0]
 ; EN: LocationName="Redeemer"
-LocationName="Erlöser"
+LocationName="Redeemer"
 
 [ZoneInfo1]
 ; EN: LocationName="Super shield sand dune"
-LocationName="Super Schild Sanddüne"
+LocationName="Superschild-Düne"
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Top Entrance"
-LocationName="Blauer oberer Eingang"
+LocationName="Oberer Eingang BLAU"
 
 [ZoneInfo15]
 ; EN: LocationName="Red Base"
-LocationName="Rote Basis"
+LocationName="ROTE Basis"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Base"
-LocationName="Rote Basis"
+LocationName="ROTE Basis"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt ROTE"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo19]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt ROT"
 
 [ZoneInfo2]
-; EN: LocationName="Flak Cannon"
-LocationName="Flakkanone"
+; EN: LocationName="Rocket Launcher"
+LocationName="Rocket launcher"
 
 [ZoneInfo20]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt ROT"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt ROT"
 
 [ZoneInfo22]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt ROT"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Respawn"
-LocationName="Blauer Respawn"
+LocationName="Respawning-Punkt BLAU"
 
 [ZoneInfo25]
-LocationName="Center"
+; EN: LocationName="Center"
+LocationName="Mitte"
 
 [ZoneInfo26]
-; EN: LocationName="Rocket launcher room"
-LocationName="Raum für Raketenwerfer"
+; EN: LocationName="Flak Cannon Room"
+LocationName="Flak Cannon-Raum"
 
 [ZoneInfo27]
-; EN: LocationName="Rocket Launcher"
-LocationName="Raketenwerfer"
+; EN: LocationName="Flak Cannon"
+LocationName="Flak Cannon"
 
 [ZoneInfo28]
-; EN: LocationName="Flak Cannon"
-LocationName="Flakkanone"
+; EN: LocationName="Rocket Launcher Room"
+LocationName="Rocket launcher-Raum"
 
 [ZoneInfo29]
-LocationName="Center"
+; EN: LocationName="Center"
+LocationName="Mitte"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Respawn"
-LocationName="Roter Respawn"
+LocationName="Respawning-Punkt Rot"
 
 [ZoneInfo30]
 ; EN: LocationName="Red court yard"
 LocationName="Roter Hof"
 
 [ZoneInfo31]
+; EN: LocationName="Center"
 LocationName="Center"
 
 [ZoneInfo32]
 ; EN: LocationName="Red Courtyard"
-LocationName="Roter Hof"
+LocationName="ROTER Hof"
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Top Entrance"
-LocationName="Blauer oberer Eingang"
+LocationName="Oberer Eingang BLAU"
 
 [ZoneInfo34]
 ; EN: LocationName="Blue Top Entrance"
-LocationName="Blauer oberer Eingang"
+LocationName="Oberer Eingang BLAU"
 
 [ZoneInfo35]
 ; EN: LocationName="Red Top Entrance"
-LocationName="Roter oberer Eingang"
+LocationName="Oberer Eingang ROT"
 
 [ZoneInfo36]
 ; EN: LocationName="Blue Top Entrance"
-LocationName="Blauer oberer Eingang"
+LocationName="Oberer Eingang BLAU"
 
 [ZoneInfo37]
 ; EN: LocationName="Red Top Entrance"
-LocationName="Roter oberer Eingang"
+LocationName="Oberer Eingang ROT"
 
 [ZoneInfo38]
 ; EN: LocationName="Red Top Entrance"
-LocationName="Roter oberer Eingang"
+LocationName="Oberer Eingang ROT"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Top Entrance"
-LocationName="Roter oberer Eingang"
+LocationName="Oberer Eingang ROT"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauer Innenhof"
+LocationName="BLAUER Hof"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauer Innenhof"
+LocationName="BLAUER Hof"
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Base"
-LocationName="Blaue Basis"
+LocationName="BLAUE Basis"
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base"
-LocationName="Blaue Basis"
+LocationName="BLAUE Basis"
 

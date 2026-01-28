@@ -6,15 +6,15 @@ Title="Koloss"
 ; EN: Title="Colossus"
 Title="Koloss"
 ; EN: Description="By taking advantage of the fast moving high ground and the relative cover of the low, tactically proficient players can make their way to the flag practically unscathed.  Returning with the flag, on the other hand, is another matter altogether."
-Description="Durch die Ausnutzung der sich schnell bewegenden Höhen und der relativen Deckung des Tiefs können taktisch versierte Spieler praktisch unbeschadet an die Flagge gelangen. Die Rückkehr mit der Flagge ist dagegen eine ganz andere Sache."
+Description="Taktisch erfahrene Spieler können praktisch unversehrt zur Flagge gelangen, indem sie sich die Tatsache zunutze machen, dass man sich auf der hohen Ebene schnell fortbewegen kann und die untere Ebene viel Deckung bietet. Mit der Flagge zurückzukehren ist aber eine ganz andere Geschichte ..."
 
 [Volume0]
 ; EN: LocationName="Blue Rear Base"
-LocationName="Blaue hintere Basis"
+LocationName="Hintere BLAUE Basis"
 
 [Volume1]
 ; EN: LocationName="Blue Forward Base"
-LocationName="Blaue Vorwärtsbasis"
+LocationName="Vordere BLAUE Basis"
 
 [Volume2]
 ; EN: LocationName="Neutral Zone"
@@ -22,23 +22,17 @@ LocationName="Neutrale Zone"
 
 [Volume3]
 ; EN: LocationName="Red Forward Base"
-LocationName="Rote Vorwärtsbasis"
+LocationName="Vordere ROTE Basis"
 
 [Volume4]
 ; EN: LocationName="Red Rear Base"
-LocationName="Rote hintere Basis"
+LocationName="Hintere ROTE Basis"
 
 [ZoneInfo1]
 ; EN: LocationName="Red Bunker"
-LocationName="Roter Bunker"
+LocationName="ROTER Bunker"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bunker"
-LocationName="Blauer Bunker"
-
-[xBlueFlagBase0]
-ObjectiveName="BlueFlagBase"
-
-[xRedFlagBase0]
-ObjectiveName="RedFlagBase"
+LocationName="BLAUER Bunker"
 

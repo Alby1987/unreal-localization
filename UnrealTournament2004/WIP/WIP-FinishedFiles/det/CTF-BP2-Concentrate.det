@@ -13,16 +13,16 @@ Description="Auf diesem verlassenen Außenposten tief im Meer von Elorean gibt e
 LocationName="Rote Stachelgrube"
 
 [PhysicsVolume1]
-; EN: LocationName="Red Spike Pit"
-LocationName="Rote Stachelgrube"
+; EN: LocationName="Blue Spike Pit"
+LocationName="Blaue Stachelgrube"
 
 [PhysicsVolume2]
 ; EN: LocationName="Blue Spike Pit"
 LocationName="Blaue Stachelgrube"
 
 [PhysicsVolume3]
-; EN: LocationName="Red Spike Pit"
-LocationName="Rote Stachelgrube"
+; EN: LocationName="Blue Spike Pit"
+LocationName="Blaue Stachelgrube"
 
 [PhysicsVolume4]
 ; EN: LocationName="Red Spike Pit"
@@ -42,7 +42,7 @@ LocationName="Roter oberer Bereich"
 
 [Volume11]
 ; EN: LocationName="Red Flag Room"
-LocationName="Zimmer mit roter Flagge"
+LocationName="Roten Flaggen-Raum"
 
 [Volume12]
 ; EN: LocationName="Red Spawn Area"
@@ -61,16 +61,16 @@ LocationName="Blauer oberer Bereich"
 LocationName="Blauer oberer Bereich"
 
 [Volume6]
-; EN: LocationName="Red Flag Room"
-LocationName="Zimmer mit roter Flagge"
+; EN: LocationName="Blue Flag Room"
+LocationName="Blau Flaggen-Raum"
 
 [Volume7]
 ; EN: LocationName="Red Flag Pit"
 LocationName="Grube mit der roten Flagge"
 
 [Volume8]
-; EN: LocationName="Red Spawn Area"
-LocationName="Roter Spawn-Bereich"
+; EN: LocationName="Blue Spawn Area"
+LocationName="Blauer Spawn-Bereich"
 
 [Volume9]
 ; EN: LocationName="Red Upper Area"
