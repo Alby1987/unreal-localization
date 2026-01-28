@@ -109,8 +109,8 @@ Objective_Info_Attacker="Zničte generátor umělé inteligence"
 Objective_Info_Defender="Braňte generátor AI"
 
 [HoldObjective2]
-; EN: ObjectiveName="teleporter_activation"
-ObjectiveName="aktivace_teleportu"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Aktivace Teleportu"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="Nové umístění pro útočníky je připraveno"
 ; EN: ObjectiveDescription="Align the satellite dish"

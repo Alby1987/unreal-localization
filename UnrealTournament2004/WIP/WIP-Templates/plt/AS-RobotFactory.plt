@@ -109,8 +109,8 @@ Objective_Info_Attacker="Zniszcz generator AI"
 Objective_Info_Defender="Broń generatora AI"
 
 [HoldObjective2]
-; EN: ObjectiveName="teleporter_activation"
-ObjectiveName="teleporter_aktywacja"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Aktywacja Teleportera"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="Nowa lokalizacja odrodzenia atakujących gotowa"
 ; EN: ObjectiveDescription="Align the satellite dish"

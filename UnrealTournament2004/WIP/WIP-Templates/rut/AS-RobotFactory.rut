@@ -109,7 +109,8 @@ Objective_Info_Attacker="Уничтожьте генератор ИИ"
 Objective_Info_Defender="Защитите генератор AI"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Активация телепортатора"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="Готово новое место возрождения атакующих."
 ; EN: ObjectiveDescription="Align the satellite dish"

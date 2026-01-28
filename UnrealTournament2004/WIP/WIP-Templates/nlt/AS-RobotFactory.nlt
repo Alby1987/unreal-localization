@@ -109,7 +109,8 @@ Objective_Info_Attacker="Vernietig de AI-generator"
 Objective_Info_Defender="Verdedig de AI-generator"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Teleporter-activering"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="Nieuwe spawn-locatie van aanvallers klaar"
 ; EN: ObjectiveDescription="Align the satellite dish"

@@ -109,7 +109,8 @@ Objective_Info_Attacker="Pusztítsd el az AI generátort"
 Objective_Info_Defender="Védd meg az AI generátort"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Teleport Aktiválása"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="A támadók új költési helye készen áll"
 ; EN: ObjectiveDescription="Align the satellite dish"

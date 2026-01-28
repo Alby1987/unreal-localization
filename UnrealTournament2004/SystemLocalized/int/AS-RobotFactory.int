@@ -70,7 +70,7 @@ Objective_Info_Attacker="Destroy the AI generator"
 Objective_Info_Defender="Defend the AI generator"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+ObjectiveName="Teleporter Activation"
 DestructionMessage="Attackers' new spawn location ready"
 ObjectiveDescription="Align the satellite dish"
 Objective_Info_Attacker="Align the satellite dish"

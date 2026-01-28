@@ -109,7 +109,8 @@ Objective_Info_Attacker="Détruire le générateur d'IA"
 Objective_Info_Defender="Défendre le générateur d'IA"
 
 [HoldObjective2]
-ObjectiveName="teleporter_activation"
+; EN: ObjectiveName="Teleporter Activation"
+ObjectiveName="Activation du Téléporteur"
 ; EN: DestructionMessage="Attackers' new spawn location ready"
 DestructionMessage="Le nouvel emplacement de réapparition des attaquants est prêt"
 ; EN: ObjectiveDescription="Align the satellite dish"
