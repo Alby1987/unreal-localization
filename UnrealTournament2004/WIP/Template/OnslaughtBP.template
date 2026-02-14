@@ -1,9 +1,9 @@
 [DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
 DeathString=""
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
+; EN: FemaleSuicide="%o was killed by an artillery strike."
 FemaleSuicide=""
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
+; EN: MaleSuicide="%o was killed by an artillery strike."
 MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
@@ -64,6 +64,8 @@ VehicleNameString=""
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
 LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
 VehiclePositionString=""
 VehicleNameString="Cicada"

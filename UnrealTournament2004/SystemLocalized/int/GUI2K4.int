@@ -652,7 +652,7 @@ PanelHint=("Get the latest news from the UT2004 community...","Activate a user m
 ModHeader.Caption="The UT2004 Community"
 
 [UT2K4Movies]
-DefaultItems=((MapName="MOV-UT2004-Intro",Title="UT2004 Single Player Introduction Movie",Author="Epic Games"),(MapName="MOV-UT2-Intro",Title="UT2003 Single Player Introduction Movie",Author="Epic Games"),(MapName="TUT-BR",Title="Bombing Run Tutorial",Author="Epic Games"),(MapName="TUT-CTF",Title="Capture the Flag Tutorial",Author="Epic Games"),(MapName="TUT-DM",Title="Deathmatch Tutorial",Author="Epic Games"),(MapName="TUT-DOM",Title="Double Domination Tutorial",Author="Epic Games"),(MapName="TUT-ONS",Title="Onslaught Tutorial",Author="Epic Games"))
+DefaultItems=((MapName="MOV-UT2004-Intro",Title="UT2004 Single Player Introduction Movie",Author="Epic Games"),(MapName="MOV-UT2-Intro",Title="UT2003 Single Player Introduction Movie",Author="Epic Games"),(MapName="TUT-BR",Title="Bombing Run Tutorial",Author="Epic Games"),(MapName="TUT-CTF",Title="Capture the Flag Tutorial",Author="Epic Games"),(MapName="TUT-DM",Title="Deathmatch Tutorial",Author="Epic Games"),(MapName="TUT-DOM2",Title="Double Domination Tutorial",Author="Epic Games"),(MapName="TUT-ONS",Title="Onslaught Tutorial",Author="Epic Games"))
 lNoPreview.Caption="No Preview Available"
 lbMaps.Hint="Click a movie to see a preview and description.  Double-click to view it."
 sbMaps.Caption="Movie Selection"
@@ -1279,6 +1279,54 @@ sbSection1.Caption="Resolution"
 sbSection2.Caption="Options"
 sbSection3.Caption="Gamma Test"
 
+[UT2K4Tab_DetailSettingsWS]
+BrightnessSlider.Caption="Brightness"
+BrightnessSlider.Hint="Use the slider to adjust the Brightness to suit your monitor."
+ContrastSlider.Caption="Contrast"
+ContrastSlider.Hint="Use the slider to adjust the Contrast to suit your monitor."
+DetailCharacterDetail.Caption="Character Detail"
+DetailCharacterDetail.Hint="Changes how much character detail will be rendered."
+DetailCharacterShadows.Caption="Character Shadows"
+DetailCharacterShadows.Hint="Adjust the detail of character shadows.  'Blob' or 'None' recommended for low-performance PC's"
+DetailCoronas.Caption="Coronas"
+DetailCoronas.Hint="Enables coronas."
+DetailDecalStay.Caption="Decal Stay"
+DetailDecalStay.Hint="Changes how long weapon scarring effects stay around."
+DetailDecals.Caption="Decals"
+DetailDecals.Hint="Enables weapon scarring effects."
+DetailDecoLayers.Caption="Foliage"
+DetailDecoLayers.Hint="Enables grass and other decorative foliage."
+DetailDetailTextures.Caption="Detail Textures"
+DetailDetailTextures.Hint="Enables detail textures."
+DetailDynamicLighting.Caption="Dynamic Lighting"
+DetailDynamicLighting.Hint="Enables dynamic lights."
+DetailPhysics.Caption="Physics Detail"
+DetailPhysics.Hint="Changes the physics simulation level of detail."
+DetailProjectors.Caption="Projectors"
+DetailProjectors.Hint="Enables projectors."
+DetailTextureDetail.Caption="Texture Detail"
+DetailTextureDetail.Hint="Changes how much world detail will be rendered."
+DetailTrilinear.Caption="Trilinear Filtering"
+DetailTrilinear.Hint="Enables trilinear filtering, recommended for high-performance PCs."
+DetailWorldDetail.Caption="World Detail"
+DetailWorldDetail.Hint="Changes the level of detail used for optional geometry and effects."
+DistanceLODSlider.Caption="Fog Distance"
+DistanceLODSlider.Hint="Reduce the fog distance to improve performance."
+GammaSlider.Caption="Gamma"
+GammaSlider.Hint="Use the slider to adjust the Gamma to suit your monitor."
+MeshLOD.Caption="Dynamic Mesh LOD"
+MeshLOD.Hint="Adjusts how aggressively character and vehicle details are reduced at a distance.  Higher settings increase the distance at which details are reduced, possibly improving visual detail at a cost in performance"
+WeatherEffects.Caption="Weather Effects"
+WeatherEffects.Hint="Enable weather effects like rain-drops and lightning."
+moMaxMenuFrameRate.Caption="Menu FPS Limit"
+moMaxMenuFrameRate.Hint="This value will limit your menu max framerate."
+moMaxOfflineFrameRate.Caption="Offline FPS Limit"
+moMaxOfflineFrameRate.Hint="This value will limit your offline max framerate."
+moMaxOnlineFrameRate.Caption="Online FPS Limit"
+moMaxOnlineFrameRate.Hint="This value will limit your online max framerate."
+sbSection1.Caption="Resolution"
+sbSection3.Caption="Gamma Test"
+
 [UT2K4Tab_GameSettings]
 NetSpeedText[0]="Modem"
 NetSpeedText[1]="ISDN"
@@ -1324,6 +1372,24 @@ ViewOnlineStats.Caption="View Stats"
 ViewOnlineStats.Hint="Click to launch the UT stats website."
 WeaponAutoSwitch.Caption="Weapon Switch On Pickup"
 WeaponAutoSwitch.Hint="Automatically change weapons when you pick up a better one."
+
+[UT2K4Tab_GameSettingsWS]
+TOSURL="http://legal.epicgames.com/en-US/epicgames/tos"
+CopyGUID.Caption="Copy GUID"
+CopyGUID.Hint="Copy GUID to clipboard."
+GameBK0.Caption="Terms Of Service"
+GameBK1.Caption="Gameplay"
+GameBK5.Caption="Unique ID / Messages"
+NetworkDynamicNetspeed.Caption="Dynamic Netspeed"
+NetworkDynamicNetspeed.Hint="Netspeed is automatically adjusted based on the speed of your network connection"
+OnlineStatsName.Caption="UserName"
+OnlineStatsName.Hint="Please select a name to use for UT Stats!"
+OnlineStatsPW.Caption="Password"
+OnlineStatsPW.Hint="Please select a password that will secure your UT Stats!"
+OnlineTrackStats.Caption="Track Stats"
+OnlineTrackStats.Hint="Enable this option to join the online ranking system."
+ViewTOS.Caption="View Terms Of Service"
+ViewTOS.Hint="Click to launch the Terms Of Service website."
 
 [UT2K4Tab_GameTypeBase]
 EpicGameCaption="Default Game Types"
@@ -1413,6 +1479,18 @@ InputUseJoystick.Caption="Enable Joystick"
 InputUseJoystick.Hint="Enable this option to enable joystick support."
 SpeechBindButton.Caption="Speech Binder"
 SpeechBindButton.Hint="Configure custom keybinds for in-game messages"
+
+[UT2K4Tab_IForceSettingsWS]
+ComboInputMouseSmoothing.Caption="Mouse Smoothing"
+ComboInputMouseSmoothing.Hint="Enable this option to automatically smooth out movements in your mouse."
+InputMenuSensitivity.Caption="Mouse Sensitivity (Menus)"
+InputMenuSensitivity.Hint="Adjust mouse speed within the menus"
+InputMouseEPP.Caption="Direct Enhanced Pointer Precision"
+InputMouseEPP.Hint="Enable this option to use Windows EPP. You can set your own EPPCustomCurvePoints in UT2004.ini."
+InputMouseSensitivity.Caption="Mouse Sensitivity (Game)"
+InputMouseSensitivity.Hint="Adjust mouse sensitivity"
+InputUseJoystick.Caption="Enable Joystick"
+InputUseJoystick.Hint="Enable this option to enable joystick support."
 
 [UT2K4Tab_MainBase]
 MessageNoInfo="No information available!"
@@ -1518,7 +1596,7 @@ SelectedHint="Preferred spawn location"
 UnderAttackHint="Node is currently under attack"
 CoreHint="Main power core"
 NodeHint="Node is currently vulnerable to enemy attack"
-UnclaimedHint="Node is currently neutral and may be taken by either team"
+UnclaimedHint="Node is currently neutral and may be taken by a team with a link to it"
 LockedHint="Node is currently unlinked and may not be attacked by the enemy"
 Titles[0]="Core (Under Attack)"
 Titles[1]="Preferred Node"
@@ -1676,6 +1754,9 @@ bOk.Caption="OK"
 bRemove.Caption="Remove"
 sbBackground.Caption="Filters..."
 
+[UT2k4Browser_AllServersList]
+ColumnHeadings=(,"Server Name","GameType","Map","Players","Ping","N/A")
+
 [UT2k4Browser_BuddyList]
 ColumnHeadings=("Buddy Name")
 
@@ -1697,9 +1778,9 @@ PanelCaption="UT2004 Internet Chat Client"
 [UT2k4Browser_MOTD]
 UpgradeCaption="UPGRADE"
 VersionString="Version"
-ConnectFailed="The UT2004 master server could not be reached.  Please try again later."
+ConnectFailed="No UT2004 master server could be reached.  Please check your settings."
 ConnectTimeout="Your connection to the UT2004 master server has timed out"
-PanelCaption="News from Epic"
+PanelCaption="News"
 QuickPlay.Caption="QUICK PLAY"
 QuickPlay.Hint="Open a dialog that can help you easily find the best online server based on your criteria"
 
@@ -1841,7 +1922,7 @@ CharRace.Hint="Filter the available characters by race."
 [UT2k4ServerBrowser]
 InternetOptionsText="You have not fully configured your internet play options.  It is recommended that you configure a unique player name and review your netspeed setting before joining a multiplayer game.|Would you like to do this now?"
 PanelCaption=("News","Chat","Favorites","LAN","Buddies","Internet")
-PanelHint=("Get the latest news from Epic","UT2004 integrated IRC client","Choose a server to join from among your favorites","View all UT2004 servers currently running on your LAN","See where your buddies are currently playing, or join them in the game","Choose from hundreds of UT2004 servers across the world")
+PanelHint=("Get the latest news","UT2004 integrated IRC client","Choose a server to join from among your favorites","View all UT2004 servers currently running on your LAN","See where your buddies are currently playing, or join them in the game","Choose from hundreds of UT2004 servers across the world")
 GameTypeCombo.Caption="Game Type"
 GameTypeCombo.Hint="Choose the gametype to query"
 ServerBrowserHeader.Caption="Server Browser"
@@ -1928,7 +2009,7 @@ FontArrayNames=("2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2
 FontArrayNames=("UT2003Fonts.FontEurostile17","UT2003Fonts.FontEurostile14","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontSmallText")
 
 [fntUT2k4ServerList]
-FontArrayNames=("2K4Fonts.Verdana8")
+FontArrayNames=("2K4Fonts.Verdana8","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana12")
 
 [fntUT2k4Small]
 FontArrayNames=("2K4Fonts.FontSmallText","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14")

@@ -380,6 +380,7 @@ NewPlayerMessage="A new player entered the game."
 KickWarning="You are about to be kicked for idling!"
 NewSpecMessage="A spectator entered the game/"
 SpecEnteredMessage=" joined as a spectator."
+SomeoneBecameSpectator="Someone became a spectator."
 
 [GameProfile]
 PositionName[0]="AUTO-ASSIGN"
@@ -393,10 +394,12 @@ GRIPropsDisplayText[0]="Server Name"
 GRIPropsDisplayText[1]="Admin Name"
 GRIPropsDisplayText[2]="Admin E-Mail"
 GRIPropsDisplayText[3]="MOTD"
+GRIPropsDisplayText[4]="FQDN"
 GRIPropDescText[0]="Server name shown on server browser."
 GRIPropDescText[1]="Server administrator's name"
 GRIPropDescText[2]="Server administrator's email address."
 GRIPropDescText[3]="Message of the Day"
+GRIPropDescText[4]="Fully Qualified Domain name (if not using static IPv4)"
 
 [Gibbed]
 DeathString="%o exploded in a shower of body parts"

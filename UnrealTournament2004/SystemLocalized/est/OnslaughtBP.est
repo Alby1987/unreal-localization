@@ -1,10 +1,10 @@
 [DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
 DeathString="%k ha arruinado el desfile de %o."
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="%o ha logrado suicidarse con su propia Artillería."
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="%o ha logrado suicidarse con su propia Artillería."
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide="Un ataque de artillería se ha cargado a %o."
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide="Un ataque de artillería se ha cargado a %o."
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
@@ -64,6 +64,8 @@ VehicleNameString="Torreta Láser de Cicada"
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
 LockedMsg=" Bloqueado "
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel="En los Cañones"
 ; EN: VehiclePositionString="in a Cicada"
 VehiclePositionString="en un Cicada"
 VehicleNameString="Cicada"

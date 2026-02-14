@@ -666,6 +666,8 @@ KickWarning="¡Estás a punto de ser expulsado por inactividad!"
 NewSpecMessage="Un espectador ha entrado en la partida/"
 ; EN: SpecEnteredMessage=" joined as a spectator."
 SpecEnteredMessage=" se ha unido como espectador."
+; EN: SomeoneBecameSpectator="Someone became a spectator."
+SomeoneBecameSpectator="Alguien se ha convertido en espectador."
 
 [GameProfile]
 ; EN: PositionName[0]="AUTO-ASSIGN"
@@ -688,6 +690,8 @@ GRIPropsDisplayText[1]="Nombre de Admin."
 GRIPropsDisplayText[2]="E-mail de Admin."
 ; EN: GRIPropsDisplayText[3]="MOTD"
 GRIPropsDisplayText[3]="MDD"
+; EN: GRIPropsDisplayText[4]="FQDN"
+GRIPropsDisplayText[4]="NDCC"
 ; EN: GRIPropDescText[0]="Server name shown on Server Browser."
 GRIPropDescText[0]="Nombre de servidor mostrado en el Explorador de Servidores."
 ; EN: GRIPropDescText[1]="Server administrator's name."
@@ -696,6 +700,9 @@ GRIPropDescText[1]="Nombre del administrador del servidor."
 GRIPropDescText[2]="Dirección de correo electrónico del administrador de servidor."
 ; EN: GRIPropDescText[3]="Message of the Day"
 GRIPropDescText[3]="Mensaje del Día"
+; EN: GRIPropDescText[4]="Fully Qualified Domain name (if not using static IPv4)"
+GRIPropDescText[4]="Nombre de Dominio Completamente Calificado (NDCC/FQDN) (si no se usa dirección IPv4 estática)"
+
 
 [Gibbed]
 ; EN: DeathString="%o exploded in a shower of body parts."
