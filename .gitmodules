@@ -1,0 +1,9 @@
+[submodule "Unreal/SystemLocalized"]
+	path = Unreal/SystemLocalized
+	url = https://github.com/OldUnreal/Unreal-Localization
+[submodule "UnrealTournament/SystemLocalized"]
+	path = UnrealTournament/SystemLocalized
+	url = https://github.com/OldUnreal/UnrealTournament-Localization
+[submodule "UnrealTournament2004/SystemLocalized"]
+	path = UnrealTournament2004/SystemLocalized
+	url = https://github.com/OldUnreal/UT2004-Localization
