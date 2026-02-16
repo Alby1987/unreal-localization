@@ -29,7 +29,13 @@ This repository holds text localizations for Unreal Engine based games. Currentl
 
 (\*) Require intervention from a native speaker.
 
-Completed languages are located in the `SystemLocalized` folder. The rest of the languages, on the other hand, vary, from requiring a lot of work or be created from scratch, to just requiring the new strings to be translated. This is a long-time project, so expect incomplete stuff. Help is welcome in any regard.
+Completed languages are located in each of the games' respective repositories:
+
+* [Unreal-Localization](https://github.com/OldUnreal/Unreal-Localization)
+* [UnrealTournament-Localization](https://github.com/OldUnreal/UnrealTournament-Localization)
+* [UT2004-Localization](https://github.com/OldUnreal/UT2004-Localization)
+
+The rest of the languages, on the other hand, vary, from requiring a lot of work or be created from scratch, to just requiring the new strings to be translated. This is a long-time project, so expect incomplete stuff. Help is welcome in any regard.
 
 Also note that **the list isn't restricted to the named games and mods**. Expect more mods and games to be added as the project grows. Bear in mind, however, that we prioritize **Unreal and Unreal Tournament** due to them having actual Community Patches being worked on (more specifically, [Unreal v227](https://www.oldunreal.com/phpBB3/viewforum.php?f=51), [UT v469](https://github.com/OldUnreal/UnrealTournamentPatches)) and [UT2004](https://github.com/OldUnreal/UT2004Patches). Furthermore, localization of these games is being done specifically on these versions, so **don't expect them to work on v226\*, v436/451 or v3369 (or lower versions) without tweaks**.
 
