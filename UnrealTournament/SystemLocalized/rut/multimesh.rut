@@ -1,4 +1,4 @@
-﻿[Public]
+[Public]
 ; EN: Object=(Name=MultiMesh.TSkaarj,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Skaarj Hybrid")
 Object=(Name=MultiMesh.TSkaarj,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Скаардж-гибрид")
 ; EN: Object=(Name=MultiMesh.TNali,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Nali")
@@ -16,9 +16,9 @@ Object=(Name=MultiMesh.TSkaarjBot,Class=Class,MetaClass=BotPack.Bot,Description=
 ; EN: Object=(Name=MultiMesh.TNaliBot,Class=Class,MetaClass=BotPack.Bot,Description="Nali")
 Object=(Name=MultiMesh.TNaliBot,Class=Class,MetaClass=BotPack.Bot,Description="Нали")
 ; EN: Object=(Name=MultiMesh.TCowBot,Class=Class,MetaClass=BotPack.Bot,Description="Nali WarCow")
-Object=(Name=MultiMesh.TCowBot,Class=Class,MetaClass=BotPack.Bot,Description="Боевая корова Нал")
+Object=(Name=MultiMesh.TCowBot,Class=Class,MetaClass=BotPack.Bot,Description="Боевая корова Нали")
 ; EN: Object=(Name=MultiMesh.MultiMeshMenu,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="&Force Default Models,Use the default (Male Soldier) model instead of any custom models.")
-Object=(Name=MultiMesh.MultiMeshMenu,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="&Одна модель для всех игроков,Используйте модель по умолчанию (мужчина-солдат) вместо пользовательских моделей.")
+Object=(Name=MultiMesh.MultiMeshMenu,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="Модели по умолчанию (&F),Использовать модель по умолчанию (мужчина-солдат) вместо любых пользовательских моделей.")
 ; EN: Object=(Name=MultiMesh.TDMBonusPackMapList,Class=Class,MetaClass=Botpack.TDMmaplist,Description="Bonus Pack Maps")
 Object=(Name=MultiMesh.TDMBonusPackMapList,Class=Class,MetaClass=Botpack.TDMmaplist,Description="Бонусные карты")
 ; EN: Object=(Name=MultiMesh.CTFBonusPackMapList,Class=Class,MetaClass=Botpack.CTFmaplist,Description="Bonus Pack Maps")
@@ -26,11 +26,11 @@ Object=(Name=MultiMesh.CTFBonusPackMapList,Class=Class,MetaClass=Botpack.CTFmapl
 
 [CustomBot]
 ; EN: MenuName="Custom Player"
-MenuName="Пользовательский плеер"
+MenuName="Свой игрок"
 
 [customplayer]
 ; EN: MenuName="Custom Player"
-MenuName="Пользовательский плеер"
+MenuName="Свой игрок"
 
 [tcow]
 ; EN: MenuName="Nali Cow"
@@ -58,9 +58,9 @@ MenuName="Скаардж-гибрид"
 
 [multimeshmenu]
 ; EN: MenuCaption="&Force Default Models"
-MenuCaption="&Одна модель для всех игроков"
+MenuCaption="Модели по умолчанию (&F)"
 ; EN: MenuHelp="Use the default (Male Soldier) model instead of any custom models."
-MenuHelp="Используйте модель по умолчанию (мужчина-солдат) вместо пользовательских моделей."
+MenuHelp="Использовать модель по умолчанию (мужчина-солдат) вместо любых пользовательских моделей."
 
 [skaarjvoice]
 TauntString[0]="$#%#!"
@@ -68,13 +68,13 @@ TauntString[1]="%&$##!"
 TauntString[2]="*@#&$!"
 
 [CowVoice]
-AckString[0]="Moo!"
-AckString[1]="Moo!"
-FFireString[0]="Moo!"
-FFireString[1]="Moo!"
-FFireAbbrev[1]="Moo!"
-TauntString[0]="Moo!"
-TauntString[1]="Moo!"
+AckString[0]="Му-у!"
+AckString[1]="Му-у!"
+FFireString[0]="Му-у!"
+FFireString[1]="Му-у!"
+FFireAbbrev[1]="Му-у!"
+TauntString[0]="Му-у!"
+TauntString[1]="Му-у!"
 
 [nalivoice]
 AckString[0]="Habouji!"

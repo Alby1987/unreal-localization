@@ -1,4 +1,4 @@
-﻿;
+;
 ; Language:  Russian
 ; Author(s): OldUnreal Team
 ; Date:      20210629
@@ -13,7 +13,7 @@ Preferences=(Caption="Cluster 3D",Parent="Audio",Class=Cluster.ClusterAudioSubsy
 ClassCaption="Cluster 3D"
 ; User facing desciption (intended to be used in startup wizard for a detailed description instead of Startup.int:Descriptions.<Package>.<Object>).
 ; EN: ClassDescription="Cluster is designed as a similiar sounding substituate to the aging Galaxy 3D Audio."
-ClassDescription="Cluster разработан как аналогичный по звучанию заменитель стареющего Galaxy 3D Audio."
+ClassDescription="Cluster разработан как аналогичный по звучанию заменитель устаревающего Galaxy 3D Audio."
 
 [General]
 ; Serialized to log on init.
@@ -27,7 +27,7 @@ Exit="Cluster выключен."
 ExitAfterError="Cluster отключился после ошибки."
 ; Serialized to log on init in case -No3dSound switch was used on the commandline which forces Use3dHardware option to be ignored.
 ; EN: No3dSoundSwitch="-No3dSound switch found. Use3dHardware option will be ignored by Cluster."
-No3dSoundSwitch="-No3dSound-переключатель найден. Параметр Use3dHardware будет проигнорирован Cluster."
+No3dSoundSwitch="Обнаружен параметр -No3dSound. Опция Use3dHardware будет проигнорирована Cluster."
 ; Cluster will use some heuristics to determine whether it should or should not patch the environment (won't patch if Launch is detected in Deus Ex, never on Unreal 227 or UT, etc.).
 ; EN: ClusterFuck="Cluster injected binary patches for broken audio functionality into Engine package. You can use -NoClusterFuck to disable it."
 ClusterFuck="Cluster внедрил бинарные патчи для исправления звука в пакет Engine. Вы можете использовать -NoClusterFuck, чтобы отключить его."
@@ -51,7 +51,7 @@ MonoSoundExpected="%ls имеет %i каналов."
 SystemCreate="Не удалось создать системный объект FMOD: %ls."
 ; Displayed on a message box in case fmod.dll is available, Cluster.dll loads with it, but is a version prior to the one Cluster was build with.
 ; EN: Version="Cluster expects a minimum FMOD library version %ls, but version was %ls found."
-Version="Cluster ожидает минимальную версию библиотеки FMOd %ls, но найдена версия %ls."
+Version="Cluster требует FMOD как минимум версии %ls, но найдена версия %ls."
 ; For some reasons FMOD fails at basic init. First format option is an FMOD supplied english error description.
 ; EN: SystemInit="Failed to initialize FMOD system object: %ls."
 SystemInit="Не удалось инициализировать системный объект FMOD: %ls."
