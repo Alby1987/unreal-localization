@@ -1,5 +1,11 @@
 # OldUnreal Localization Project Repository
 
+**NOTE:** This is the general repository for all things Unreal Engine localization. For the respective localizations for each main game, be sure to check the dedicated repos:
+
+* [Unreal-Localization](https://github.com/OldUnreal/Unreal-Localization) for Unreal v227*
+* [UnrealTournament-Localization](https://github.com/OldUnreal/UnrealTournament-Localization) for Unreal Tournament v469*
+* [UT2004-Localization](https://github.com/OldUnreal/UT2004-Localization) for Unreal Tournament 2004 v3374*
+
 ## About
 This repository holds text localizations for Unreal Engine based games. Currently the localization project manages three games in several languages: Unreal (v227 patch onwards), Unreal Tournament (v469 patch onwards) and Unreal Tournament 2004 (v3374 patch onwards), with other two receiving partial/WIP support (Unreal Tournament 2003 and Wheel of Time). There are also empty templates for extra language support (.template). More languages can be added to games and mods with available templates. **NOT ALL LANGUAGES ARE COMPLETE**,. A language is considered complete when it can work without most problems under the game it's meant to be on. Here's the situation so far:
 
