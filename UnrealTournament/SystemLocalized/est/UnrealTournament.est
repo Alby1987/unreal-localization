@@ -1,9 +1,0 @@
-﻿[General]
-; EN: Start="Unreal Tournament (Starting)"
-Start="Unreal Tournament (Iniciando)"
-; EN: Exit="Unreal Tournament (Exiting)"
-Exit="Unreal Tournament (Saliendo)"
-; EN: Run="Unreal Tournament (Running)"
-Run="Unreal Tournament (Ejecutando)"
-Product="Unreal Tournament"
-Abbreviation="UT"
