@@ -6,15 +6,15 @@ Title="Sérénité"
 ; EN: Title="Serenity"
 Title="Sérénité"
 ; EN: Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
-Description="Sentez la douce brise sur votre peau, entendez les sons apaisants de la forêt, regardez les lucioles danser dans la clairière et abandonnez-vous à un sentiment croissant de sérénité. Maintenant... récupérez votre Flak Cannon et faites des ravages !"
+Description="Sentez la brise sur votre peau, écoutez les doux bruits de la forêt, observez les lucioles qui dansent dans la clairière et abandonnez-vous à la sérénité. Maintenant... saisissez votre Flak Cannon et déchaînez l'enfer !"
 
 [Volume1]
 ; EN: LocationName="blue side of center field"
-LocationName="côté bleu du champ central"
+LocationName="camp bleu - partie centrale"
 
 [Volume2]
 ; EN: LocationName="center field"
-LocationName="champ central"
+LocationName="partie centrale"
 
 [Volume3]
 ; EN: LocationName="red base"
@@ -22,11 +22,11 @@ LocationName="base rouge"
 
 [Volume4]
 ; EN: LocationName="red side of center field"
-LocationName="côté rouge du champ central"
+LocationName="camp rouge - partie centrale"
 
 [Volume5]
 ; EN: LocationName="blue base"
-LocationName="fond bleu"
+LocationName="base bleue"
 
 [WaterVolume0]
 ; EN: LocationName="in a watery grave"
@@ -38,13 +38,13 @@ LocationName="dans une tombe aquatique"
 
 [WaterVolume2]
 ; EN: LocationName="hiding in the center field waterfall"
-LocationName="se cacher dans la cascade du champ central"
+LocationName="se cachant dans la cascade centrale"
 
 [xFallingVolume0]
 ; EN: LocationName="falling to a watery grave"
-LocationName="tomber dans une tombe aquatique"
+LocationName="tombant vers une fin humide"
 
 [xFallingVolume1]
 ; EN: LocationName="falling to a watery grave"
-LocationName="tomber dans une tombe aquatique"
+LocationName="tombant vers une fin humide"
 
