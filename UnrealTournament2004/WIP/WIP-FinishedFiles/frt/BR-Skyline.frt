@@ -12,7 +12,7 @@ ScrollingMessage="%lp GAGNE AVEC UN SCORE DE %lf"
 
 [Volume2]
 ; EN: LocationName="Inside Blue Tower"
-LocationName="À l'intérieur de la tour bleue"
+LocationName="Dans la tour bleue"
 
 [Volume3]
 ; EN: LocationName="Central Tower"
@@ -20,13 +20,13 @@ LocationName="Tour centrale"
 
 [Volume4]
 ; EN: LocationName="Inside Red Tower"
-LocationName="À l'intérieur de la tour rouge"
+LocationName="Dans la tour rouge"
 
 [Volume5]
 ; EN: LocationName="Red Tower"
-LocationName="Tour Rouge"
+LocationName="Tour rouge"
 
 [Volume6]
 ; EN: LocationName="Blue Tower"
-LocationName="Tour Bleue"
+LocationName="Tour bleue"
 

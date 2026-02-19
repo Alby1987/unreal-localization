@@ -12,35 +12,35 @@ LevelEnterText="L'abattoir"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Stockage de la viande bleue"
+LocationName="Stocks de viande bleue"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawnroom Beta"
-LocationName="Bêta de la salle d'apparition bleue"
+LocationName="Point de réapparition bleu béta"
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Salle de vidange bleue"
+LocationName="Salle d'égoût bleue"
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Entrée de stockage de viande bleue"
+LocationName="Entrée Stocks de viande bleue"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Congélateur rouge"
+LocationName="Chambre froide rouge"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Porte de la bombe rouge"
+LocationName="Porte bombe rouge"
 
 [ZoneInfo14]
 ; EN: LocationName="Red Spawnroom Beta"
-LocationName="Bêta de la salle d'apparition rouge"
+LocationName="Point de réapparition rouge béta"
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Couloir arrière rouge"
+LocationName="Couloir de derrière rouge"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
@@ -48,75 +48,75 @@ LocationName="Fontaines rouges"
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Spawnroom Alpha"
-LocationName="Salle de réapparition bleue Alpha"
+LocationName="Point de réapparition bleu alpha"
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Chapelle Rouge"
+LocationName="Chapelle rouge"
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Drainage Rouge"
+LocationName="Egoût rouge"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Porte de la bombe bleue"
+LocationName="Porte bombe bleue"
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Ce type est Chuck. Ground Chuck dans la salle bleue"
+LocationName="Ce mec est Chuck.  Alignez Chuck dans la salle bleue"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Spawnroom Alpha"
-LocationName="Alpha de la salle de réapparition rouge"
+LocationName="Point de réapparition rouge alpha"
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Couloir Scie Rouge"
+LocationName="Couloir scie rouge"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Cour Bleue"
+LocationName="Court bleue"
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="OOoh, il est mort dans le rouge"
+LocationName="OOoh, il est mort dans le ROUGE"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Cour Bleue"
+LocationName="Court bleue"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Salle principale bleue"
+LocationName="Hall principal bleu"
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Couloir de la scie bleue"
+LocationName="Couloir scie bleu"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Stockage de la viande bleue"
+LocationName="Stocks de viande bleue"
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Couloir Scie Rouge"
+LocationName="Couloir scie rouge"
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Couloir de la scie bleue"
+LocationName="Couloir scie bleu"
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Salle principale rouge"
+LocationName="Hall principal rouge"
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="Pipe rouge"
+LocationName="Tuyau rouge"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Cour Rouge"
+LocationName="Court rouge"
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
@@ -124,11 +124,11 @@ LocationName="Tuyau bleu"
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Entrée du congélateur rouge"
+LocationName="Entrée chambre froide rouge"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Chapelle Bleue"
+LocationName="Chapelle bleue"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
@@ -136,25 +136,17 @@ LocationName="Fontaines bleues"
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="couloir arrière bleu"
+LocationName="Couloir de derrière bleu"
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Cour des bombes"
+LocationName="Court de la bombe"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Cour Rouge"
+LocationName="Court de la bombe rouge"
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Congélateur rouge"
-
-[xBombDelivery0]
-; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="Bombardier bleu"
-
-[xBombDelivery2]
-; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Bombardier rouge"
+LocationName="Chambre froide rouge"
 
