@@ -10,7 +10,7 @@ Title="Erfrierung"
 ; EN: Title="Frostbite"
 Title="Erfrierung"
 ; EN: Description="Don't be deceived by the apparent simplicity found in this frozen waste. Although it's among the smallest arenas for Onslaught, Frostbite is defined by frenetic pace and pitched battles."
-Description="Lassen Sie sich nicht von der scheinbaren Einfachheit dieses gefrorenen Abfalls täuschen. Obwohl es eine der kleinsten Arenen für Onslaught ist, wird Frostbite durch frenetisches Tempo und offene Schlachten definiert."
+Description="Lassen Sie sich nicht von der scheinbaren Einfachheit dieser Eiswüste täuschen. Auch wenn sie eine der kleinsten Arenen für Onslaught ist, sind auf Frostbite hitzige Gefechte und erbitterte Schlachten an der Tagesordnung."
 
 [MessageTrigger0]
 Message="Peter Respondek"
@@ -31,8 +31,7 @@ Message="Jeff Geis"
 Message="David Sirmons"
 
 [MessageTrigger4]
-; EN: Message="Matt Oelfke"
-Message="Matt Ölfke"
+Message="Matt Oelfke"
 
 [MessageTrigger5]
 Message="Stuart Fitzsimmons"
@@ -51,43 +50,43 @@ Message="Dave Hagewood"
 
 [PhysicsVolume51]
 ; EN: LocationName="Secret Underground Hiding Place"
-LocationName="Geheimes unterirdisches Versteck"
+LocationName="Geheimes Untergrundversteck"
 
 [Volume18]
 ; EN: LocationName="Southeast Valley"
-LocationName="Südost-Tal"
+LocationName="Südosttal"
 
 [Volume19]
 ; EN: LocationName="Southwest Lake"
-LocationName="Südwestsee"
+LocationName="ROTER See"
 
 [Volume20]
 ; EN: LocationName="Northwest Lake"
-LocationName="Nordwestsee"
+LocationName="BLAUER See"
 
 [Volume21]
 ; EN: LocationName="Northeast Valley"
-LocationName="Nordost-Tal"
+LocationName="Nordosttal"
 
 [Volume22]
 ; EN: LocationName="Central Lake"
-LocationName="Zentraler See"
+LocationName="Mittlerer See"
 
 [Volume23]
 ; EN: LocationName="Northern Canyon"
-LocationName="Nördlicher Canyon"
+LocationName="BLAUE Schlucht"
 
 [Volume24]
 ; EN: LocationName="Southern Canyon"
-LocationName="Südlicher Canyon"
+LocationName="ROTE Schlucht"
 
 [Volume25]
 ; EN: LocationName="Unspecified"
-LocationName="Nicht spezifiziert"
+LocationName="Südost Knoten"
 
 [Volume26]
 ; EN: LocationName="Unspecified"
-LocationName="Nicht spezifiziert"
+LocationName="Nordost Knoten"
 
 [Volume27]
 ; EN: LocationName="Central Mountain"
@@ -107,15 +106,15 @@ LocationName="Süd"
 
 [Volume8]
 ; EN: LocationName="Unspecified"
-LocationName="Nicht spezifiziert"
+LocationName="Zentral Basis"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blauer Eingang"
+LocationName="Eingang BLAU"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Tower"
-LocationName="Blauer Turm"
+LocationName="BLAUER Turm"
 
 [ZoneInfo10]
 ; EN: LocationName="Outside"
@@ -127,7 +126,7 @@ LocationName="Außen"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Tower"
-LocationName="Roter Turm"
+LocationName="ROTER Turm"
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
@@ -135,7 +134,7 @@ LocationName="Außen"
 
 [ZoneInfo2]
 ; EN: LocationName="Red Tower"
-LocationName="Roter Turm"
+LocationName="ROTER Turm"
 
 [ZoneInfo3]
 ; EN: LocationName="Outside"
@@ -143,11 +142,11 @@ LocationName="Außen"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Tower"
-LocationName="Roter Turm"
+LocationName="ROTER Turm"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Tower"
-LocationName="Blauer Turm"
+LocationName="BLAUER Turm"
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
@@ -155,7 +154,7 @@ LocationName="Außen"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Tower"
-LocationName="Roter Turm"
+LocationName="ROTER Turm"
 
 [ZoneInfo8]
 ; EN: LocationName="Outside"

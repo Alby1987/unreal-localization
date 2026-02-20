@@ -1,32 +1,32 @@
 [LevelInfo0]
 ; EN: Title="Red Planet"
-Title="roter Planet"
+Title="Roter Planet"
 
 [LevelSummary]
 ; EN: Title="Red Planet"
-Title="roter Planet"
+Title="Roter Planet"
 ; EN: Description="Deep-space exploration has revealed a phenomenon never before observed-a planetary system with NO sun. Infra-Red light reacting with carbon dioxide in the high atmosphere bathes the planet in a searing, blood-red glow. Experiments have shown that more than 18 hours on this planet will cause irreversible insanity. You won't live that long..."
-Description="Die Erforschung des Weltraums hat ein noch nie zuvor beobachtetes Phänomen enthüllt - ein Planetensystem ohne Sonne. Infrarotlicht, das mit Kohlendioxid in der hohen Atmosphäre reagiert, taucht den Planeten in ein sengendes, blutrotes Leuchten. Experimente haben gezeigt, dass mehr als 18 Stunden auf diesem Planeten irreversiblen Wahnsinn verursachen. So lange wirst du nicht leben..."
+Description="Bei Forschungen im Weltraum stieß man auf ein bisher unbekanntes Phänomen in einem sonnenlosen Planetensystem. Infrarotlicht, das mit Kohlendioxid in einer hohen Schicht der Atmosphäre reagiert, badet den Planeten in ein stechendes, blutrotes Glühen. Experimente haben gezeigt, dass mehr als 18 Stunden auf diesem Planeten zu irreversiblem Wahnsinn führen. So lange werden Sie aber sowieso nicht am Leben bleiben ..."
 
 [Volume4]
 ; EN: LocationName="Southwest Node"
-LocationName="Südwestknoten"
+LocationName="Südwest Knoten"
 
 [Volume5]
 ; EN: LocationName="Northwest Node"
-LocationName="Nordwestknoten"
+LocationName="Nordwest Knoten"
 
 [Volume6]
 ; EN: LocationName="Central Node"
-LocationName="Zentraler Knoten"
+LocationName="Mittlerer Knoten"
 
 [Volume7]
 ; EN: LocationName="Southeast Node"
-LocationName="Südostknoten"
+LocationName="Südost Knoten"
 
 [Volume8]
 ; EN: LocationName="Northeast Node"
-LocationName="Nordostknoten"
+LocationName="Nordost Knoten"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"

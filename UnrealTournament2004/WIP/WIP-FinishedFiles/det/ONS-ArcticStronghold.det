@@ -6,23 +6,23 @@ Title="Arktische Festung"
 ; EN: Title="Arctic Stronghold"
 Title="Arktische Festung"
 ; EN: Description="Stationed at 24,000 feet and veiled behind blinding fog and constant snow, Arctic Stronghold provided the perfect place to conduct unsanctioned military experiments for use against the Skaarj. Restructured for Onslaught, this arena allows several paths to your enemy, and countless paths to death for the foolish or unwary."
-Description="Auf 24.000 Fuß stationiert und hinter blendenden Nebel und konstantem Schnee verborgen, war Arctic Stronghold der perfekte Ort, um nicht genehmigte militärische Experimente gegen die Skaarj durchzuführen. Diese Arena wurde für den Ansturm umstrukturiert und bietet verschiedene Wege zu Ihrem Feind und unzählige Wege in den Tod für die Dummen oder Unvorsichtigen."
+Description="Die Arctic Stronghold liegt auf einer Höhe von rund 7 km und ist hinter Nebel und konstantem Schneegestöber verborgen. Es ist der perfekte Ort, um nicht genehmigte Militärexperimente zur späteren Verwendung gegen die Skaarj durchzuführen. Diese Arena wurde für Onslaught umgebaut und ermöglicht mehrere Wege zu Ihrem Feind - und zahllose Wege für Narren oder Unaufmerksame in den Tod ..."
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Rote Basis"
+LocationName="ROTE Basis"
 
 [Volume14]
 ; EN: LocationName="Blue Base"
-LocationName="Blaue Basis"
+LocationName="BLAUE Basis"
 
 [Volume15]
 ; EN: LocationName="North Node"
-LocationName="Nordknoten"
+LocationName="Nord Knoten"
 
 [Volume16]
 ; EN: LocationName="East Node"
-LocationName="Ostknoten"
+LocationName="Ost Knoten"
 
 [Volume17]
 ; EN: LocationName="Central Node"
@@ -30,11 +30,11 @@ LocationName="Zentraler Knoten"
 
 [Volume18]
 ; EN: LocationName="South Node"
-LocationName="Südknoten"
+LocationName="Süd Knoten"
 
 [Volume19]
 ; EN: LocationName="West Node"
-LocationName="Westknoten"
+LocationName="West Knoten"
 
 [Volume20]
 ; EN: LocationName="Bridge"

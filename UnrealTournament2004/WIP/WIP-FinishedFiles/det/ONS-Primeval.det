@@ -6,29 +6,29 @@ Title="Urzeit"
 ; EN: Title="Primeval"
 Title="Urzeit"
 ; EN: Description="Nestled away in the darkness of the Primeval Forest, this Onslaught arena is a favorite of loggers and treehuggers alike."
-Description="Eingebettet in die Dunkelheit des Urwalds ist diese Ansturm-Arena bei Holzfällern und Baumfressern gleichermaßen beliebt."
+Description="Diese Onslaught-Arena liegt mitten im Urwald und gehört somit zu den Lieblingsarenen von Holzarbeitern und Baumstreichlern."
 
 [Volume0]
 ; EN: LocationName="Red Base"
-LocationName="Rote Basis"
+LocationName="ROTE Basis"
 
 [Volume2]
 ; EN: LocationName="Red Side Base"
-LocationName="Rote Seitenbasis"
+LocationName="ROTE Seitenbasis"
 
 [Volume3]
 ; EN: LocationName="Center Node"
-LocationName="Zentraler Knoten"
+LocationName="Mittlerer Knoten"
 
 [Volume4]
 ; EN: LocationName="Blue Side Base"
-LocationName="Blaue Seitenbasis"
+LocationName="BLAUE Seitenbasis"
 
 [Volume5]
 ; EN: LocationName="Blue Base"
-LocationName="Blaue Basis"
+LocationName="BLAUE Basis"
 
 [ZoneInfo0]
 ; EN: LocationName="Wandering in the woods"
-LocationName="Wandern im Wald"
+LocationName="Wandern in den Wäldern"
 
