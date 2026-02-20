@@ -8,12 +8,5 @@ Title="Kern"
 
 [ZoneInfo2]
 ; EN: LocationName="A entry"
-LocationName="Ein Eintrag"
-
-[xDomPointA0]
-; EN: ObjectiveName="DPA"
-ObjectiveName="Datenschutz"
-
-[xDomPointB0]
-ObjectiveName="DPB"
+LocationName="Eingang A"
 

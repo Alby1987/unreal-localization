@@ -8,21 +8,21 @@ Title="Zerstörung"
 
 [Volume0]
 ; EN: LocationName="Open Ground"
-LocationName="Offenes Gelände"
+LocationName="Freies Feld"
 
 [Volume1]
 ; EN: LocationName="DOM Point A"
-LocationName="DOM-Punkt A"
+LocationName="Dom. Punkt A"
 
 [Volume2]
 ; EN: LocationName="DOM Point B"
-LocationName="DOM-Punkt B"
+LocationName="Dom. Punkt B"
 
 [Volume3]
 ; EN: LocationName="Point B Ruins"
-LocationName="Ruinen von Punkt B"
+LocationName="Punkt-B-Ruinen"
 
 [Volume5]
 ; EN: LocationName="Point A Ruins"
-LocationName="Point-A-Ruinen"
+LocationName="Punkt-A-Ruinen"
 

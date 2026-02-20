@@ -6,15 +6,15 @@ Title="Wiederauflebend"
 ; EN: Title="Renascent"
 Title="Wiederauflebend"
 ; EN: Description="Deep within the Gen Mo' kai forests lies the key to rebirth.  Unfortunately for tournament participants that manage to find this arena, that key happens to be death."
-Description="Tief in den Wäldern von Gen Mo' Kai liegt der Schlüssel zur Wiedergeburt. Leider ist dieser Schlüssel für Turnierteilnehmer, die es schaffen, diese Arena zu finden, der Tod."
+Description="Tief in den Gen'Mokai-Wäldern verborgen liegt der Schlüssel zur Wiedergeburt. Für die unglücklichen Tournament-Teilnehmer, die ihn finden, bedeutet dieser Schlüssel den Tod."
 
 [Volume0]
 ; EN: LocationName="Point B Ridge"
-LocationName="Punkt B Grat"
+LocationName="Punkt-B-Grat"
 
 [Volume1]
 ; EN: LocationName="Point A Ridge"
-LocationName="Punkt A Ridge"
+LocationName="Punkt-A-Grat"
 
 [Volume2]
 ; EN: LocationName="Middle Valley"
@@ -30,5 +30,5 @@ LocationName="Power-Up-Brücke"
 
 [ZoneInfo0]
 ; EN: LocationName="Spawn Areas"
-LocationName="Spawn-Bereiche"
+LocationName="Einstiegs-Gebiete"
 

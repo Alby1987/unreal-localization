@@ -1,10 +1,12 @@
 [LevelInfo0]
+; EN: Title="Atlantis"
 Title="Atlantis"
 
 [LevelSummary]
+; EN: Title="Atlantis"
 Title="Atlantis"
 ; EN: Description="This great, mythical metropolis may have sunk to the darkest depths of the ocean, but that doesn't necessarily mean it's off limits to the Tournament. Even though it's located 20,000 leagues under the sea, strange Atlantean powers ensure that the competitors won't get so much as a toe wet."
-Description="Diese großartige, mythische Metropole mag in die dunkelsten Tiefen des Ozeans versunken sein, aber das bedeutet nicht unbedingt, dass sie für das Turnier tabu ist. Obwohl es 20.000 Meilen unter dem Meer liegt, sorgen seltsame atlantische Mächte dafür, dass die Konkurrenten nicht auch nur einen Zeh nass werden."
+Description="Obwohl diese mystische Stadt vor langer Zeit in den Tiefen des Ozeans versank, steht sie doch für das Tournament zur Verfügung. Auch 20.000 Meilen unter der Meeresoberfläche sorgen seltsame atlantische Kräfte dafür, dass keiner der Teilnehmer nasse Füße bekommt."
 
 [Volume0]
 ; EN: LocationName="DOM Point B"
@@ -48,7 +50,7 @@ LocationName="Flakkanone"
 
 [ZoneInfo5]
 ; EN: LocationName="Central Chamber"
-LocationName="Zentralkammer"
+LocationName="Mittelkammer"
 
 [ZoneInfo6]
 ; EN: LocationName="Flak Cannon"
@@ -65,11 +67,4 @@ LocationName="Flakkanone"
 [ZoneInfo9]
 ; EN: LocationName="Rocket Launcher"
 LocationName="Raketenwerfer"
-
-[xDomPointA0]
-; EN: ObjectiveName="DPA"
-ObjectiveName="Datenschutz"
-
-[xDomPointB1]
-ObjectiveName="DPB"
 

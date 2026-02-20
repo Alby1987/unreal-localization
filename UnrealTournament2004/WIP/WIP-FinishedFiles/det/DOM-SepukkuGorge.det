@@ -8,23 +8,23 @@ Title="Sepukku-Schlucht"
 
 [Volume0]
 ; EN: LocationName="Near Point B"
-LocationName="In der Nähe von Punkt B"
+LocationName="Bei Punkt B"
 
 [Volume1]
 ; EN: LocationName="Near Point A"
-LocationName="In der Nähe von Punkt A"
+LocationName="Bei Punkt A"
 
 [Volume2]
 ; EN: LocationName="On The Bridges"
-LocationName="Auf den Brücken"
+LocationName="Auf Brücke"
 
 [Volume3]
 ; EN: LocationName="Red Cave"
-LocationName="Rote Höhle"
+LocationName="ROTE Höhle"
 
 [Volume4]
 ; EN: LocationName="Blue Cave"
-LocationName="Blaue Höhle"
+LocationName="BLAUE Höhle"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
